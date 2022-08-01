@@ -39,14 +39,14 @@
 
 <div   id="intro-example"  class="p-5 text-center bg-image"     style="background-image: url('https://mdbcdn.b-cdn.net/img/new/slides/041.webp');" >
 
- <div id="logoA">
+ <div class="mask" style="background-color:rgba(0,0,0,0.7)">
 
-       <div id="labelc" style=" display:table-cell; vertical-align: middle; width: 40vw;    color:black; font-weight: bold; " >
-          <div style=" margin-top: 20px; line-height: 30px; margin:30px auto; background-color: #ffffff;  opacity:0.6; ">
-           <p style="font-family: 'Lato', sans-serif; text-shadow: 2px 2px white; font-size:30px;color: black; width: 100vw;">II JORNADA EN CIENCIAS </p>
-           <p style="font-family: 'Lato', sans-serif; text-shadow: 2px 2px white; font-size:30px;color: black; width:100vw;"> UNA MIRADA A LA CIENCIAS DE INGENIERO E INGENIERAS FACI 2022</p>
-            <p style="font-family: 'Lato', sans-serif; text-shadow: 2px 2px white; font-size: 25px;color: black; width: 100vw;  margin-top: 10px; "> FACULTAD DE INGENIERIAS</p>
-            <p style="font-family: 'Lato', sans-serif; text-shadow: 2px 2px white; font-size: 30px;color: black; margin-top: 10px; "> noviembre 7,8 y 9 del 2022 &nbsp;|&nbsp; <a href="congresoutlvte-evento.php" id="verevento" style="font-size: 20px;color:black;" >Ver evento</a></p>
+       <div class="d-flex justify-content-center align-item-center h-100">
+          <div style="text-white">
+           <h1 class="mb-3">II JORNADA EN CIENCIAS </h1>
+           <h3 style="mb-4"> UNA MIRADA A LA CIENCIAS DE INGENIERO E INGENIERAS FACI 2022</h3>
+            <h4 style="mb-5"> FACULTAD DE INGENIERIAS</h4>
+            <h5 style="mb-6"> noviembre 7,8 y 9 del 2022 &nbsp;|&nbsp; </h5>
           </div>
        </div>
      
