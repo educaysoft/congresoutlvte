@@ -47,6 +47,25 @@
            <h3 class="mb-4"> UNA MIRADA A LA CIENCIAS DE INGENIERO E INGENIERAS FACI 2022</h3>
             <h4 class="mb-5"> FACULTAD DE INGENIERIAS</h4>
             <h5 class="mb-6"> noviembre 7,8 y 9 del 2022 &nbsp;|&nbsp; </h5>
+ <a
+            class="btn btn-outline-light btn-lg m-2"
+            href="https://www.youtube.com/watch?v=c9B4TPnak1A"
+            role="button"
+            rel="nofollow"
+            target="_blank"
+          >Start tutorial</a
+          >
+          <a
+            class="btn btn-outline-light btn-lg m-2"
+            href="https://mdbootstrap.com/docs/standard/"
+            target="_blank"
+            role="button"
+          >Download MDB UI KIT</a
+          >
+
+
+
+
           </div>
        </div>
      
