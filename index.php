@@ -4,7 +4,7 @@
 	<title> II JORNADA CIENTIFICA</title>
 	<link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 	<meta name="description" content="1er Congreso Internacional Virtual Pedagogía e Interculturalidad realizado en la Universidad Técnica Luis Vargas Torres" />
-	meta property="og:locale" content="es_EC" />
+	<meta property="og:locale" content="es_EC" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Congreso Internacional Virtual Pedagogía e Interculturalidad" />
 	<meta property="og:description" content="1er Congreso Internacional Virtual Pedagogía e Interculturalidad realizado en la Universidad Técnica Luis Vargas Torres." />
@@ -27,6 +27,23 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <link rel="stylesheet" href="style.css">
+
+<!-- Font Awesome -->
+<link
+  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+  rel="stylesheet"
+/>
+<!-- Google Fonts -->
+<link
+  href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+  rel="stylesheet"
+/>
+<!-- MDB -->
+<link
+  href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.4.0/mdb.min.css"
+  rel="stylesheet"
+/>
+
 
 <style>
 

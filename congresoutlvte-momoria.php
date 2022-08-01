@@ -19,7 +19,7 @@ include("head.php");
 
 
 <div style="padding:20px;">
-Invitación a participar en el congreso.
+Certificado de designación  al Cordinador del Evento.
 </div >
 
 
