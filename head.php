@@ -41,12 +41,12 @@
 
  <div class="mask" style="background-color:rgba(0,0,0,0.7)">
 
-       <div class="d-flex justify-content-center align-item-center h-100">
-          <div style="text-white">
+       <div class="d-flex justify-content-center align-items-center h-100">
+          <div class="text-white">
            <h1 class="mb-3">II JORNADA EN CIENCIAS </h1>
-           <h3 style="mb-4"> UNA MIRADA A LA CIENCIAS DE INGENIERO E INGENIERAS FACI 2022</h3>
-            <h4 style="mb-5"> FACULTAD DE INGENIERIAS</h4>
-            <h5 style="mb-6"> noviembre 7,8 y 9 del 2022 &nbsp;|&nbsp; </h5>
+           <h3 class="mb-4"> UNA MIRADA A LA CIENCIAS DE INGENIERO E INGENIERAS FACI 2022</h3>
+            <h4 class="mb-5"> FACULTAD DE INGENIERIAS</h4>
+            <h5 class="mb-6"> noviembre 7,8 y 9 del 2022 &nbsp;|&nbsp; </h5>
           </div>
        </div>
      
