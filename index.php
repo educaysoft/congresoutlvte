@@ -54,7 +54,7 @@
     }
 
     /* Height for devices larger than 992px */
-    @media (min-width: 992px) {
+    @media (max-width: 768px) {
       #intro-example {
         height: 600px;
       }
