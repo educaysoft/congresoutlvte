@@ -34,25 +34,22 @@
 
   <!---- <div style="border-bottom:2px solid red;     padding:10px; background: linear-gradient(rgba(255,255,255,.8), rgba(255,255,255,.8)), url(images/head2.jpg) repeat-x 0 0; width: 100%; height: 300px;   "> -->
 
-  <div style="border-bottom:2px solid red;   padding:10px; background:  url(images/head2.jpg) repeat-x 0 0; width: 100%; height: 300px;   ">
+<!---  <div style=" padding:10px;     background:  url(images/head2.jpg) repeat-x 0 0; width: 100%; height: 300px;   "> --->
+
+
+<div   id="intro-example"  class="p-5 text-center bg-image"     style="background-image: url('https://mdbcdn.b-cdn.net/img/new/slides/041.webp');" >
+
  <div id="logoA">
-     <div style="display:flex; flex-direction:row;  align-content: flex-start; ">
-       <div>
-         <a href="index.php"><img src="images/logo1.png" width="150vh" height="150vh"></a>
-       </div>
 
        <div id="labelc" style=" display:table-cell; vertical-align: middle; width: 40vw;    color:black; font-weight: bold; " >
           <div style=" margin-top: 20px; line-height: 30px; margin:30px auto; background-color: #ffffff;  opacity:0.6; ">
-           <p style="font-family: 'Lato', sans-serif; text-shadow: 2px 2px white; font-size:30px;color: black; width: 100vw;">CONGRESO INTERNACIONAL VIRTUAL </p>
-           <p style="font-family: 'Lato', sans-serif; text-shadow: 2px 2px white; font-size:30px;color: black; width:100vw;"> PEDAGOGÍA E INTERCULTURALIDAD</p>
-            <p style="font-family: 'Lato', sans-serif; text-shadow: 2px 2px white; font-size: 25px;color: black; width: 100vw;  margin-top: 10px; "> FACULTAD DE LA PEDAGOGÍA</p>
-            <p style="font-family: 'Lato', sans-serif; text-shadow: 2px 2px white; font-size: 30px;color: black; margin-top: 10px; "> DICIEMBRE 1-2-3, 2021 &nbsp;|&nbsp; <a href="congresoutlvte-evento.php" id="verevento" style="font-size: 20px;color:black;" >Ver evento</a></p>
+           <p style="font-family: 'Lato', sans-serif; text-shadow: 2px 2px white; font-size:30px;color: black; width: 100vw;">II JORNADA EN CIENCIAS </p>
+           <p style="font-family: 'Lato', sans-serif; text-shadow: 2px 2px white; font-size:30px;color: black; width:100vw;"> UNA MIRADA A LA CIENCIAS DE INGENIERO E INGENIERAS FACI 2022</p>
+            <p style="font-family: 'Lato', sans-serif; text-shadow: 2px 2px white; font-size: 25px;color: black; width: 100vw;  margin-top: 10px; "> FACULTAD DE INGENIERIAS</p>
+            <p style="font-family: 'Lato', sans-serif; text-shadow: 2px 2px white; font-size: 30px;color: black; margin-top: 10px; "> noviembre 7,8 y 9 del 2022 &nbsp;|&nbsp; <a href="congresoutlvte-evento.php" id="verevento" style="font-size: 20px;color:black;" >Ver evento</a></p>
           </div>
        </div>
-     </div>
-     <div id="logou" >
-       <a href="https://utelvt.edu.ec/sitioweb/"> <img src="images/logoutlvte2.png" width="160vh" height="160vh"></a>
-     </div>
+     
   </div>
 </div>
 

@@ -1,17 +1,17 @@
 <html>
 <head>
 
-<title> CONGRESO INTERNACIONAL VIRTUAL PEDAGOGÍA E INTERCULTURALIDAD</title>
-<link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<title> II JORNADA CIENTIFICA</title>
+	<link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 	<meta name="description" content="1er Congreso Internacional Virtual Pedagogía e Interculturalidad realizado en la Universidad Técnica Luis Vargas Torres" />
 	meta property="og:locale" content="es_EC" />
 	<meta property="og:type" content="website" />
 	<meta property="og:title" content="Congreso Internacional Virtual Pedagogía e Interculturalidad" />
 	<meta property="og:description" content="1er Congreso Internacional Virtual Pedagogía e Interculturalidad realizado en la Universidad Técnica Luis Vargas Torres." />
 	<meta property="og:url" content="https://www.congresoute.edu/" />
-	<meta property="og:site_name" content="FACULTAD DE LA PEDAGOGÍA" />
+	<meta property="og:site_name" content="FACULTAD DE INGENIERÍAS" />
 	<meta property="article:modified_time" content="2021-12-14T21:51:01+00:00" />
-	<meta property="og:image" content="https://congresoutlvte.org/facped/images/logo1.png" />
+	<meta property="og:image" content="https://congresoutlvte.org/faci/images/logo.png" />
 	<meta property="og:image:width" content="800" />
 	<meta property="og:image:height" content="600" />
 	<!-- / Yoast SEO plugin. -->
@@ -27,6 +27,25 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <link rel="stylesheet" href="style.css">
+
+<style>
+
+ <style>
+    /* Default height for small devices */
+    #intro-example {
+      height: 400px;
+    }
+
+    /* Height for devices larger than 992px */
+    @media (min-width: 992px) {
+      #intro-example {
+        height: 600px;
+      }
+    }
+  </style>
+</style>
+
+
 
 </head>
 <body style="margin: 0% 10% 0% 10%; background-color: #c0c0c0;">
