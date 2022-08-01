@@ -47,7 +47,6 @@
 
 <style>
 
- <style>
     /* Default height for small devices */
     #intro-example {
       height: 400px;
@@ -59,7 +58,6 @@
         height: 600px;
       }
     }
-  </style>
 </style>
 
 
