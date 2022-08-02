@@ -156,24 +156,28 @@
 
 <div style="float:left; width: 20%; padding-right:10px">
   <header>
-    <p style="margin-bottom: 10px; margin-top:10px;" ><b>COMITÉ ACADÉMICO</b></p>
+    <p style="margin-bottom: 10px; margin-top:10px;" ><b>COMISIÓN DE INSCRIPCIONES Y LOGÍSTICA</b></p>
   </header>
 
   <main>
-  <b> Nacionales </b><br><br>
-  <p class="nombre">PhD. Ermel Viacheslav Tapia Sosa. </p>
-  <p class="nombre">PhD. Nayade Caridad Reyes Palau.</p>
-  <p class="nombre">PhD. Daniel Bartolomé Llorente.</p>
-  <p class="nombre">PhD. Monica Valencia Bolaños.</p>
-  <p class="nombre">PhD. Rosa Posso Martínez.</p><br>
-
-  <b>Internacional </b><br><br>
-
-  <p class="nombre">PhD. Elaine Frómeta Quintana.</p>
-  <p class="nombre">PhD. Yanet Leal Cosme.</p>
-  <p class="nombre">PhD. Manuel Alenjandro Romero León.</p>
-  <p class="nombre">PhD. Alexander Gorina Sánchez.</p>
-  <p class="nombre">PhD. Yorberth Montes de Oca Rojas.</p>
+  <p class="nombre">Ing. Nakira Valencia. </p>
+  <p class="nombre">Ing. Indelira Marquez.</p>
+  <p class="nombre">Ing. Stalin Francis.</p>
+  <p class="nombre">Ing. Viviana Aparicio.</p>
+  <p class="nombre">Ing. David Ordoñez.</p><br>
+  <p class="nombre">Ing. Karen Simisterra.</p><br>
+  <p class="nombre">Ing. Leticia Moreno.</p><br>
+  <p class="nombre">Ing. Martin Ramirez.</p><br>
+  <p class="nombre">Ing. Nicomedes Ordoñez.</p><br>
+  <p class="nombre">Ing. Alexander Mecias.</p><br>
+  <p class="nombre">Ing. Yuri Ramirez.</p><br>
+  <p class="nombre">Ing. Jose Luis Castillo.</p>
+  <p class="nombre">PhD. Silvia Simisterra.</p>
+  <p class="nombre">PhD. Paul Viscaino.</p>
+  <p class="nombre">PhD. Tanya Cardena.</p>
+  <p class="nombre">PhD. Narcisa Espinal.</p>
+  <p class="nombre">PhD. Damian Perez.</p>
+  <p class="nombre">PhD. Napoleon Padilla.</p>
 
    
 
@@ -183,29 +187,62 @@
 
 <div style="float:left; width: 20%;">
   <header>
-    <p style="margin-bottom: 10px; margin-top:10px;" ><b>COMITÉ TÉCNICO</b></p>
+    <p style="margin-bottom: 10px; margin-top:10px;" ><b>COMISIÓN DE COMUNICACÓN Y PRENSA</b></p>
   </header>
   <main>
-  <p class="nombre">Ing. Leonardo Reyes </p>
- <i> Jefe de TICS-UTLVTE.</i><br><br>
+  <p class="nombre">Ing. Marcelo Reina M.Sc.<br> 
+ <i> Docente FACI.</i><br></p>
 
 
-  <p class="nombre">Ab. Jorge Perea</p>
-  <i>Jefe de la Unidad de Cultura, Comunicación e Imagen Institucional de la UTE-LVT</i><br><br>
-
- <b><u> Docentes colaboradores FACPED</u></b><br><br>
- <p class="nombre"> M.Sc. Hernán Chila.</p>
-   <p class="nombre">M.Sc. Jenny Johanna Palacios Gonzales.</p><br>
+  <p class="nombre">Ing. Yimmy Ramirez M.Sc.<br> 
+ <i> Docente FACI.</i><br></p>
 
 
-  <b><u>Estudiantes colaboradores FACPED</u></b><br><br>  
- <p style="color:gray;"> Luis Fernando Pardo Valencia.</p>
-  <p style="color:gray;"> Bryan González.</p>
-  <p style="color:gray;"> Alejandra Valencia Ortiz.</p><br>
-  <p style="color:gray;"> Luis Olivo Angulo.</p><br>
+  <p class="nombre">Ing. Jonny Quiñonez  M.Sc.<br> 
+ <i> Docente FACI.</i><br></p>
 
-  <u>Diagramador</u><br><br>
-  <p class="nombre">Lenin Wladimir Tapia Ortiz.</p><br>
+
+  <p class="nombre">Ing. Xavier Gracia  M.Sc.<br> 
+ <i> Docente FACI.</i><br></p>
+
+
+  <p class="nombre">Ing. Marcos Navarrete M.Sc.<br> 
+ <i> Docente FACI.</i><br></p>
+
+
+  <p class="nombre">Ing. Alejandro Macias M.Sc.<br> 
+ <i> Docente FACI.</i><br></p>
+
+
+
+  <p class="nombre">Ing. Nelson Mora M.Sc.<br> 
+ <i> Docente FACI.</i><br></p>
+
+
+  <p class="nombre">Ing. Lenin Montaño  M.Sc.<br> 
+ <i> Docente FACI.</i><br></p>
+
+
+
+  <p class="nombre">Ing. Jazmin Saltos M.Sc.<br> 
+ <i> Docente FACI.</i><br></p>
+
+
+
+
+  <b><u>Comisión de vinculación</u></b><br><br>  
+ <p style="color:gray;"> Ing.  Guillermo Mosquera.</p>
+  <p style="color:gray;"> Ing. Wilson Bedoya.</p>
+  <p style="color:gray;"> Ing. Raul Ullo.</p><br>
+  <p style="color:gray;"> Ing. Wladimir Obando.</p><br>
+  <p style="color:gray;"> Ing. Jose Luis Sampreto.</p><br>
+  <p style="color:gray;"> Ing. Franklin Reina (hijo).</p><br>
+  <p style="color:gray;"> Ing. Eduardo Rivas.</p><br>
+  <p style="color:gray;"> Ing. Silvia Simisterra.</p><br>
+  <p style="color:gray;"> Ing. Indelira Marquez.</p><br>
+  <p style="color:gray;"> Ing. Romel Mera.</p><br>
+  <p style="color:gray;"> Ing. Douglas Quiñonez.</p><br>
+
    
 
   </main>
