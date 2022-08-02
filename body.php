@@ -127,8 +127,8 @@
     <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMISIÓN DE PRESUPUESTO</b></p>
   </header>
   <main>
-  <p class="nombre">PhD. Juan Tacoronte.</p>
-  <i>Docente FACI</i><br><br>
+  <p class="nombre">PhD. Juan Tacoronte.
+  <br><i>Docente FACI</i><br><br></p>
 
   <p class="nombre">Ing. Galo Maldonado M.Sc. </p>
   <i>Docente FACI</i><br><br>
