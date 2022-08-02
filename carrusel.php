@@ -1,16 +1,16 @@
 <div style=" display: flex; flex-direction: column;width: 100%;">
 
 <div style="padding:10px 10% 10px 10%; justify-content: center; " >
-<p style="  color: black; font-family: 'Merriweather', serif; font-size: 30px; font-weight: 300; line-height: 40px; margin: 0 30px 40px; text-align: center; text-shadow: #2a8d7b -1px -1px;">"La construcción del conocimiento por el sujeto social en su formación profesional desde la interculturalidad"</p>
+<p style="  color: black; font-family: 'Merriweather', serif; font-size: 30px; font-weight: 300; line-height: 40px; margin: 0 30px 40px; text-align: center; text-shadow: #2a8d7b -1px -1px;">"Palabras de bienvenida por parte de las autoridades"</p>
 </div>
 <div style="padding:0px 20% 0% 20%; height: 300px;  justify-content: space-around; " >
 
 
 <div class="card" style="width: 18rem;">
-  <video controls="" src="https://codingyaar.com/wp-content/uploads/video-in-bootstrap-card.mp4"
+  <video controls="" src="https://congresoutlvte.org/faci/video/rector.mp4"
     class="bs-card-video"></video>
   <div class="card-body">
-    <h5 class="card-title">Bootstrap video card with controls</h5>
+    <h5 class="card-title">Rector de la UTELVT</h5>
     <p class="card-text">
       Some quick example text to build on the card title and make up the bulk of
       the card's content.
