@@ -6,24 +6,19 @@
 <div style="padding:0px 20% 0% 20%; height: 300px;  justify-content: space-around; " >
 
 
-	<section>
-		<video id="slider" autoplay muted loop >
-			<source src="video1.mp4" type="video/mp4">		
-		</video>
-	
-		<ul class="navegacion">
+<div class="card" style="width: 18rem;">
+  <video controls="" src="https://codingyaar.com/wp-content/uploads/video-in-bootstrap-card.mp4"
+    class="bs-card-video"></video>
+  <div class="card-body">
+    <h5 class="card-title">Bootstrap video card with controls</h5>
+    <p class="card-text">
+      Some quick example text to build on the card title and make up the bulk of
+      the card's content.
+    </p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
 
-			<li onclick="cargarVideo('video1.mp4');">
-			<a href="https://youtu.be/1rog-A9VeGA"> 	<img src="1.jpg"></a>
-			</li>
-			<li onclick="cargarVideo('video2.mp4');">
-				<a href="https://www.youtube.com/watch?v=7OkZgw9dSJo"><img src="2.jpg"></a>
-			</li>
-			<li onclick="cargarVideo('video3.mp4');">
-			 <a href=" https://youtu.be/PlRxfnXraT0">	<img src="3.jpg"></a>
-			</li>
-		</ul>
-	</section>
 
 </div>
 
