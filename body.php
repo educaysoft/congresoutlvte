@@ -6,31 +6,107 @@
     <p style="margin-bottom: 10px; margin-top:10px;"><b>PRESIDENTE y VICEPRESIDENTES</b></p>
   </header>
   <main>
-  <b>Presidente</b><br><br>
+  <b>Presidente de la jornada</b><br><br>
 
   <p class="nombre">PhD. Girald David Vernaza Arroyo.</p> 
   <p>Rector de la UTLVTE.</p><br>
 
-  <b>Vicepresidentes</b><br><br>
+  <b>Vicepresidente de la jornada</b><br><br>
+  <p class="nombre">M.Sc. Lenin Montaño Roldan.</p> 
 
-  <p class="nombre">M.Sc. Luzmila María Valderde Medina.</p> 
-  <p class="nombre">M.Sc. Pablo Minda Batallas.</p> <br>
 
+  <b>Asesor honorariode la jornada</b><br><br>
+  <p class="nombre">PhD. Manuel Quiñonez Rubin.</p> 
+
+  <b>Coordinador de la jornada</b><br><br>
+  <p class="nombre">Ing. Franklin Ochoa.</p> 
   </main>
 </div>
 
 <div style="float:left; width: 20%;">
   <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITÉ CIENTÍFICO</b></p>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMISIÓN CIENTÍFICO</b></p>
   </header>
   <main>
-  <p class="nombre">PhD. Girald David Vernaza Arroyo.</p>
-  <p>Rector de la UTLVTE.</p><br>
-  <p class="nombre">PhD. Damaris Garcia Cespedes.</p>
+  <p class="nombre">PhD. Elizabeth Canchingre.</p>
   <p>Vicerrectora Académica.</p><br>
   <p class="nombre">PhD. Manuel Quiñonez Cabezas.</p>
   <p>Vicerrector de Investigación.</p><br><br>
   
+  <p class="nombre">PhD. Juan Tacoronte.</p>
+  <p>Docente FACI.</p><br>
+
+  <p class="nombre">PhD. Rugina Quiñonez.</p>
+  <p>Docente FACI.</p><br>
+
+  <p class="nombre">PhD. Maribel Cuello.</p>
+  <p>Directora carrera Ing. Química.</p><br>
+
+
+  <p class="nombre">PhD. Guadalupe Gómez.</p>
+  <p>Docente FACI.</p><br>
+
+
+
+  <p class="nombre">PhD. Eduardo Rivas.</p>
+  <p>Docente FACI.</p><br>
+
+
+  <p class="nombre">Ing. Guillermo Mosquera.</p>
+  <p>Docente FACI.</p><br>
+
+
+  <p class="nombre">Ing. Lenin Montaño MsC.</p>
+  <p>Docente FACI.</p><br>
+
+
+  <p class="nombre">Ing. Lenin Montaño MsC.</p>
+  <p>Docente FACI.</p><br>
+
+  <p class="nombre">Ing. Diego Hurtado MsC.</p>
+  <p>Docente FACI.</p><br>
+
+  <p class="nombre">Ing. Joseph Cruel MsC.</p>
+  <p>Docente FACI.</p><br>
+
+
+  <p class="nombre">Ing. Damian Perez  MsC.</p>
+  <p>Docente FACI.</p><br>
+
+
+  <p class="nombre">Ing. Leopoldo Gracia  MsC.</p>
+  <p>Docente FACI.</p><br>
+
+  <p class="nombre">Ing. Franklin Ochoa  MsC.</p>
+  <p>Docente FACI.</p><br>
+
+
+  <p class="nombre">Ing. Rafael Bastidas  MsC.</p>
+  <p>Docente FACI.</p><br>
+
+
+  <p class="nombre">Ing. David Olmedo  MsC.</p>
+  <p>Docente FACI.</p><br>
+
+
+  <p class="nombre">Ing. Silvia Simisterra  MsC.</p>
+  <p>Docente FACI.</p><br>
+
+  <p class="nombre">Ing. Marcelo Reina  MsC.</p>
+  <p>Docente FACI.</p><br>
+
+
+
+  <p class="nombre">Ing. Baster Ly Estupiñan  MsC.</p>
+  <p>Docente FACI.</p><br>
+
+  <p class="nombre">Ing. Romulo Jurado  MsC.</p>
+  <p>Docente FACI.</p><br>
+
+  <p class="nombre">Ing. Guillermo Cedeño  MsC.</p>
+  <p>Docente FACI.</p><br>
+
+
   <b> Decanos </b><br><br>
   <p class="nombre">M.Sc. Luzmila María Valverde Medina.</p>
   Facultad de la Pedagogía<br><br>
@@ -48,19 +124,23 @@
 
 <div style="float:left; width: 20%; padding-right:10px;">
   <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITÉ ORGANIZADOR</b></p>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMISIÓN DE PRESUPUESTO</b></p>
   </header>
   <main>
-  <b>Directores de carrera.</b><br><br>
-   <p class="nombre"> M.Sc. José Sarquí Caicedo Valencia. </p>
-  <i>Educación Básica</i><br><br>
+  <p class="nombre">PhD. Juan Tacoronte.</p>
+  <i>Docente FACI</i><br><br>
 
-  <p class="nombre">M.Sc. Elsa Cecilia Quiñonez Ortiz.</p>
-  <i>Pedagogía de la Lengua y la Literatura</i><br><br>
+  <p class="nombre">Ing. Galo Maldonado M.Sc. </p>
+  <i>Docente FACI</i><br><br>
 
-  <p class="nombre">M.Sc. Tuning Murillo Andrade. </p>
-  <i>Pedagogía de la Actividad Física y Deporte.</i><br><br>
-  
+  <p class="nombre">Ing. Marco Navarrete M.Sc. </p>
+  <i>Docente FACI</i><br><br>
+
+
+  <p class="nombre">Ing. Marco Navarrete M.Sc. </p>
+  <i>Docente FACI</i><br><br>
+
+
   <p class="nombre">M.Sc. Lucía Germania Chávez Ruano.</p>
   <i>Pedagogía de las Ciencias Experimentales de las Matemáticas y Física.</i><br><br>
 
