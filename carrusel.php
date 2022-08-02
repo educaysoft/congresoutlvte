@@ -3,7 +3,7 @@
 <div style="padding:10px 10% 10px 10%; justify-content: center; " >
 <p style="  color: black; font-family: 'Merriweather', serif; font-size: 30px; font-weight: 300; line-height: 40px; margin: 0 30px 40px; text-align: center; text-shadow: #2a8d7b -1px -1px;">"Palabras de bienvenida por parte de las autoridades"</p>
 </div>
-<div style="padding:0px 20% 0% 20%; height: 300px;  justify-content: space-around; display: inline-block; " >
+<div style="padding:0px 5% 0% 5%; height: 300px;  justify-content: space-around; display: inline-block; " >
 
 
 <div class="card" style="width: 18rem; float:left;">
