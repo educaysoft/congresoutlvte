@@ -6,7 +6,7 @@
 <div style="padding:0px 20% 0% 20%; height: 300px;  justify-content: space-around; display: inline-block; " >
 
 
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 18rem; float:left;">
   <video controls="" src="https://congresoutlvte.org/faci/video/rector.mp4"
     class="bs-card-video"></video>
   <div class="card-body">
@@ -19,7 +19,7 @@
   </div>
 </div>
 
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 18rem; float:left;">
   <video controls="" src="https://congresoutlvte.org/faci/video/rector.mp4"
     class="bs-card-video"></video>
   <div class="card-body">
@@ -32,7 +32,7 @@
   </div>
 </div>
 
-<div class="card" style="width: 18rem;">
+<div class="card" style="width: 18rem; float:left;">
   <video controls="" src="https://congresoutlvte.org/faci/video/rector.mp4"
     class="bs-card-video"></video>
   <div class="card-body">
