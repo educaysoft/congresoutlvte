@@ -14,7 +14,7 @@
   <div class="card-body">
     <h5 class="card-title">Rector de la UTELVT</h5>
     <p class="card-text">
-      Some quick example text to build on the card title and make up the bulk of
+      Palabras de bienvida del Rector de la Universidad Tecnica  
       the card's content.
     </p>
     <a href="#" class="btn btn-primary">Go somewhere</a>
@@ -22,10 +22,10 @@
 </div>
 
 <div class="col card" style="width: 18rem; float:left;padding:5px">
-  <video controls="" src="https://congresoutlvte.org/faci/video/rector.mp4"
+  <video controls="" src="https://congresoutlvte.org/faci/video/recerrectora.mp4"
     class="bs-card-video"></video>
   <div class="card-body">
-    <h5 class="card-title">Rector de la UTELVT</h5>
+    <h5 class="card-title">Vicerrectora UTELVT</h5>
     <p class="card-text">
       Some quick example text to build on the card title and make up the bulk of
       the card's content.
@@ -35,10 +35,10 @@
 </div>
 
 <div class="col card" style="width: 18rem; float:left;padding:5px">
-  <video controls="" src="https://congresoutlvte.org/faci/video/rector.mp4"
+  <video controls="" src="https://congresoutlvte.org/faci/video/decano.mp4"
     class="bs-card-video"></video>
   <div class="card-body">
-    <h5 class="card-title">Rector de la UTELVT</h5>
+    <h5 class="card-title">Decano FACI-UTELVT</h5>
     <p class="card-text">
       Some quick example text to build on the card title and make up the bulk of
       the card's content.
