@@ -17,12 +17,12 @@
       Palabras de bienvida del Rector de la Universidad Tecnica  
       the card's content.
     </p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="#" class="btn btn-primary">Bibliografía</a>
   </div>
 </div>
 
 <div class="col card" style="width: 18rem; float:left;padding:5px">
-  <video controls="" src="https://congresoutlvte.org/faci/video/recerrectora.mp4"
+  V<video controls="" src="https://congresoutlvte.org/faci/video/vicerrectora.mp4"
     class="bs-card-video"></video>
   <div class="card-body">
     <h5 class="card-title">Vicerrectora UTELVT</h5>
@@ -30,7 +30,7 @@
       Some quick example text to build on the card title and make up the bulk of
       the card's content.
     </p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="#" class="btn btn-primary">Bibliografía</a>
   </div>
 </div>
 
@@ -43,7 +43,7 @@
       Some quick example text to build on the card title and make up the bulk of
       the card's content.
     </p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <a href="#" class="btn btn-primary">Bibliografía</a>
   </div>
 </div>
 
