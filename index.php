@@ -76,7 +76,7 @@ include_once("carrusel.php");
 ?>
 
 <?php
-include_once("ponencia-principal.php");
+//include_once("ponencia-principal.php");
 ?>
 
 

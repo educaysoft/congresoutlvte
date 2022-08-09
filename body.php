@@ -16,7 +16,7 @@
 
 
   <b>Asesor honorariode la jornada</b><br><br>
-  <p class="nombre">PhD. Manuel Quiñonez Rubin.</p> 
+  <p class="nombre">PhD. Manuel Quiñonez.</p> 
 
   <b>Coordinador de la jornada</b><br><br>
   <p class="nombre">Ing. Franklin Ochoa.</p> 
@@ -30,81 +30,81 @@
   <main>
   <p class="nombre">PhD. Elizabeth Canchingre.</p>
   <p>Vicerrectora Académica.</p><br>
-  <p class="nombre">PhD. Manuel Quiñonez Cabezas.</p>
-  <p>Vicerrector de Investigación.</p><br><br>
+  <p class="nombre">PhD. Manuel Quiñonez Cabezas.<br>
+  Vicerrector de Investigación.</p><br><br>
   
-  <p class="nombre">PhD. Juan Tacoronte.</p>
-  <p>Docente FACI.</p><br>
+  <p class="nombre">PhD. Juan Tacoronte.<br>
+  Docente FACI.</p><br>
 
-  <p class="nombre">PhD. Rugina Quiñonez.</p>
-  <p>Docente FACI.</p><br>
+  <p class="nombre">PhD. Rugina Quiñonez.<br>
+  Docente FACI.</p><br>
 
-  <p class="nombre">PhD. Maribel Cuello.</p>
-  <p>Directora carrera Ing. Química.</p><br>
-
-
-  <p class="nombre">PhD. Guadalupe Gómez.</p>
-  <p>Docente FACI.</p><br>
+  <p class="nombre">PhD. Maribel Cuello.<br>
+  Directora carrera Ing. Química.</p><br>
 
 
-
-  <p class="nombre">PhD. Eduardo Rivas.</p>
-  <p>Docente FACI.</p><br>
-
-
-  <p class="nombre">Ing. Guillermo Mosquera.</p>
-  <p>Docente FACI.</p><br>
-
-
-  <p class="nombre">Ing. Lenin Montaño MsC.</p>
-  <p>Docente FACI.</p><br>
-
-
-  <p class="nombre">Ing. Lenin Montaño MsC.</p>
-  <p>Docente FACI.</p><br>
-
-  <p class="nombre">Ing. Diego Hurtado MsC.</p>
-  <p>Docente FACI.</p><br>
-
-  <p class="nombre">Ing. Joseph Cruel MsC.</p>
-  <p>Docente FACI.</p><br>
-
-
-  <p class="nombre">Ing. Damian Perez  MsC.</p>
-  <p>Docente FACI.</p><br>
-
-
-  <p class="nombre">Ing. Leopoldo Gracia  MsC.</p>
-  <p>Docente FACI.</p><br>
-
-  <p class="nombre">Ing. Franklin Ochoa  MsC.</p>
-  <p>Docente FACI.</p><br>
-
-
-  <p class="nombre">Ing. Rafael Bastidas  MsC.</p>
-  <p>Docente FACI.</p><br>
-
-
-  <p class="nombre">Ing. David Olmedo  MsC.</p>
-  <p>Docente FACI.</p><br>
-
-
-  <p class="nombre">Ing. Silvia Simisterra  MsC.</p>
-  <p>Docente FACI.</p><br>
-
-  <p class="nombre">Ing. Marcelo Reina  MsC.</p>
-  <p>Docente FACI.</p><br>
+  <p class="nombre">PhD. Guadalupe Gómez.<br>
+  Docente FACI.</p><br>
 
 
 
-  <p class="nombre">Ing. Baster Ly Estupiñan  MsC.</p>
-  <p>Docente FACI.</p><br>
+  <p class="nombre">PhD. Eduardo Rivas.<br>
+  Docente FACI.</p><br>
 
-  <p class="nombre">Ing. Romulo Jurado  MsC.</p>
-  <p>Docente FACI.</p><br>
 
-  <p class="nombre">Ing. Guillermo Cedeño  MsC.</p>
-  <p>Docente FACI.</p><br>
+  <p class="nombre">Ing. Guillermo Mosquera.<br>
+  Docente FACI.</p><br>
+
+
+  <p class="nombre">Ing. Lenin Montaño MsC.<br>
+  Docente FACI.</p><br>
+
+
+  <p class="nombre">Ing. Lenin Montaño MsC.<br>
+  Docente FACI.</p><br>
+
+  <p class="nombre">Ing. Diego Hurtado MsC.<br>
+  Docente FACI.</p><br>
+
+  <p class="nombre">Ing. Joseph Cruel MsC.<br>
+  Docente FACI.</p><br>
+
+
+  <p class="nombre">Ing. Damian Perez  MsC.<br>
+  Docente FACI.</p><br>
+
+
+  <p class="nombre">Ing. Leopoldo Gracia  MsC.<br>
+  Docente FACI.</p><br>
+
+  <p class="nombre">Ing. Franklin Ochoa  MsC.<br>
+  Docente FACI.</p><br>
+
+
+  <p class="nombre">Ing. Rafael Bastidas  MsC.<br>
+  Docente FACI.</p><br>
+
+
+  <p class="nombre">Ing. David Olmedo  MsC.<br>
+  Docente FACI.</p><br>
+
+
+  <p class="nombre">Ing. Silvia Simisterra  MsC.<br>
+  Docente FACI.</p><br>
+
+  <p class="nombre">Ing. Marcelo Reina  MsC.<br>
+  Docente FACI.</p><br>
+
+
+
+  <p class="nombre">Ing. Baster Ly Estupiñan  MsC.<br>
+  Docente FACI.</p><br>
+
+  <p class="nombre">Ing. Romulo Jurado  MsC.<br>
+  Docente FACI.</p><br>
+
+  <p class="nombre">Ing. Guillermo Cedeño  MsC.<br>
+  Docente FACI.</p><br>
 
 
   <b> Decanos </b><br><br>
