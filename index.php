@@ -81,7 +81,7 @@ include_once("ponencia-principal.php");
 
 
 <?php
-include_once("inblue.php");
+//include_once("inblue.php");
 ?>
 
 
@@ -91,7 +91,7 @@ include_once("body.php");
 
 
 <?php
-include_once("saludo.php");
+//include_once("saludo.php");
 ?>
 
 
