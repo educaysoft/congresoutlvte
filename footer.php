@@ -96,7 +96,6 @@
     <main style="color: black;font-size:20px;">
       <p style="font-size: 1vw;">Dirección: Ciudadela Nuevos Horizontes:</p>
       <p style="font-size: 1vw;">Correo: congresoutlvte@utelvt.edu.ec</p>
-<p style="font-size: 0.8vw;"> <span style="font-size:1.5vw;" >&#127279; </span> Educaysoft  y Encubadora de Empresa de Software <p>   
 </main>   
  </div>
  <div style="  height:100%; width:30%; display:flex; justify-content: center; flex-direction: column; ">
