@@ -1,7 +1,7 @@
 <div id="cabeza">
 <div id="header">
 
-<main>
+<main style="width:100%">
 
 <nav class="navbar navbar-dark bg-dark" aria-label="Dark offcanvas navbar">
     <div class="container-fluid">
