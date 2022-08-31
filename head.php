@@ -42,7 +42,7 @@
  <div class="mask" style="background-color:hsla(120,100%,50%,0.3)">
 
        <div class="d-flex justify-content-center align-items-center h-100">
-          <div class="text-white">
+          <div class="text-black">
            <h1 class="mb-3">I CONGRESO INTERNACIONAL </h0>
            <h3 class="mb-4"> UNA MIRADA A LA CIENCIAS DE INGENIEROS E INGENIERAS FACI 2022</h3>
             <h4 class="mb-5"> FACULTAD DE INGENIERIAS</h4>
