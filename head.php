@@ -1,36 +1,72 @@
 <div id="cabeza">
 <div id="header">
 
-<input type="checkbox" id="btn-menu" />
-  <label for="btn-menu">  <i class="fa fa-bars fa-2x" aria-hidden="true" style="margin-left: 20px;margin-top:10px; color:black;"></i></label>  
-<nav class="menu">
-<ul>
-  <li><a href="http://congresoutlvte.org">Home</a></li>
-  <li><a href="congresoutlvte-prese.php">Presentación</a></li>
-  <li><a href="congresoutlvte-normas.php">Normativa</a></li>
- <li><a href="congresoutlvte-agendafinal.php">Agenda </a></li>
-  <li><a href="congresoutlvte-tematicas.php">Temáticas</a></li>
-  <li><a href="congresoutlvte-confe2.php">Conferencistas</a></li>
-<!---
-  <li class="submenu"><a href="#about">Conferencias <i class="fa fa-caret-down"></i></a>
+<main>
+  
 
-  <ul>
-  	<li><a href="congresoutlvte-confe2.php">Internacionales</a></li>
-  	<li><a href="congresoutlvte-confe.php">Nacionales</a></li>
-  </ul>
- -->
-  <li><a href="congresoutlvte-pdf.php">Repositorio</a></li>
+  <nav class="navbar bg-light" aria-label="Light offcanvas navbar">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#">Light offcanvas navbar</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbarLight" aria-controls="offcanvasNavbarLight">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbarLight" aria-labelledby="offcanvasNavbarLightLabel">
+        <div class="offcanvas-header">
+          <h5 class="offcanvas-title" id="offcanvasNavbarLightLabel">Offcanvas</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+          <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Link</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Dropdown
+              </a>
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#">Action</a></li>
+                <li><a class="dropdown-item" href="#">Another action</a></li>
+                <li>
+                  <hr class="dropdown-divider">
+                </li>
+                <li><a class="dropdown-item" href="#">Something else here</a></li>
+              </ul>
+            </li>
+          </ul>
+          <form class="d-flex mt-3" role="search">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Search</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </nav>
 
-  <li><a href="congresoutlvte-certi.php">Certificado</a></li>
+  
 
-  <li><a href="congresoutlvte-momoria.php">Memoria </a></li>
- 
-<!---  <li style="font-weight: bold; "   ><a href="https://docs.google.com/forms/d/e/1FAIpQLSeQiGNyzm0penp8g2X1UDPCyhsgVFpSZ-CZI8YTO6gITv-wfQ/viewform?usp=sf_link">INSCRIPCIÓN</a></li> -->
-  <li style="font-weight: bold; "   ><a href="https://forms.gle/JBN4QAV7ryW3pVf28">INSCRIPCIONES</a></li>
+  <div class="container my-5">
+    <div class="bg-light p-5 rounded">
+      <div class="col-sm-8 py-5 mx-auto">
+        <h1 class="display-5 fw-normal">Navbar with offcanvas examples</h1>
+        <p class="fs-5">This example shows how responsive offcanvas menus work within the navbar. For positioning of navbars, checkout the <a href="../examples/navbar-static/">top</a> and <a href="../examples/navbar-fixed/">fixed top</a> examples.</p>
+        <p>From the top down, you'll see a dark navbar, light navbar and a responsive navbar—each with offcanvases built in. Resize your browser window to the large breakpoint to see the toggle for the offcanvas.</p>
+        <p>
+          <a class="btn btn-primary" href="../components/navbar/#offcanvas" role="button">Learn more about offcanvas navbars &raquo;</a>
+        </p>
+    </div>
+    </div>
+  </div>
+</main>
 
-</ul>
-</nav>
+
+
 </div>
+
+
 
   <!---- <div style="border-bottom:2px solid red;     padding:10px; background: linear-gradient(rgba(255,255,255,.8), rgba(255,255,255,.8)), url(images/head2.jpg) repeat-x 0 0; width: 100%; height: 300px;   "> -->
 
