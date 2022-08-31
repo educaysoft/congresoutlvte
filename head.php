@@ -37,16 +37,17 @@
 <!---  <div style=" padding:10px;     background:  url(images/head2.jpg) repeat-x 0 0; width: 100%; height: 300px;   "> --->
 
 
-<div   id="intro-example"  class="p-5 text-center bg-image"     style="background-image: url('https://mdbcdn.b-cdn.net/img/new/slides/041.webp');" >
+<div   id="intro-example"  class="p-5 text-center bg-image"     style="background-image: url('http://educaysoft.org/sica/campus2.jpg');" >
 
  <div class="mask" style="background-color:rgba(0,0,0,0.7)">
 
        <div class="d-flex justify-content-center align-items-center h-100">
           <div class="text-white">
-           <h1 class="mb-3">II JORNADA EN CIENCIAS </h1>
+           <h1 class="mb-3">I CONGRESO INTERNACIONAL </h0>
            <h3 class="mb-4"> UNA MIRADA A LA CIENCIAS DE INGENIEROS E INGENIERAS FACI 2022</h3>
             <h4 class="mb-5"> FACULTAD DE INGENIERIAS</h4>
-            <h5 class="mb-6"> &nbsp;|&nbsp; noviembre 7,8 y 9 del 2022 &nbsp;|&nbsp; </h5>
+            <h5 class="mb-6">  noviembre 7-9, 2022  </h5>
+            <h5 class="mb-6">  Esmeraldas - Ecuador  </h5>
  <a
             class="btn btn-outline-light btn-lg m-2"
             href="https://www.youtube.com/watch?v=c9B4TPnak1A"
