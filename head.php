@@ -50,9 +50,6 @@
 
 
 
-<div class="container my-5">
-    <div class="bg-light p-5 rounded">
-      <div class="col-sm-8 py-5 mx-auto">
   
 
   <div   id="intro-example"  class="p-5 text-center bg-image"     style="background-image: url('http://educaysoft.org/sica/campus2.jpg');" >
@@ -91,9 +88,6 @@
 </div>
 
   
-  </div>
-  </div>
-</div>
 </main>
 
 
