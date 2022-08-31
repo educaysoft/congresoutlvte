@@ -46,34 +46,7 @@
     </div>
   </nav>
 
-  
-
-  <div class="container my-5">
-    <div class="bg-light p-5 rounded">
-      <div class="col-sm-8 py-5 mx-auto">
-        <h1 class="display-5 fw-normal">Navbar with offcanvas examples</h1>
-        <p class="fs-5">This example shows how responsive offcanvas menus work within the navbar. For positioning of navbars, checkout the <a href="../examples/navbar-static/">top</a> and <a href="../examples/navbar-fixed/">fixed top</a> examples.</p>
-        <p>From the top down, you'll see a dark navbar, light navbar and a responsive navbar—each with offcanvases built in. Resize your browser window to the large breakpoint to see the toggle for the offcanvas.</p>
-        <p>
-          <a class="btn btn-primary" href="../components/navbar/#offcanvas" role="button">Learn more about offcanvas navbars &raquo;</a>
-        </p>
-    </div>
-    </div>
-  </div>
-</main>
-
-
-
-</div>
-
-
-
-  <!---- <div style="border-bottom:2px solid red;     padding:10px; background: linear-gradient(rgba(255,255,255,.8), rgba(255,255,255,.8)), url(images/head2.jpg) repeat-x 0 0; width: 100%; height: 300px;   "> -->
-
-<!---  <div style=" padding:10px;     background:  url(images/head2.jpg) repeat-x 0 0; width: 100%; height: 300px;   "> --->
-
-
-<div   id="intro-example"  class="p-5 text-center bg-image"     style="background-image: url('http://educaysoft.org/sica/campus2.jpg');" >
+  <div   id="intro-example"  class="p-5 text-center bg-image"     style="background-image: url('http://educaysoft.org/sica/campus2.jpg');" >
 
  <div class="mask" style="background-color:hsla(120,100%,50%,0.3)">
 
@@ -107,6 +80,17 @@
      
   </div>
 </div>
+
+  
+</main>
+
+
+
+</div>
+
+
+
+  
 
 
   <div class="social">
