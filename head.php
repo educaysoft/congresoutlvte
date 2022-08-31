@@ -106,7 +106,7 @@
 
   <div class="social">
 		<ul>
-			<li><a href="https://www.facebook.com/faci.utlvte/https://www.facebook.com/faci.utlvte/" target="_blank" class="fa fa-facebook"></a></li>
+			<li><a href="https://www.facebook.com/faci.utlvte/" target="_blank" class="fa fa-facebook"></a></li>
 <!---			<li><a href="http://www.twitter.com/falconmasters" target="_blank" class="fa fa-twitter"></a></li>
 			<li><a href="http://www.googleplus.com/falconmasters" target="_blank" class="fa fa-google"></a></li
 			<li><a href="http://www.pinterest.com/falconmasters" target="_blank" class="fa fa-linkedin"></a></li>  ---->
