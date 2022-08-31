@@ -4,7 +4,7 @@
 <main>
   
 
-  <nav class="navbar bg-light" aria-label="Light offcanvas navbar">
+  <nav class="navbar navbar-dark  bg-dark" aria-label="Light offcanvas navbar">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Light offcanvas navbar</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbarLight" aria-controls="offcanvasNavbarLight">
