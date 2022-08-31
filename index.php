@@ -119,14 +119,14 @@
 
 
 
-    <link href="navbar.css" rel="stylesheet">
+
 
 
 
 
 </style>
 
-
+    <link href="navbar.css" rel="stylesheet">
 
 </head>
 <body style="margin: 0% 10% 0% 10%; background-color: #c0c0c0;">
@@ -185,6 +185,7 @@ function cargarVideo(url){
 
 
 </script>
+    <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
 
 
 </body>
