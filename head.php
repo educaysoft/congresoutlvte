@@ -5,7 +5,9 @@
 
 <nav class="navbar navbar-dark bg-dark" aria-label="Dark offcanvas navbar">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Dark offcanvas navbar</a>
+ <a class="navbar-brand" href="#">
+      <img src="https://congresoutlvte.org/images/logoutlvte.png" alt="..." height="36">
+    </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbarDark" aria-controls="offcanvasNavbarDark">
         <span class="navbar-toggler-icon"></span>
       </button>
