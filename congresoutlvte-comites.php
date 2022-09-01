@@ -8,37 +8,38 @@
   <main>
 
   <b>Rector de la UTLVTE</b><br>
-  <p class="nombre">PhD. Girald David Vernaza Arroyo.</p> <br>
+  <p class="nombre">Dr. Girald David Vernaza Arroyo. PhD.</p> <br>
 
 
-  <b>Vice-Rectora de la UTLVTE</b><br><br>
-  <p class="nombre">PhD. María Elizabeth Canchingre Bone.</p> 
+  <b>Vice-Rectora Académica de la UTLVTE</b><br>
+  <p class="nombre">Ing. María Elizabeth Canchingre Bone. PhD.</p><br> 
 
 
 
-  <b>Vice-Rector de Investigación y Postgrado</b><br><br>
-  <p class="nombre">PhD. Manuel Quiñonez.</p> 
+  <b>Vice-Rector de Investigación y Postgrado</b><br>
+  <p class="nombre">Dr. Manuel Quiñonez Cabeza. PhD.</p><br> 
 
 
-  <b>Decano de la FACI-UTLVTE</b><br><br>
-  <p class="nombre">M.Sc. Lenin Montaño Roldan.</p> 
+  <b>Decano de la FACI-UTLVTE</b><br>
+  <p class="nombre">Ing. Victor Lenin Montaño Roldan MSc.</p><br><br> 
 
 
 
   <b>Coordinador del congreso</b><br><br>
-  <p class="nombre">Ing. Franklin Ochoa.</p> 
+  <p class="nombre">Ing. Franklin Ochoa Gonzales MSc.</p> 
   </main>
 </div>
 
 <div style="float:left; width: 20%;">
   <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMISIÓN CIENTÍFICO</b></p>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE CIENTÍFICO</b></p>
   </header>
   <main>
+  <b>Presidente</b><br><br>
   <p class="nombre">PhD. Elizabeth Canchingre.</p>
   <p>Vicerrectora Académica.</p><br>
-  <p class="nombre">PhD. Manuel Quiñonez Cabezas.<br>
-  Vicerrector de Investigación.</p><br><br>
+  <p class="nombre">PhD. Joseph Cruel Siguenza.<br>
+  Doctorado Ciencias Ambientales.</p><br><br>
   
   <p class="nombre">PhD. Juan Tacoronte.<br>
   Docente FACI.</p><br>
@@ -113,18 +114,6 @@
   <p class="nombre">Ing. Guillermo Cedeño  MsC.<br>
   Docente FACI.</p><br>
 
-
-  <b> Decanos </b><br><br>
-  <p class="nombre">M.Sc. Luzmila María Valverde Medina.</p>
-  Facultad de la Pedagogía<br><br>
-  <p class="nombre">Ing. Segundo Nelson  Castillo Cabeza.</p>
-  Facultad de Ciencias Administrativas y Económicas.</p><br>
-  <p class="nombre">M.Sc. Iván Estupiñan Nieves.</p>
-  Facultad de Ciencias Agropecuarias<br><br>
-  <p class="nombre">Abg. Kathia Díaz Bedoya. </p>
-  Facultad de Ciencias Sociales<br><br>
-  <p class="nombre">Ing. Victor Lenin Montaño Roldan.</p>
-  Facultad de las Ingenierías<br>
 
   </main>
 </div>
