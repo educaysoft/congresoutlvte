@@ -157,7 +157,7 @@ include_once("congresoutlvte-resumen.php");
 
 
 <?php
-include_once("body.php");
+include_once("congresoutlvte-comites.php");
 ?>
 
 
