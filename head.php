@@ -8,7 +8,7 @@
 <nav class="navbar bg-light" aria-label="Light offcanvas navbar">
     <div class="container-fluid">
 <a class="navbar-brand" href="https://utelvt.edu.ec/sitioweb/">
-      <img src="https://congresoutlvte.org/images/logoutlvte.png" alt="..." height="36">
+      <img src="https://congresoutlvte.org/images/logoutlvte.png" alt="..." height="45">
     </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbarLight" aria-controls="offcanvasNavbarLight">
         <span class="navbar-toggler-icon"></span>
