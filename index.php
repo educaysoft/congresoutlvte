@@ -141,6 +141,11 @@ include_once("head.php");
 include_once("carrusel.php");
 ?>
 
+
+<?php
+include_once("congresoutlvte-resumen.php");
+?>
+
 <?php
 //include_once("ponencia-principal.php");
 ?>
