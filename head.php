@@ -57,15 +57,13 @@
 
   
 
-  <div   id="intro-example"  class="p-5 text-center bg-image"     style="background-image: url('http://educaysoft.org/sica/campus2.jpg');" >
-
- <div class="mask" style="background-color:hsla(120,100%,50%,0.3)">
-
+<div   id="intro-example"  class="p-5 text-center bg-image"     style="background-image: url('http://educaysoft.org/sica/campus2.jpg');" >
+	<div class="mask" style="background-color:hsla(120,100%,50%,0.1)">
        <div class="d-flex justify-content-center align-items-center h-100">
           <div class="text-black">
-           <h1 class="mb-3">I CONGRESO INTERNACIONAL </h0>
+           <h1 class="mb-3">I CONGRESO INTERNACIONAL </h1>
            <h3 class="mb-4"> UNA MIRADA A LA CIENCIAS DE INGENIEROS E INGENIERAS FACI 2022</h3>
-            <h4 class="mb-5"> FACULTAD DE INGENIERIAS</h4>
+            <h4 class="mb-5"> FACI - UTLVTE 2022</h4>
             <h5 class="mb-6">  noviembre 7-9, 2022 <br> Esmeraldas-Ecuador  </h5>
  <a
             class="btn btn-outline-light btn-lg m-2"
@@ -80,12 +78,7 @@
     href="https://mdbootstrap.com/docs/standard/"
     target="_blank"
             role="button"
-          >Cronograma</a
-          >
-
-
-
-
+          >Cronograma</a>
           </div>
        </div>
      
@@ -94,8 +87,6 @@
 
   
 </main>
-
-
 
 </div>
 
