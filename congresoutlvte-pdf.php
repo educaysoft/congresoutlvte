@@ -1,17 +1,8 @@
-<html>
-  <head>
-<meta charset="ISO-8859-1">
-
-<!-- Load font awesome icons -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="style.css">
+<?php
+include("head0.php");
 
 
-<link href='https://fonts.googleapis.com/css?family=Raleway:400,800,300' rel='stylesheet' type='text/css'>
-
-  </head>
-
-<body style="margin: 0% 10% 0% 10%; background-color: #c0c0c0;">
+?>
 
 
 <?php
