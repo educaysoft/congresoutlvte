@@ -22,7 +22,7 @@
             <img src="http://www.congresoutlvte.org/faci/images/Rector.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>Girard Vernaza</strong>  <br> Rector UTLVTE<br></p>
+              <p class="card-text"><strong>Girard Vernaza</strong>  <br> Rector UTLVTE<br>_</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                    <button  onclick="location.href='https://utelvt.edu.ec/sitioweb/index.php/rector'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
@@ -53,7 +53,7 @@
             <img src="http://www.congresoutlvte.org/faci/images/Decano.png">
 
             <div class="card-body">
-              <p class="card-text"><strong>Lenin Montaño</strong> <br> Decano FACI-UTLVTE<br>.</p>
+              <p class="card-text"><strong>Lenin Montaño</strong> <br> Decano FACI-UTLVTE.<br>_</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
