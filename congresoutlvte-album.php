@@ -15,11 +15,11 @@
             <img src="http://www.congresoutlvte.org/faci/images/Rector.jpg">
 
             <div class="card-body">
-              <p class="card-text"><b>Girard Vernaza<b>  <br> Rector de la Universidad Técnica "Luis Vargas Torres" de Esmeraldas.</p>
+              <p class="card-text"><strong>Girard Vernaza</strong>  <br> Rector de la Universidad Técnica "Luis Vargas Torres" de Esmeraldas.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                   <button  onclick="location.href='https://utelvt.edu.ec/sitioweb/index.php/rector'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
-                  <button  onclick="location.href='https://www.youtube.com/watch?v=-2gqhIER5Uo'" type="button" class="btn btn-sm btn-outline-secondary">VIDEO</button>
+                   <button  onclick="location.href='https://utelvt.edu.ec/sitioweb/index.php/rector'"    type="button" class="btn btn-sm btn-outline-secondary">Bibliografía</button>
+                  <button  onclick="location.href='https://www.youtube.com/watch?v=-2gqhIER5Uo'" type="button" class="btn btn-sm btn-outline-secondary">Video</button>
                 </div>
               </div>
             </div>
