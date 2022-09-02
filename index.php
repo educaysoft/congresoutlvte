@@ -227,7 +227,7 @@ include_once("congresoutlvte-comites.php");
 
 
 <?php
-include_once("congresoutlvte-album.php");
+//include_once("congresoutlvte-album.php");
 ?>
 
 
