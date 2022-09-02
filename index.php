@@ -243,6 +243,12 @@ include_once("footer.php");
 </div>
 
 
+<!-- MDB -->
+<script
+  type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.4.0/mdb.min.js"
+></script>
+
 <script type="text/javascript">
 
 $(".submenu").click(function(){
@@ -263,8 +269,9 @@ function cargarVideo(url){
     <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
 
 
-</body>
 
 
 
 </html>
+
+</body>
