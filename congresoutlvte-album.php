@@ -15,11 +15,11 @@
             <img src="http://www.congresoutlvte.org/faci/images/Rector.jpg">
 
             <div class="card-body">
-              <p class="card-text">Girard Vernaza Arrollo, PhD. <br> Rector de la Universidad Técnica "Luis Vargas Torres" de Esmeraldas.</p>
+              <p class="card-text"><b>Girard Vernaza<b>  <br> Rector de la Universidad Técnica "Luis Vargas Torres" de Esmeraldas.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
+                   <button  onclick="location.href='https://utelvt.edu.ec/sitioweb/index.php/rector'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                  <button  onclick="location.href='https://www.youtube.com/watch?v=-2gqhIER5Uo'" type="button" class="btn btn-sm btn-outline-secondary">VIDEO</button>
                 </div>
                 <small class="text-muted">9 mins</small>
               </div>
@@ -31,7 +31,7 @@
             <img src="http://www.congresoutlvte.org/faci/images/Vicerectora.jpg">
 
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text"><b>Elizabeth Canchingre</b><br>Vice-rectora Académica UTLVTE.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
