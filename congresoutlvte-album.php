@@ -21,7 +21,6 @@
                    <button  onclick="location.href='https://utelvt.edu.ec/sitioweb/index.php/rector'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
                   <button  onclick="location.href='https://www.youtube.com/watch?v=-2gqhIER5Uo'" type="button" class="btn btn-sm btn-outline-secondary">VIDEO</button>
                 </div>
-                <small class="text-muted">9 mins</small>
               </div>
             </div>
           </div>
