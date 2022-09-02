@@ -200,7 +200,7 @@
 include_once("head.php");
 ?>
 
-<div style="border:4px red solid;  display:flex;flex-direction: column; background-color: white;">
+<div style="display:flex;flex-direction: column; background-color: white;">
 <?php
 //include_once("carrusel.php");
 ?>
