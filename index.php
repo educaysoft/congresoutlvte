@@ -219,6 +219,9 @@ include_once("congresoutlvte-resumen.php");
 //include_once("inblue.php");
 ?>
 
+<?php
+include_once("congresoutlvte-album.php");
+?>
 
 <?php
 include_once("congresoutlvte-comites.php");
@@ -226,9 +229,6 @@ include_once("congresoutlvte-comites.php");
 
 
 
-<?php
-include_once("congresoutlvte-album.php");
-?>
 
 
 <?php
