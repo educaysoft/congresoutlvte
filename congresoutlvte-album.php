@@ -6,6 +6,19 @@
 
 <main>
 
+
+<section class="py-5 text-center container">
+    <div class="row py-lg-5">
+      <div class="col-lg-6 col-md-8 mx-auto">
+        <h1 class="fw-light">Dirección y coordinación del congreso</h1>
+        <p class="lead text-muted">Miembros de honor.</p>
+      </div>
+    </div>
+  </section>
+
+
+
+
   <div class="album py-5 bg-light">
     <div class="container">
 
@@ -46,13 +59,13 @@
             <img src="http://www.congresoutlvte.org/faci/images/Decano.png">
 
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text"><strong>Lenin Montaño</strong> <br> Decano FACI-UTLVTE.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
-                <small class="text-muted">9 mins</small>
+             <!---   <small class="text-muted">9 mins</small>  -->
               </div>
             </div>
           </div>
