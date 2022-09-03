@@ -79,7 +79,7 @@
        <div class="d-flex justify-content-center align-items-center h-100">
           <div class="text-black">
            <h1 class="mb-3">I CONGRESO INTERNACIONAL </h1>
-           <h3 class="mb-4"> UNA MIRADA A LA CIENCIAS DE INGENIEROS E INGENIERAS FACI 2022</h3>
+           <h3 class="mb-4"> UNA MIRADA A LA CIENCIAS DE INGENIEROS E INGENIERAS</h3>
             <h4 class="mb-5"> FACI - UTLVTE 2022</h4>
             <h5 class="mb-6">  noviembre 7-9, 2022 <br> Esmeraldas-Ecuador  </h5>
  <a
