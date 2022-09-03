@@ -1,13 +1,12 @@
 <html>
 <head>
-
-	<title> II JORNADA CIENTIFICA</title>
+<title>1er Congreso Internacional "Una Mirada a la Ciencias de Ingeniero e Ingenieras FACI-UTLVTE,2022</title>
 	<link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-	<meta name="description" content="1er Congreso Internacional Virtual Pedagogía e Interculturalidad realizado en la Universidad Técnica Luis Vargas Torres" />
+	<meta name="description" content="1er Congreso Internacional 'Una Mirada a la Ciencias de Ingeniero e Ingenieras FACI-UTLVTE,2022'" />
 	<meta property="og:locale" content="es_EC" />
 	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Congreso Internacional Virtual Pedagogía e Interculturalidad" />
-	<meta property="og:description" content="1er Congreso Internacional Virtual Pedagogía e Interculturalidad realizado en la Universidad Técnica Luis Vargas Torres." />
+	<meta property="og:title" content="1er Congreso Internacional 'Una Mirada a la Ciencias de Ingeniero e Ingenieras FACI-UTLVTE,2022'" />
+	<meta property="og:description" content="1er Congreso Internacional 'Una Mirada a la Ciencias de Ingeniero e Ingenieras FACI-UTLVTE,2022'" />
 	<meta property="og:url" content="https://www.congresoute.edu/" />
 	<meta property="og:site_name" content="FACULTAD DE INGENIERÍAS" />
 	<meta property="article:modified_time" content="2021-12-14T21:51:01+00:00" />
