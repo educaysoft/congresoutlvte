@@ -32,7 +32,7 @@
             </li>
 
             <li class="nav-item">
-              <a class="nav-link" href="congresoutlvte-normas.php#">Normativa</a>
+              <a class="nav-link" href="congresoutlvte-normafinal.php#">Normativa</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="#">Agenda</a>
