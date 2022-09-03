@@ -75,16 +75,15 @@
 
 
     <div style="float:left; padding:0.5vw; ">
-      <a href="http://www.facebook.com/facultaddelapedagogia.facped"><img src="images/facped1.png" width="100vw" height="100vh"></a>
+      <a href="http://www.congresoutlvte.org/facped/index.php"><img src="images/logocongresofacped1.png" width="100vw" height="100vh"></a>
+
     </div>
 
     <div style="float:left; padding:0.5vw; ">
-      <a href="https://inblueeditorial.com/"><img src="images/blue.png"  height="100vh"></a>
+      <a href="https://www.manglareditores.com/"><img src="images/manglareditorial.jpg"  height="100vh"></a>
     </div>
 
-    <div style="float:left; padding:0.5vw; ">
-      <a href="https://feriacienciaspedagogicasfacped.com/"><img src="images/feria5.jpeg"  height="150vh"></a>
-    </div>
+    
 </div>
 </div>
 
