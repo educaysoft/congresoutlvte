@@ -59,11 +59,11 @@ include("head.php");
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="img-contenedor w3-card-4" style="border:2px solid green; width: 40vw; display:flex; justify-content: center; align-items: center;">
-      <img src="images/faci.jpg" style="width:100%" >
+      <img src="images/tematica1.jpg" style="width:100%" >
   </div>
   <div style=" width: 60%; display: flex;justify-content: center;align-items: center;">
     <div style=" margin: auto;text-align: center;">
-      <p style="font-size: 20px; margin:10px 0 10px 0;">Avance de sectores económicos para una eficiencia energética y producción de energías limpias</p>
+      <p style="font-size: 20px; margin:10px 0 10px 0;">Sistema de monitoreo remoto, in situ y en gabinete, caracterización de variables climáticas y productivas mediante sensores y procedimientos afines. Big Data</p>
       <p style="color:gray;"> --- Facultad de Ingenierias </p> 
     </div>  
 </div>
