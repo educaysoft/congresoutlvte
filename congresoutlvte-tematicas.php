@@ -15,12 +15,12 @@ include("head.php");
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="img-contenedor w3-card-4"  style="border:2px solid green; width: 40%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/facped.jpg" style="width:100%">
+      <img src="images/tematica1.jpg" style="width:100%">
   </div>
   <div style=" width: 60%; display: flex;justify-content: center;align-items: center;">
     <div style=" margin: auto;text-align: center;">
-      <p style="font-size: 20px; margin:10px 0 10px 0;">Formación pedagógica, educación y sociedad</p>
-      <p style="color:gray;"> --- Facultad de la Pedagogía </p> 
+      <p style="font-size: 20px; margin:10px 0 10px 0;">Sistema de monitoreo remoto, in situ y en gabinete, caracterización de variables climáticas y productivas mediante sensores y procedimientos afines. Big Data</p>
+      <p style="color:gray;"> --- Facultad de Ingenierias </p> 
     </div>  
 </div>
 </div>
@@ -34,14 +34,14 @@ include("head.php");
 <div style="width: 60%; display: flex;justify-content: center;align-items: center;">
 
   <div style=" margin: auto;text-align: center;">
-    <p style="font-size:20px; margin:10px 10px 10px 0px;">Despliegue local y perfeccionamiento empresarial desde las ciencias administrativas</p>
-    <p style="color:gray;">--- Facultad de Ciencias Administrativas y Económicas</p> 
+    <p style="font-size:20px; margin:10px 10px 10px 0px;">Generación energética autónoma sustentable y sostenibilidad</p>
+    <p style="color:gray;">--- Facultad de Ingenierías</p> 
   </div>  
 </div>
 
 <div class="img-contenedor w3-card-4"  style=" border:2px solid green;width: 40%; display:flex; justify-content: center;">
 
-     <img src="images/facae.jpg" style="width:100%">
+     <img src="images/tematica2.jpg" style="width:100%">
 </div>
 
 </div>
@@ -53,11 +53,11 @@ include("head.php");
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="img-contenedor w3-card-4" style="border:2px solid green; width: 40vw; display:flex; justify-content: center; align-items: center;">
-      <img src="images/tematica1.jpg" style="width:100%" >
+      <img src="images/tematica3.jpg" style="width:100%" >
   </div>
   <div style=" width: 60%; display: flex;justify-content: center;align-items: center;">
     <div style=" margin: auto;text-align: center;">
-      <p style="font-size: 20px; margin:10px 0 10px 0;">Sistema de monitoreo remoto, in situ y en gabinete, caracterización de variables climáticas y productivas mediante sensores y procedimientos afines. Big Data</p>
+      <p style="font-size: 20px; margin:10px 0 10px 0;">Automatización y control en procesos técnicos y productivos</p>
       <p style="color:gray;"> --- Facultad de Ingenierias </p> 
     </div>  
 </div>
@@ -72,8 +72,8 @@ include("head.php");
 <div style="width: 60%; display: flex;justify-content: center;align-items: center;">
 
   <div style=" margin: auto;text-align: center;">
-    <p style="font-size:20px; margin:10px o 10px 0;">Impulso agropecuario sostenible y gestión ambiental</p>
-    <p style="color:gray;">--- Facultad de Ciencias Agropecuarias</p> 
+    <p style="font-size:20px; margin:10px o 10px 0;">TICS en la educación y las ciencias. Aplicación a la comunidad.</p>
+    <p style="color:gray;">--- Facultad de Ingenierias</p> 
   </div>  
 </div>
 
@@ -91,12 +91,12 @@ include("head.php");
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="img-contenedor w3-card-4" style="border:2px solid green; width: 40%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/facso.jpg" style="width: 100%">
+      <img src="images/tematica5.jpg" style="width: 100%">
   </div>
   <div style=" width: 60%; display: flex;justify-content: center;align-items: center;">
     <div style=" margin: auto;text-align: center;">
-      <p style="font-size: 20px; margin:10px 0 10px 0;">Desarrollo memoria social e histórica</p>
-      <p style="color:gray;"> --- Facultad de Ciencias Sociales y de Servicios </p> 
+      <p style="font-size: 20px; margin:10px 0 10px 0;">Virtualización y Privacidad en la era digital.</p>
+      <p style="color:gray;"> --- Facultad de Ingenierìas</p> 
     </div>  
 </div>
 </div>
