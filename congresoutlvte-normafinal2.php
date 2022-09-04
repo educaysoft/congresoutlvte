@@ -19,7 +19,7 @@ include("head.php");
 </center></div>
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
 
-<object width="600%" height="1000" type="application/pdf" data="Documentos/normas.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
+<object width="600%" height="1000" type="application/pdf" data="Documentos/FormularioEvaluacionPonencias.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
     <p>Si no visualiza el documento aquí, puede visualizarlo y  descargarlo presionando el boton de <b>Descarga</b>.</p>
 </object>
 
