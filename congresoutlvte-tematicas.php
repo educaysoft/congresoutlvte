@@ -35,7 +35,7 @@ include("head.php");
 <div style="width: 60%; display: flex;justify-content: center;align-items: center;">
 
   <div style=" margin: auto;text-align: center;">
-    <p style="font-size:20px; margin:10px 10px 10px 0px;">Generación energética autónoma sustentable y sostenibilidad</p>
+    <p style="font-size:20px; margin:10px 10px 10px 0px;">Generación energética autónoma sustentable y sostenibilidad.</p>
     <p style="color:gray;">--- Facultad de Ingenierías</p> 
   </div>  
 </div>
@@ -58,7 +58,7 @@ include("head.php");
   </div>
   <div style=" width: 60%; display: flex;justify-content: center;align-items: center;">
     <div style=" margin: auto;text-align: center;">
-      <p style="font-size: 20px; margin:10px 0 10px 0;">Automatización y control en procesos técnicos y productivos</p>
+      <p style="font-size: 20px; margin:10px 0 10px 0;">Automatización y control en procesos técnicos y productivos.</p>
       <p style="color:gray;"> --- Facultad de Ingenierias </p> 
     </div>  
 </div>
