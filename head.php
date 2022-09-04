@@ -84,7 +84,7 @@
             <h5 class="mb-6">  noviembre 7-9, 2022 <br> Esmeraldas-Ecuador  </h5>
  <a
             class="btn btn-outline-light btn-lg m-2"
-            href="https://www.youtube.com/watch?v=c9B4TPnak1A"
+             href="https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link"
             role="button"
             rel="nofollow"
             target="_blank"
