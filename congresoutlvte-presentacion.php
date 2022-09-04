@@ -16,7 +16,7 @@ include("head.php");
 <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> PRESENTACIÓN DEL EVENTO</p>
 
 	<div class="row py-lg-5 text-center ">
-      		<div class="col-lg-6 col-md-8 ">
+      		<div class="col-xs-12 col-md-8 mx-auto">
         		<p class="lead text-muted">En el marco de sus años de creación institucional, el 12 de noviembre  de 1984, y orientada a la implementación de estrategias de desarrollo sustentable desde la multidisciplinariedad y la integración de disciplinas, la Facultad de Ingenierias, FACI de la UTLVTE se apresta a inaugurar el I Congreso Internacional "Miradas sobre las Ciencias de Ingenieros e ingenieras - FACI-UTLVTE 2022", a realizarse durante los días 7,8,9 de noviembre de 2022.</p>
       		</div>
     	</div>
