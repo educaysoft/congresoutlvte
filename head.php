@@ -75,10 +75,10 @@
 	<div class="mask" style="background-color:hsla(120,100%,50%,0.0)">
        <div class="d-flex justify-content-center align-items-center h-100">
           <div class="text-black">
-           <h1 class="mb-3" style="color: white; text-shadow: 2px 2px #FFFFFF;">I CONGRESO INTERNACIONAL </h1>
-           <h3 class="mb-4" style="text-shadow: 2px 2px #FFFFFF;" > UNA MIRADA A LA CIENCIAS DE INGENIEROS E INGENIERAS</h3>
-            <h4 class="mb-5" style="text-shadow: 2px 2px #FFFFFF;"> FACI - UTLVTE 2022</h4>
-            <h5 class="mb-6" style="text-shadow: 2px 2px #FFFFFF;">  noviembre 7,8,9 - 2022 <br> Esmeraldas-Ecuador  </h5>
+           <h1 class="mb-3" style="color: white; text-shadow: 2px 2px #000000;">I CONGRESO INTERNACIONAL </h1>
+           <h3 class="mb-4" style="color: white; text-shadow: 2px 2px #000000;" > UNA MIRADA A LA CIENCIAS DE INGENIEROS E INGENIERAS</h3>
+            <h4 class="mb-5" style="color: white; text-shadow: 2px 2px #000000;"> FACI - UTLVTE 2022</h4>
+            <h5 class="mb-6" style="color: white; text-shadow: 2px 2px #000000;">  noviembre 7,8,9 - 2022 <br> Esmeraldas-Ecuador  </h5>
  <a
             class="btn btn-outline-light btn-lg m-2"
              href="#"
