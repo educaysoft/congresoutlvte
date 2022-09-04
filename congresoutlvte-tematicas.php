@@ -79,7 +79,7 @@ include("head.php");
 
 <div  class="img-contenedor w3-card-4" style=" border:2px solid green;width: 40%; display:flex; justify-content: center;">
       <a href=" https://www.youtube.com/watch?v=7OkZgw9dSJo"> 
-     <img src="images/facap.jpg" style="width:100%"></a>
+     <img src="images/tematica4.jpg" style="width:100%"></a>
 </div>
 </div>
 
