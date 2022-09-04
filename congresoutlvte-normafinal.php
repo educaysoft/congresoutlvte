@@ -15,7 +15,7 @@ include("head.php");
     <div class="row py-lg-5">
       <div class="col-lg-6 col-md-8 mx-auto">
         <h1 class="fw-light">Nomativas </h1>
-        <p class="lead text-muted">Aquí encontraras todo lo requisitos necesarios para redactar tu artículo y la plantilla de como se va a evaluar.</p>
+        <p class="lead text-muted">Aquí encontrarás todos los requisitos necesarios para redactar tu artículo y la plantilla de como realizar tu propia evaluación para asegurar el exito de tu trabajo.</p>
         <p>
           <a href="congresoutlvte-normafinal1.php" class="btn btn-primary my-2">Normas para edición</a>
           <a href="congresoutlvte-normafinal2.php" class="btn btn-secondary my-2">Plantilla para evaluar</a>
