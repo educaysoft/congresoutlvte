@@ -19,18 +19,21 @@ include("head.php");
 
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-primary">World</strong>
-          <h3 class="mb-0">Featured post</h3>
-          <div class="mb-1 text-muted">Nov 12</div>
-          <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
-          <a href="#" class="stretched-link">Continue reading</a>
+          <h3 class="mb-0">Visión del Evento</h3>
+          <p class="card-text mb-auto">Promover el desarrollo de la investigación multidisciplinaria en ciencias ingenieriles, y su aplicación en diferentes contextos en aras del desarrollo técnico-ingenieril eco-sustentable.</p>
         </div>
         
       </div>
 
 
 
-
+<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <h3 class="mb-0">Misión del evento</h3>
+          <p class="card-text mb-auto">Fortalecimiento de la vinculación y relaciones entre la Academia, Gobierno, Comunidad Científica UTLVTE, Instituciones, Grupos de Investigación y la Empresa Pública y Privada.</p>
+        </div>
+        
+      </div>
 
 
 
