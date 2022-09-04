@@ -67,7 +67,7 @@
 
 	<div class="col">
           <div class="card shadow-sm">
-            <img src="http://www.congresoutlvte.org/faci/images/Vicerector2.png">
+            <img src="http://www.congresoutlvte.org/faci/images/Vicerector2.jpg">
 
             <div class="card-body">
               <p class="card-text"><strong>Manuel Quiñonez</strong> <br> Vicerrector de investigación.<br>_</p>
@@ -86,7 +86,7 @@
 
 	<div class="col">
           <div class="card shadow-sm">
-            <img src="http://www.congresoutlvte.org/faci/images/Coordinador.png">
+            <img src="http://www.congresoutlvte.org/faci/images/Coordinador.jpg">
 
             <div class="card-body">
               <p class="card-text"><strong>Franklin Ochoa</strong> <br> Coordinador del Evento.<br>_</p>
