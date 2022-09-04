@@ -111,15 +111,98 @@ include("head.php");
 <div style="width: 60%; display: flex;justify-content: center;align-items: center;">
 
   <div style=" margin: auto;text-align: center;">
-    <p style="font-size:20px; margin:10px o 10px 0;">Gestión universitaria institucional desde la investigación, la docencia y la vinculación.</p>
+    <p style="font-size:20px; margin:10px o 10px 0;">Visión Sistémica de las Perspectivas ambientales de desarrollo y tecnología asociadas. Integración Multidisciplinaria y Sostenibilidad.</p>
   </div>  
 </div>
 
 <div  class="img-contenedor w3-card-4" style=" border:2px solid green;width: 40%; display:flex; justify-content: center;">
       <a href=" https://www.youtube.com/watch?v=7OkZgw9dSJo"> 
-     <img src="images/vinculacion.jpg" style="width:100%"></a>
+     <img src="images/tematica6.jpg" style="width:100%"></a>
 </div>
 </div>
+
+
+
+
+<div style="padding:20px;">
+<hr>
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="img-contenedor w3-card-4" style="border:2px solid green; width: 40%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/tematica7.jpg" style="width: 100%">
+  </div>
+  <div style=" width: 60%; display: flex;justify-content: center;align-items: center;">
+    <div style=" margin: auto;text-align: center;">
+      <p style="font-size: 20px; margin:10px 0 10px 0;">Visión docente y estudiantil en ciencias técnicas e ingeniería.</p>
+      <p style="color:gray;"> --- Facultad de Ingenierìas</p> 
+    </div>  
+</div>
+</div>
+
+
+
+<div style="padding:20px;">
+<hr>
+</div>
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width: 100%;" >
+<div style="width: 60%; display: flex;justify-content: center;align-items: center;">
+
+  <div style=" margin: auto;text-align: center;">
+    <p style="font-size:20px; margin:10px o 10px 0;">Ingeniería Química, Química Verde y Sostenibilidad. Desarrollo de procesos y productos. Materiales y Aplicaciones.</p>
+  </div>  
+</div>
+
+<div  class="img-contenedor w3-card-4" style=" border:2px solid green;width: 40%; display:flex; justify-content: center;">
+      <a href=" https://www.youtube.com/watch?v=7OkZgw9dSJo"> 
+     <img src="images/tematica8.jpg" style="width:100%"></a>
+</div>
+</div>
+
+
+
+
+
+<div style="padding:20px;">
+<hr>
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="img-contenedor w3-card-4" style="border:2px solid green; width: 40%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/tematica9.jpg" style="width: 100%">
+  </div>
+  <div style=" width: 60%; display: flex;justify-content: center;align-items: center;">
+    <div style=" margin: auto;text-align: center;">
+      <p style="font-size: 20px; margin:10px 0 10px 0;">Ingeniería Mecánica Aplicada. Diseño y desarrollo de prototipos.</p>
+      <p style="color:gray;"> --- Facultad de Ingenierìas</p> 
+    </div>  
+</div>
+</div>
+
+
+
+<div style="padding:20px;">
+<hr>
+</div>
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width: 100%;" >
+<div style="width: 60%; display: flex;justify-content: center;align-items: center;">
+
+  <div style=" margin: auto;text-align: center;">
+    <p style="font-size:20px; margin:10px o 10px 0;">Ciencas Naturales. </p>
+  </div>  
+</div>
+
+<div  class="img-contenedor w3-card-4" style=" border:2px solid green;width: 40%; display:flex; justify-content: center;">
+      <a href=" https://www.youtube.com/watch?v=7OkZgw9dSJo"> 
+     <img src="images/tematica10.jpg" style="width:100%"></a>
+</div>
+</div>
+
+
 
 
 
