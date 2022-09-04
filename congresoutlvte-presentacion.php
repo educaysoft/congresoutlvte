@@ -12,7 +12,7 @@ include("head.php");
 <div style="width: 100%; margin:0px auto; padding: 10px;background-color: white;">
 
 
-<main id="agenda" class="cd-main-content" style="margin-top:0%">
+<main  class="container" >
 <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> DETALLES DEL EVENTO</p>
 
 
@@ -27,10 +27,7 @@ include("head.php");
           <p class="card-text mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
           <a href="#" class="stretched-link">Continue reading</a>
         </div>
-        <div class="col-auto d-none d-lg-block">
-          <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
-        </div>
+        
       </div>
     </div>
 
