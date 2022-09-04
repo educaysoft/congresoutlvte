@@ -13,31 +13,27 @@ include("head.php");
 
 
 <main  class="container" >
-<p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> DETALLES DEL EVENTO</p>
+<p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> PRESENTACIÓN DEL EVENTO</p>
 
-<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-
-<div class="row py-lg-5 text-center container">
-      <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Dirección y coordinación del congreso</h1>
-        <p class="lead text-muted">Miembros de honor.</p>
-      </div>
-    </div>
-
-
-
-
-
-	
-        
+	<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+	<div class="row py-lg-5 text-center container">
+      		<div class="col-lg-6 col-md-8 mx-auto">
+        		<p class="lead text-muted">En el marco de sus años de creación institucional, el 12 de noviembre  de 1984, y orientada a la implementación de estrategias de desarrollo sustentable desde la multidisciplinariedad y la integración de disciplinas, la Facultad de Ingenierias, FACI de la UTLVTE se apresta a inaugurar el I Congreso Internacional "Miradas sobre las Ciencias de Ingenieros e ingenieras - FACI-UTLVTE 2022", a realizarse durante los días 7,8,9 de noviembre de 2022.</p>
+      		</div>
+    	</div>
       </div>
 
-      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-        <div class="col p-4 d-flex flex-column position-static">
-          <h3 class="mb-0">Visión del Evento</h3>
-          <p class="card-text mb-auto">Promover el desarrollo de la investigación multidisciplinaria en ciencias ingenieriles, y su aplicación en diferentes contextos en aras del desarrollo técnico-ingenieril eco-sustentable.</p>
+
+
+
+	<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+	<div class="row py-lg-5 text-center container">
+      		<div class="col-lg-6 col-md-8 mx-auto">
+
+          <h3 class="fw-light">Visión del Evento</h3>
+          <p class="lead text-muted">Promover el desarrollo de la investigación multidisciplinaria en ciencias ingenieriles, y su aplicación en diferentes contextos en aras del desarrollo técnico-ingenieril eco-sustentable.</p>
         </div>
-        
+        </div>
       </div>
 
 
