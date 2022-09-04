@@ -6,7 +6,7 @@ include("head0.php");
 <?php
 include("head.php");
 ?>
-<div style="width: 100%; margin:0px auto; padding: 10px;">
+<div style="width: 100%; margin:0px auto; padding: 10px;background-color: white;">
 
 
 <main id="agenda" class="cd-main-content" style="margin-top:0%">
