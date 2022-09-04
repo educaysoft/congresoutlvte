@@ -17,8 +17,8 @@ include("head.php");
         <h1 class="fw-light">Nomativas </h1>
         <p class="lead text-muted">Aquí encontraras todo lo requisitos necesarios para redactar tu artículo y la plantilla de como se va a evaluar.</p>
         <p>
-          <a href="congresoutlvte-normafinal1" class="btn btn-primary my-2">Normas para edición</a>
-          <a href="congresoutlvte-normafinal2" class="btn btn-secondary my-2">Plantilla para evaluar</a>
+          <a href="congresoutlvte-normafinal1.php" class="btn btn-primary my-2">Normas para edición</a>
+          <a href="congresoutlvte-normafinal2.php" class="btn btn-secondary my-2">Plantilla para evaluar</a>
         </p>
       </div>
     </div>
