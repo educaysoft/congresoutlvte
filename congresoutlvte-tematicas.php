@@ -3,13 +3,12 @@ include("head0.php");
 ?>
 
 
-<div style="  display:flex;flex-direction: column; background-color: white;">
 
+<div style="width: 100%; margin:0px auto; padding: 10px;background-color: white;">
 <?php
 include("head.php");
 ?>
 
-<div style="width: 100%; margin:0px auto; padding: 10px;">
 
 
 <main id="agenda" class="cd-main-content" style="margin-top:0%">
@@ -165,8 +164,6 @@ include("head.php");
 
 
 
-
-
 <div style="padding:20px;">
 <hr>
 </div>
@@ -204,16 +201,7 @@ include("head.php");
 </div>
 </div>
 
-
-
-
-
-
-
-
-
 </main>
-</div>
 
 
 
