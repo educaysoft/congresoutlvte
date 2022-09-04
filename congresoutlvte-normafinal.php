@@ -18,7 +18,7 @@ include("head.php");
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
 
 <object width="600%" height="1000" type="application/pdf" data="Documentos/normas.pdf?#zoom=85&scrollbar=0&toolbar=0&navpanes=0">
-    <p>Insert your error message here, if the PDF cannot be displayed.</p>
+    <p>Si no visualiza el documento aquí, puede visualizarlo y  descargarlo presionando el boton de <b>Descarga</b>.</p>
 </object>
 
 

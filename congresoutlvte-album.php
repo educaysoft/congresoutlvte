@@ -65,6 +65,44 @@
           </div>
         </div>
 
+	<div class="col">
+          <div class="card shadow-sm">
+            <img src="http://www.congresoutlvte.org/faci/images/Vicerector2.png">
+
+            <div class="card-body">
+              <p class="card-text"><strong>Manuel Quiñonez</strong> <br> Vicerrector de investigación.<br>_</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                </div>
+             <!---   <small class="text-muted">9 mins</small>  -->
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+	<div class="col">
+          <div class="card shadow-sm">
+            <img src="http://www.congresoutlvte.org/faci/images/Coordinador.png">
+
+            <div class="card-body">
+              <p class="card-text"><strong>Franklin Ochoa</strong> <br> Coordinador del Evento.<br>_</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                </div>
+             <!---   <small class="text-muted">9 mins</small>  -->
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
       </div>
     </div>
   </div>
