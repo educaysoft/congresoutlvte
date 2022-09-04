@@ -9,7 +9,7 @@ include("head.php");
 ?>
 
 
-<div style="display:flex;flex-direction: column; background-color: white;">
+<div style="width: 100%; margin:0px auto; padding: 10px;background-color: white;">
 
 <main id="agenda" class="cd-main-content" style="margin-top:0%">
 <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> EJES TEMÁTICOS</p>
@@ -213,3 +213,41 @@ include("head.php");
 
 include("footer.php");
 ?>
+
+
+</div>
+
+
+<!-- MDB -->
+<script
+  type="text/javascript"
+  src="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.4.0/mdb.min.js"
+></script>
+
+<script type="text/javascript">
+
+$(".submenu").click(function(){
+  $(this).children("ul").slideToggle();
+})
+
+$("ul").click(function(ev){
+  ev.stopPropagation();
+})
+
+
+function cargarVideo(url){
+	document.getElementById('slider').src=url;
+}
+
+
+</script>
+    <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
+
+
+
+
+
+</html>
+
+</body>
+
