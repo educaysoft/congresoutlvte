@@ -10,7 +10,20 @@ include("head.php");
 
 
 <main id="agenda" class="cd-main-content" style="margin-top:0%">
-<p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> PLANTILLA DE PRESENTACIÓN DE PONENCIAS</p>
+
+<section class="py-5 text-center container">
+    <div class="row py-lg-5">
+      <div class="col-lg-6 col-md-8 mx-auto">
+        <h1 class="fw-light">Nomativas </h1>
+        <p class="lead text-muted">Aquí encontraras todo lo requisitos necesarios para redactar tu artículo y la plantilla de como se va a evaluar.</p>
+        <p>
+          <a href="#" class="btn btn-primary my-2">Plantilla de edición</a>
+          <a href="#" class="btn btn-secondary my-2">Plantilla de evaluación</a>
+        </p>
+      </div>
+    </div>
+  </section>
+
 
 
 <div style="width: 100%;padding:10px;" > <center><a href="Documentos/normas.pdf"><button class="button-33" role="button">Desargar</button></a>
