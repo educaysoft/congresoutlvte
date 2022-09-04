@@ -2,11 +2,13 @@
 include("head0.php");
 ?>
 
+
+<div style="  display:flex;flex-direction: column; background-color: white;">
+
 <?php
 include("head.php");
 ?>
 
-<div style="  display:flex;flex-direction: column; background-color: white;">
 <div style="width: 100%; margin:0px auto; padding: 10px;">
 
 
