@@ -4,12 +4,12 @@ include("head0.php");
 
 
 
-<div style="width: 100%; margin:0px auto; padding: 10px;background-color: white;">
 <?php
 include("head.php");
 ?>
 
 
+<div style="width: 100%; margin:0px auto; padding: 10px;background-color: white;">
 
 <main id="agenda" class="cd-main-content" style="margin-top:0%">
 <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> EJES TEMÁTICOS</p>
