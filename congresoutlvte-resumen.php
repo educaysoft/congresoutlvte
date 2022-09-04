@@ -8,7 +8,7 @@
 
 
   <p  style="text-align:center">En el marco de sus años de creación institucional, el 12 de noviembre  de 1984, y orientada a la implementación de estrategias de desarrollo sustentable desde la multidisciplinariedad y la integración de disciplinas, la Facultad de Ingenierias, FACI de la UTLVTE se apresta a inaugurar el I Congreso Internacional "Miradas sobre las Ciencias de Ingenieros e ingenieras - FACI-UTLVTE 2022", a realizarse durante los días 7,8,9 de noviembre de 2022.</p> 
-<p class="lead mb-0"><a href="congresoutlvte-presentacion" class="stretched-link">Continue reading...</a></p>
+<p class="lead mb-0"><a href="congresoutlvte-presentacion.php" class="stretched-link">Continue reading...</a></p>
   </main>
 </div>
 </div>
