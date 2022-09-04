@@ -44,7 +44,7 @@ include("head.php");
 
 	<div class="row g-0  overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
 	<div class="row py-lg-5 text-center container">
-          <h3 class="fw-light">Objetivo</h3>
+          <h3 class="fw-light">Objetivos</h3>
 
 
 
