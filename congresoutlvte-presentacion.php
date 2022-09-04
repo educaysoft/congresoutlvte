@@ -32,10 +32,11 @@ include("head.php");
 
 
 
-<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-        <div class="col p-4 d-flex flex-column position-static">
-          <h3 class="mb-0">Misión del evento</h3>
-          <p class="card-text mb-auto">Fortalecimiento de la vinculación y relaciones entre la Academia, Gobierno, Comunidad Científica UTLVTE, Instituciones, Grupos de Investigación y la Empresa Pública y Privada.</p>
+	<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+	<div class="row py-lg-5 text-center container">
+
+          <h3 class="fw-light">Misión del evento</h3>
+          <p class="lead text-muted">Fortalecimiento de la vinculación y relaciones entre la Academia, Gobierno, Comunidad Científica UTLVTE, Instituciones, Grupos de Investigación y la Empresa Pública y Privada.</p>
         </div>
         
       </div>
