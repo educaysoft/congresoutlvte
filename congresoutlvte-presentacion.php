@@ -42,7 +42,7 @@ include("head.php");
 
 
 
-	<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+	<div class="row g-0  overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
 	<div class="row py-lg-5 text-center container">
           <h3 class="fw-light">Objetivo</h3>
 
@@ -51,8 +51,8 @@ include("head.php");
 <ul class="list-group">
 <li class="list-group-item list-group-item-primary">Estimular la cultura de la investigación universitaria multidiscipinaria, y aplicada.</li>
 <li class="list-group-item list-group-item-secondary"   >Debatir, críticamente, los desarrollos conceptuales, metodológicos y estados de la técnica y el arte</li>
-<li>Actualizar las tendencias de investigación en ciencias técnicas e ingenierías a nivel global, y a escala local.</li>
-<li>Generar alianzas estratégicas a nivel inter-institucional, gubernamental, comunitario y regional.</li>
+<li class="list-group-item list-group-item-success">Actualizar las tendencias de investigación en ciencias técnicas e ingenierías a nivel global, y a escala local.</li>
+<li class="list-group-item list-group-item-danger">Generar alianzas estratégicas a nivel inter-institucional, gubernamental, comunitario y regional.</li>
 </ul>
         </div>
         
