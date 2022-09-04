@@ -15,7 +15,13 @@ include("head.php");
 <main  class="container" >
 <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> DETALLES DEL EVENTO</p>
 
-
+<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <h3 class="mb-0">Presencación</h3>
+<p  style="text-align:center">En el marco de sus años de creación institucional, el 12 de noviembre  de 1984, y orientada a la implementación de estrategias de desarrollo sustentable desde la multidisciplinariedad y la integración de disciplinas, la Facultad de Ingenierias, FACI de la UTLVTE se apresta a inaugurar el I Congreso Internacional "Miradas sobre las Ciencias de Ingenieros e ingenieras - FACI-UTLVTE 2022", a realizarse durante los días 7,8,9 de noviembre de 2022.</p>
+        </div>
+        
+      </div>
 
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
         <div class="col p-4 d-flex flex-column position-static">
@@ -31,6 +37,21 @@ include("head.php");
         <div class="col p-4 d-flex flex-column position-static">
           <h3 class="mb-0">Misión del evento</h3>
           <p class="card-text mb-auto">Fortalecimiento de la vinculación y relaciones entre la Academia, Gobierno, Comunidad Científica UTLVTE, Instituciones, Grupos de Investigación y la Empresa Pública y Privada.</p>
+        </div>
+        
+      </div>
+
+
+
+<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+        <div class="col p-4 d-flex flex-column position-static">
+          <h3 class="mb-0">Objetivo</h3>
+<ul>
+<li>Estimular la cultura de la investigación universitaria multidiscipinaria, y aplicada.</li>
+<li>Debatir, críticamente, los desarrollos conceptuales, metodológicos y estados de la técnica y el arte</li>
+<li>Actualizar las tendencias de investigación en ciencias técnicas e ingenierías a nivel global, y a escala local.</li>
+<li>Generar alianzas estratégicas a nivel inter-institucional, gubernamental, comunitario y regional.</li>
+</ul>
         </div>
         
       </div>
