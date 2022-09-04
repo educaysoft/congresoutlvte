@@ -108,12 +108,12 @@
 
 <div style="color: black; height: 100%; width: 30%; display:flex; justify-content: center;  ">
     <ul style="margin:0; padding:0;" class="icons">
-    <li><a href="congresoutlvte-normas.php">Normativas</a></li>
-    <li><a href="congresoutlvte-agenda.php">Agenda</a></li>
-    <li><a href="congresoutlvte-confe2.php">Conferencias</a></li>
-    <li><a href="congresoutlvte-pdf.php">Ferias de libros virtuales</a></li>
-    <li><a href="congresoutlvte-momoria.php" >Memorias</a></li>
-    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeQiGNyzm0penp8g2X1UDPCyhsgVFpSZ-CZI8YTO6gITv-wfQ/viewform?usp=sf_link">Inscripciones</a></li>
+    <li><a href="congresoutlvte-normafinal.php">Normativas</a></li>
+    <li><a href="#">Agenda</a></li>
+    <li><a href="#">Conferencias</a></li>
+    <li><a href="#">Ferias de libros virtuales</a></li>
+    <li><a href="#" >Memorias</a></li>
+    <li><a href="#">Inscripciones</a></li>
     </ul>
 </div>
 
