@@ -89,7 +89,7 @@
           >
           <a
             class="btn btn-outline-light btn-lg m-2"
-    href="https://mdbootstrap.com/docs/standard/"
+    href="#"
     target="_blank"
             role="button"
           >Cronograma</a>
