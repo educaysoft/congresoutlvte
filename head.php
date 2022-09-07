@@ -72,7 +72,7 @@
   
 
 <!---<div   id="intro-example"  class="p-5 text-center bg-image"     style="background-image: url('http://educaysoft.org/sica/campus2.jpg');" >--->
-<div   id="intro-example"  class="p-5 text-center bg-image"     style="background-image: url('http://congresoutlvte.org/images/portada1.jpg');" >
+<div   id="intro-example"  class="p-5 text-center bg-image"     style="background-image: url('http://congresoutlvte.org/faci/images/portada1.jpg');" >
 	<div class="mask" style="background-color:hsla(120,100%,50%,0.0)">
        <div class="d-flex justify-content-center align-items-center h-100">
           <div class="text-black">
