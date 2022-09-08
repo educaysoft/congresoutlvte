@@ -224,7 +224,7 @@ include_once("congresoutlvte-album.php");
 
 
 <?php
-include_once("congresoutlvte-ponentes1.php");
+include_once("congresoutlvte-ponentesi.php");
 ?>
 
 
