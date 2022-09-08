@@ -34,7 +34,7 @@
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <img src="http://www.congresoutlvte.org/faci/images/Vicerectora.jpg">
+            <img src="http://www.congresoutlvte.org/faci/images/Vicerectora2.jpg">
 
             <div class="card-body">
               <p class="card-text"><b>Elizabeth Canchingre</b><br>Vice-rectora Académica UTLVTE.</p>
