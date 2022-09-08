@@ -222,6 +222,14 @@ include_once("congresoutlvte-resumen.php");
 include_once("congresoutlvte-album.php");
 ?>
 
+
+<?php
+include_once("congresoutlvte-ponentes1.php");
+?>
+
+
+
+
 <?php
 include_once("congresoutlvte-comites.php");
 ?>
