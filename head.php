@@ -79,7 +79,7 @@
            <h1 class="mb-3" style="color: white; text-shadow: 2px 2px #000000;">I CONGRESO INTERNACIONAL </h1>
            <p class="mb-4" style="Font-family: Impact, Charcoal, Helvetica Inserat, Bitstream Vera Sans Bold, Arial Black, sans serif; color: white;font-weight:900; font-size:1.5em; text-shadow: 2px 2px #000000;" > UNA MIRADA HACIA LAS CIENCIAS DE INGENIEROS E INGENIERAS</p>
             <p class="mb-5" style="Font-family: Impact, Charcoal, Helvetica Inserat, Bitstream Vera Sans Bold, Arial Black, sans serif; color: white; font-weight:900;font-size:1.17em;text-shadow: 2px 2px #000000;"> FACI - UTLVTE 2022</p>
-            <h5 class="mb-6" style="color: white; text-shadow: 2px 2px #000000;">  noviembre 7,8,9 - 2022 <br> Esmeraldas-Ecuador  </h5>
+        <p class="mb-6" style="Font-family: Impact, Charcoal, Helvetica Inserat, Bitstream Vera Sans Bold, Arial Black, sans serif; color: white; font-weight:900;font-size:1.17em;text-shadow: 2px 2px #000000;">   noviembre 7,8,9 - 2022 <br> Esmeraldas-Ecuador  </p>
  <a
             class="btn btn-outline-light btn-lg m-2"
              href="https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link"
