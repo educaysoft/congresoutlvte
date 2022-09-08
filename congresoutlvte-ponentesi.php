@@ -22,11 +22,11 @@
             <img src="http://www.congresoutlvte.org/faci/ponentes/ponente1.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>Mario Heredia</strong>  <br> Miembro asociado del Centro de Estudios del Ambiente y del Mar (CESAM) de la Universidad Aveiro en Portugal<br>_</p>
+              <p class="card-text"><strong>Mario Heredia</strong>  <br> Miembro asociado del Centro de Estudios del Ambiente y del Mar (CESAM) de la Universidad Aveiro en Portugal.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                   <button  onclick="location.href='https://utelvt.edu.ec/sitioweb/index.php/rector'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
-                  <button  onclick="location.href='https://www.youtube.com/watch?v=-2gqhIER5Uo'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                   <button  onclick="location.href='#'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                  <button  onclick="location.href='#'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
               </div>
             </div>
