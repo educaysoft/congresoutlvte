@@ -19,7 +19,7 @@
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
           <div class="card shadow-sm">
-            <img src="http://www.congresoutlvte.org/faci/images/Rector.jpg">
+            <img src="http://www.congresoutlvte.org/faci/images/Rector2.jpg">
 
             <div class="card-body">
               <p class="card-text"><strong>Girard Vernaza</strong>  <br> Rector UTLVTE<br>_</p>
