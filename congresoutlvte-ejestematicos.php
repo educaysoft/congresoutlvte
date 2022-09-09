@@ -56,7 +56,7 @@ TICs en la educación y las ciencias. Aplicación a la comunidad.
       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #42534c"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">5</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
-TICs en la educación y las ciencias. Aplicación a la comunidad.
+Virtualización y privacidad en la era digital.
       </p>
     </div>
 
