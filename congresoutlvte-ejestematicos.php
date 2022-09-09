@@ -30,7 +30,6 @@ Sistema de monitoreo remoto, in situ y en gabinete, caracterización de variable
       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#e83e8c"/><text x="50%" y="50%" fill="#e83e8c" dy=".3em">32x32</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
-        <strong class="d-block text-gray-dark">2</strong>
 Generación energética autónoma sustentable y sostenibilidad.
 
       </p>
@@ -46,7 +45,7 @@ Automatización y control en procesos técnicos y productivos.
 
 
 <div class="d-flex text-muted pt-3">
-      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#33ffa9"/><text x="50%" y="50%" fill="#6f42c1" dy=".3em">32x32</text></svg>
+      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#33ffa9"/><text x="50%" y="50%" fill="#6f42c1" dy=".3em">4</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
 TICs en la educación y las ciencias. Aplicación a la comunidad.
