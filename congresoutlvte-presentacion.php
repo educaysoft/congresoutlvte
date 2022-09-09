@@ -48,12 +48,52 @@ include("head.php");
 
 
 
-<ul class="list-group">
-<li class="list-group-item list-group-item-primary">Estimular la cultura de la investigación universitaria multidiscipinaria, y aplicada.</li>
-<li class="list-group-item list-group-item-secondary"   >Debatir, críticamente, los desarrollos conceptuales, metodológicos y estados de la técnica y el arte</li>
-<li class="list-group-item list-group-item-success">Actualizar las tendencias de investigación en ciencias técnicas e ingenierías a nivel global, y a escala local.</li>
-<li class="list-group-item list-group-item-danger">Generar alianzas estratégicas a nivel inter-institucional, gubernamental, comunitario y regional.</li>
-</ul>
+<div class="my-3 p-3 bg-body rounded shadow-sm">
+    <div class="d-flex text-muted pt-3">
+      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#007bff"/><text x="50%" y="50%" fill="#FFFFFF" dy=".3em">1</text></svg>
+
+      <p class="pb-3 mb-0 small lh-sm border-bottom">
+Estimular la cultura de la investigación universitaria multidiscipinaria, y aplicada.
+      </p>
+    </div>
+    <div class="d-flex text-muted pt-3">
+      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#e83e8c"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">2</text></svg>
+
+      <p class="pb-3 mb-0 small lh-sm border-bottom">
+Debatir, críticamente, los desarrollos conceptuales, metodológicos y estados de la técnica y el arte.
+
+      </p>
+    </div>
+    <div class="d-flex text-muted pt-3">
+      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#6f42c1"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">3</text></svg>
+
+      <p class="pb-3 mb-0 small lh-sm border-bottom">
+Actualizar las tendencias de investigación en ciencias técnicas e ingenierías a nivel global, y a escala local.
+      </p>
+    </div>
+
+
+<div class="d-flex text-muted pt-3">
+      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#33ffa9"/><text x="50%" y="50%" fill="#6f42c1" dy=".3em">4</text></svg>
+
+      <p class="pb-3 mb-0 small lh-sm border-bottom">
+Generar alianzas estratégicas a nivel inter-institucional, gubernamental, comunitario y regional.
+      </p>
+    </div>
+
+
+
+
+
+
+
+    <small class="d-block text-end mt-3">
+      <a href="https://congresoutlvte.org/faci/congresoutlvte-tematicas.php">Todas las temáticas</a>
+    </small>
+  </div>
+
+
+
         </div>
         
       </div>
