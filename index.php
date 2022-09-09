@@ -224,6 +224,13 @@ include_once("congresoutlvte-album.php");
 
 
 <?php
+include_once("congresoutlvte-ejestematicos.php");
+?>
+
+
+
+
+<?php
 include_once("congresoutlvte-ponentesi.php");
 ?>
 
