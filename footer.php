@@ -54,12 +54,7 @@
     </div>
 
 
-   <div style=" padding:0.5vw; position: relative ;width:10%;">
-   <div style="position:absolute; bottom: 0;width: 100%;">    
-      <img src="images/Angola.png" width ="100%">
-      <center><p>Angola</p></center>
-    </div>
-    </div>
+   
 
    <div style=" padding:0.5vw; position: relative ;width:10%;">
    <div style="position:absolute; bottom: 0;width: 100%;">    
@@ -70,6 +65,28 @@
 
 </div>
 </div>
+
+
+<div style="margin-left:20px;border-top:2px solid green;margin-top: 10px;">
+  <div style="padding:20px">  
+
+
+    <div style="float:left; padding:0.5vw; ">
+      <a href="https://unf.edu.pe/unf/"><img src="images/universidades/sullana.jpg" width="100vw" height="100vh"></a>
+
+    </div>
+
+    <div style="float:left; padding:0.5vw; ">
+      <a href="https://www.unitru.edu.pe/"><img src="images/trujillo.jpg"  height="100vh"></a>
+    </div>
+
+    
+</div>
+</div>
+
+
+
+
 <div style="margin-left:20px;border-top:2px solid green;margin-top: 10px;">
   <div style="padding:20px">  
 
