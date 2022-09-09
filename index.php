@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>1er Congreso Internacional "Una Mirada a la Ciencias de Ingeniero e Ingenieras FACI-UTLVTE,2022</title>
+<title>1er Congreso Internacional "Mirada y Tendencias de las Ciencias Ingenieriles (MTCI) - UTLVTE 2022"</title>
 	<link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
 	<meta name="description" content="1er Congreso Internacional 'Una Mirada a la Ciencias de Ingeniero e Ingenieras FACI-UTLVTE,2022'" />
 	<meta property="og:locale" content="es_EC" />
