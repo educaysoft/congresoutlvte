@@ -10,8 +10,7 @@
 
  <div class="row py-lg-5 text-center container">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Ejes temáticos</h1>
-        <p class="lead text-muted">(10)</p>
+        <h1 class="fw-light">Ejes temáticos - 10 </h1>
       </div>
     </div>
 
