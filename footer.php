@@ -11,6 +11,12 @@
     </div>
     </div>
 
+<div style=" padding:0.5vw; position: relative ;width:10%;">
+   <div style="position:absolute; bottom: 0;width: 100%;">    
+      <img src="images/peru.png"  width="100%">
+      <center><p>Perú</p></center>
+    </div>
+    </div>
 
    <div style=" padding:0.5vw; position: relative;width:10%;bottom: 0;">
    <div style="position:absolute; bottom: 0;height: 100%; display:flex; flex-direction: column ; justify-content: end;">    
@@ -46,12 +52,7 @@
 
  
 
-   <div style=" padding:0.5vw; position: relative ;width:10%;">
-   <div style="position:absolute; bottom: 0;width: 100%;">    
-      <img src="images/peru.png"  width="100%">
-      <center><p>Perú</p></center>
-    </div>
-    </div>
+   
 
 
    
@@ -71,7 +72,7 @@
   <div style="padding:20px">  
 
 <div style="float:left; padding:0.5vw; ">
-      <a href="https://www.utelvt.edu.ec/site/"><img src="images/universidades/logoutlvte.jpg" width="100vw" height="100vh"></a>
+      <a href="https://www.utelvt.edu.ec/site/"><img src="images/universidades/logoutlvte.png" width="100vw" height="100vh"></a>
 
     </div>
 
