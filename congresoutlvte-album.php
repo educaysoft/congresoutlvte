@@ -22,7 +22,7 @@
             <img src="http://www.congresoutlvte.org/faci/images/Rector2.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>Girard Vernaza</strong>  <br> Rector UTLVTE<br>_</p>
+              <p class="card-text"><strong>Girard Vernaza</strong>  <br> Rector UTLVTE&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                    <button  onclick="location.href='https://utelvt.edu.ec/sitioweb/index.php/rector'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
