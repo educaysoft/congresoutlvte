@@ -53,7 +53,7 @@
             <img src="http://www.congresoutlvte.org/faci/images/Decano.png">
 
             <div class="card-body">
-              <p class="card-text"><strong>Lenin Montaño</strong> <br> Decano FACI-UTLVTE.<br>_</p>
+              <p class="card-text"><strong>Lenin Montaño</strong> <br> Decano FACI-UTLVTE.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
@@ -70,7 +70,7 @@
             <img src="http://www.congresoutlvte.org/faci/images/Vicerector2.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>Manuel Quiñonez</strong> <br> Vicerrector de investigación.<br>_</p>
+              <p class="card-text"><strong>Manuel Quiñonez</strong> <br> Vicerrector de investigación.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
@@ -89,7 +89,7 @@
             <img src="http://www.congresoutlvte.org/faci/images/Coordinador.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>Franklin Ochoa</strong> <br> Coordinador del Evento.<br>_</p>
+              <p class="card-text"><strong>Franklin Ochoa</strong> <br> Coordinador del Evento.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
