@@ -3,12 +3,13 @@
 
 <div style="float:left; width: 100%; font-size: 0.5wv;padding:10%">
 <div class="row">
-  <div class="col-xs-6 col-md-3">
-    <a href="#" class="thumbnail">
-      i<img src="images/logomtci.jpg" style="width:50%; heigth:auto" alt="Miradas y Tendencias de las Ciencias Ingenieriles">
+<center> 
+ <div class="col-xs-6 col-md-3">
+    <a href="congresoutlvte-presentacion.php" class="thumbnail">
+      <img src="images/logomtci.jpg" style="width:70%; heigth:auto" alt="Miradas y Tendencias de las Ciencias Ingenieriles">
     </a>
   </div>
-  ...
+  </center>
 </div>
 
   <main>
