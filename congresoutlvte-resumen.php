@@ -5,7 +5,7 @@
 <div class="row">
   <div class="col-xs-6 col-md-3">
     <a href="#" class="thumbnail">
-      i<img src="images/logomtci.jpg" alt="...">
+      i<img src="images/logomtci.jpg" style="width:50%; heigth:auto" alt="Miradas y Tendencias de las Ciencias Ingenieriles">
     </a>
   </div>
   ...
