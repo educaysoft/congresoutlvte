@@ -6,7 +6,7 @@
 <center> 
  <div class="col-xs-6 col-md-3">
     <a href="congresoutlvte-presentacion.php" class="thumbnail">
-      <img src="images/logomtci.jpg" style="width:70%; heigth:auto" alt="Miradas y Tendencias de las Ciencias Ingenieriles">
+      <img src="images/logomtci.jpg" style="width:90%; heigth:auto" alt="Miradas y Tendencias de las Ciencias Ingenieriles">
     </a>
   </div>
   </center>
