@@ -11,7 +11,7 @@
 <div class="media">
   <div class="media-left">
 <a href="congresoutlvte-presentacion.php" class="thumbnail">
-      <img src="images/logomtci.jpg" style="width:30%; heigth:auto" alt="Miradas y Tendencias de las Ciencias Ingenieriles">
+      <img src="images/logomtci.jpg" style="width:20%; heigth:auto" alt="Miradas y Tendencias de las Ciencias Ingenieriles">
     </a>
   </div>
   <div class="media-body">
