@@ -46,7 +46,9 @@
             <img src="http://www.congresoutlvte.org/faci/ponentes/ponente2.jpg">
 
             <div class="card-body">
-              <p class="card-text"><b>Hugo Romero</b><br>Docente del Programa de Doctorado en Ingeniería Industrial de la Universidad Nacional Mayor de San Marcos Perú. <br> Jefe editor de la revista biotecnología UTMACH.</p>
+          <strong class="d-inline-block mb-2 text-success">En linea</strong>
+	      <p class="card-text"><b>Hugo Romero</b></p>
+<p> LA ELECTROANALITICA APLICADA A LOS PROCESOS INDUSTRIALES.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
