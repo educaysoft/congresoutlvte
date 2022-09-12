@@ -16,7 +16,7 @@ include("head.php");
 <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; ">Ing Mario A. Heredia Salgado PhD </p>
 
 <div class="text-center">
-  <img src="http://www.congresoutlvte.org/faci/ponentes/ponente1.jpg" class="img-circle"  style="width=50%" alt="Ing. Mario A. Heredia Salgado">
+  <img src="http://www.congresoutlvte.org/faci/ponentes/ponente1.jpg" class="img-circle"  style="width:50%" alt="Ing. Mario A. Heredia Salgado">
 </div>
 
 
