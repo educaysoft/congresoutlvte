@@ -13,84 +13,32 @@ include("head.php");
 
 
 <main  class="container" >
-<p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> PRESENTACIÓN DEL EVENTO</p>
+<p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; ">Ing Mario A. Heredia Salgado PhD </p>
 
 <div class="text-center">
   <img src="http://www.congresoutlvte.org/faci/ponentes/ponente1.jpg" class="rounded" alt="...">
-</div
+</div>
 
 
-	<div class="row py-lg-5 text-center ">
-        		<p class="lead text-muted">En el marco de sus años de creación institucional, el 12 de noviembre  de 1984, y orientada a la implementación de estrategias de desarrollo sustentable desde la multidisciplinariedad y la integración de disciplinas, la Facultad de Ingenierias, FACI de la UTLVTE se apresta a inaugurar el I Congreso Internacional "Miradas sobre las Ciencias de Ingenieros e ingenieras - FACI-UTLVTE 2022", a realizarse durante los días 7,8,9 de noviembre de 2022.</p>
+	<div class="row py-lg-5 text-center" style="padding:10px; ">
+			<p class="lead text-muted">
+Miembro asociado del Centro de Estudios del Ambiente y del Mar (CESAM) de la Universidad de Aveiro en Portugal y científico invitado del Integrative Research Institute on Transformations of HumanEnvironment Systems (IRI THESys) de la Universidad Humboldt de Berlín.  Cuenta con maestría en Sistemas Energéticos Sustentables en la Universidad de Aveiro en Portugal. 
+Cuenta con un doctorado en Sistemas Energéticos y Alteraciones Climáticas en la Universidad de Aveiro. Su investigación tuvo como objetivo el diseño e implementación de una planta piloto integrada y modular de combustión pirólisis en Ecuador capaz de refinar agro-residuos en biocarbonizados y energía térmica en simultáneo. Este trabajo de investigación ha sido premiado en el concurso Nacional de Investigación organizado por el Ministerio de Agricultura y Ganadería por dos ocasiones consecutivas (2015-2016), por el Ministerio Federal Alemán de Investigación y Educación (BMBF) con el Green Talent award en 2018 y por el International Sustainable Chemistry Collaborative Centre (ISC3) en 2019. Desde 2017, Mario ha provisto servicios de consultoría para las principales agencias de cooperación internacional en Ecuador, principalmente en la implementación de alternativas para la utilización sustentable de agro residuos generados en sectores agrícolas andinos (quinua y chocho), amazónicos (café y cacao) y tropicales (palma africana, piñón).</p>
     	</div>
 
 
 
 
-	<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-	<div class="row py-lg-5 text-center container">
-
-          <h3 class="fw-light">Visión del Evento</h3>
-          <p class="lead text-muted">Promover el desarrollo de la investigación multidisciplinaria en ciencias ingenieriles, y su aplicación en diferentes contextos en aras del desarrollo técnico-ingenieril eco-sustentable.</p>
-        </div>
-      </div>
+	
 
 
 
-	<div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-	<div class="row py-lg-5 text-center container">
-          <h3 class="fw-light">Misión del evento</h3>
-          <p class="lead text-muted">Fortalecimiento de la vinculación y relaciones entre la Academia, Gobierno, Comunidad Científica UTLVTE, Instituciones, Grupos de Investigación y la Empresa Pública y Privada.</p>
-        </div>
-              </div>
+	
 
 
 
 
-	<div class="row g-0  overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-	<div class="row py-lg-5 text-center container">
-          <h3 class="fw-light">Objetivos</h3>
-
-
-
-    <div class="d-flex text-muted pt-3">
-      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#007bff"/><text x="50%" y="50%" fill="#FFFFFF" dy=".3em">1</text></svg>
-
-      <p class="pb-3 mb-0 small lh-sm border-bottom">
-Estimular la cultura de la investigación universitaria multidiscipinaria, y aplicada.
-      </p>
-    </div>
-    <div class="d-flex text-muted pt-3">
-      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#e83e8c"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">2</text></svg>
-
-      <p class="pb-3 mb-0 small lh-sm border-bottom">
-Debatir, críticamente, los desarrollos conceptuales, metodológicos y estados de la técnica y el arte.
-
-      </p>
-    </div>
-    <div class="d-flex text-muted pt-3">
-      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#6f42c1"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">3</text></svg>
-
-      <p class="pb-3 mb-0 small lh-sm border-bottom">
-Actualizar las tendencias de investigación en ciencias técnicas e ingenierías a nivel global, y a escala local.
-      </p>
-    </div>
-
-
-<div class="d-flex text-muted pt-3">
-      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#33ffa9"/><text x="50%" y="50%" fill="#6f42c1" dy=".3em">4</text></svg>
-
-      <p class="pb-3 mb-0 small lh-sm border-bottom">
-Generar alianzas estratégicas a nivel inter-institucional, gubernamental, comunitario y regional.
-      </p>
-    </div>
-
-
-
-
-        </div>
-        
-      </div>
+	
 
 
 
