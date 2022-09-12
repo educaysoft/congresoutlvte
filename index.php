@@ -235,6 +235,10 @@ include_once("congresoutlvte-ponentesi.php");
 ?>
 
 
+<?php
+include_once("congresoutlvte-precios.php");
+?>
+
 
 
 <?php
