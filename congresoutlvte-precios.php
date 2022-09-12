@@ -24,19 +24,19 @@
   <thead>
     <tr>
       <th scope="col">#</th>
-      <th scope="col">Participantes</th>
+      <th colspan="2" scope="col">Participantes</th>
       <th scope="col">Cuota</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td>Profesionales:</td>
+      <td colspan="2">Profesionales:</td>
       <td>90 USD.</td>
     </tr>
     <tr>
       <th scope="row">2</th>
-      <td>Estudiantes participantes:</td>
+      <td colspan="2">Estudiantes participantes:</td>
       <td>20 USD.</td>
     </tr>
     <tr>
