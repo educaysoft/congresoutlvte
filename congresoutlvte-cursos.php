@@ -31,7 +31,7 @@
             <div class="card-body">
           <strong class="d-inline-block mb-2 text-primary">En linea</strong>
 	      <p class="card-text"><strong>Mario Heredia</strong> </p>
-<p> TECNICAS DE APROVECHAMIENTO DE RESIDUOS EN LA AGROINDUSTRIA DE ECUADOR: CONVERSIÓN TERMOQUÍMICA.</p>
+<p> TÉECNICAS DE APROVECHAMIENTO DE RESIDUOS EN LA AGROINDUSTRIA DE ECUADOR: CONVERSIÓN TERMOQUÍMICA.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                    <button  onclick="location.href='congresoutlvte-biografia1.php'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
@@ -48,7 +48,7 @@
             <div class="card-body">
           <strong class="d-inline-block mb-2 text-success">En linea</strong>
 	      <p class="card-text"><b>Hugo Romero</b></p>
-<p> LA ELECTROANALITICA APLICADA A LOS PROCESOS INDUSTRIALES.</p>
+<p> LA ELECTROANALÍTICA APLICADA A LOS PROCESOS INDUSTRIALES.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button  onclick="location.href='congresoutlvte-biografia2.php'" type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
