@@ -17,39 +17,7 @@
 
 
 
- <div class="row mb-2">
-    <div class="col-md-6">
-      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-        <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-primary">En linea</strong>
-          <h3 class="mb-0">Mario Heredia</h3>
-          <div class="mb-1 text-muted">Octubre 12</div>
-          <p class="card-text mb-auto">TECNICAS DE APROVECHAMIENTO DE RESIDUOS EN LA AGROINDUSTRIA DE ECUADOR: CONVERSIÓN TERMOQUÍMICA.</p>
-          <a href="#" class="stretched-link">Continue reading</a>
-        </div>
-        <div class="col-auto d-none d-lg-block">
-          <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
-        </div>
-      </div>
-    </div>
-    <div class="col-md-6">
-      <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
-        <div class="col p-4 d-flex flex-column position-static">
-          <strong class="d-inline-block mb-2 text-success">Presencial</strong>
-          <h3 class="mb-0">Post title</h3>
-          <div class="mb-1 text-muted">Octubre 11</div>
-          <p class="mb-auto">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
-          <a href="#" class="stretched-link">Continue reading</a>
-        </div>
-        <div class="col-auto d-none d-lg-block">
-
-            <img src="http://www.congresoutlvte.org/faci/ponentes/ponente1.jpg">
-
-        </div>
-      </div>
-    </div>
-  </div>
+ 
 
 
 
@@ -61,7 +29,9 @@
             <img src="http://www.congresoutlvte.org/faci/ponentes/ponente1.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>Mario Heredia</strong>  <br> Miembro asociado del Centro de Estudios del Ambiente y del Mar (CESAM) de la Universidad Aveiro en Portugal.</p>
+          <strong class="d-inline-block mb-2 text-primary">En linea</strong>
+	      <p class="card-text"><strong>Mario Heredia</strong> </p>
+<p> TECNICAS DE APROVECHAMIENTO DE RESIDUOS EN LA AGROINDUSTRIA DE ECUADOR: CONVERSIÓN TERMOQUÍMICA.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                    <button  onclick="location.href='#'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
