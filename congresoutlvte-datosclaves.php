@@ -70,7 +70,7 @@
 
  <div class="row py-lg-5 text-center container">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Ejes temáticos </h1>
+        <h1 class="fw-light">Datos Importantes </h1>
       </div>
     </div>
 
@@ -84,57 +84,57 @@
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#bootstrap"/></svg>
         <div>
-          <h4 class="fw-bold mb-0">Featured title</h4>
-          <p>Paragraph of text beneath the heading to explain the heading.</p>
+          <h4 class="fw-bold mb-0">Envios de trabajos</h4>
+          <p>Hasta el 30 de septiembre del 2022.</p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#cpu-fill"/></svg>
         <div>
-          <h4 class="fw-bold mb-0">Featured title</h4>
-          <p>Paragraph of text beneath the heading to explain the heading.</p>
+          <h4 class="fw-bold mb-0">Aceptación de trabajos</h4>
+          <p>Del 01 al 15 de octubre del 2022.</p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
         <div>
-          <h4 class="fw-bold mb-0">Featured title</h4>
-          <p>Paragraph of text beneath the heading to explain the heading.</p>
+          <h4 class="fw-bold mb-0">Inscripción público en general</h4>
+          <p>Del 5 de septiembre al 15 de octubre</p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#home"/></svg>
         <div>
-          <h4 class="fw-bold mb-0">Featured title</h4>
-          <p>Paragraph of text beneath the heading to explain the heading.</p>
+          <h4 class="fw-bold mb-0">Lugar del evento</h4>
+          <p>Universidad Técnica Luis Vargas Torres.</p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#speedometer2"/></svg>
         <div>
-          <h4 class="fw-bold mb-0">Featured title</h4>
-          <p>Paragraph of text beneath the heading to explain the heading.</p>
+          <h4 class="fw-bold mb-0">Modalidad del evento</h4>
+          <p>Presencial y Virtual (Hibrida).</p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#toggles2"/></svg>
         <div>
-          <h4 class="fw-bold mb-0">Featured title</h4>
-          <p>Paragraph of text beneath the heading to explain the heading.</p>
+          <h4 class="fw-bold mb-0">Cursos Pre-congreso</h4>
+          <p>Finales de octubre.</p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#geo-fill"/></svg>
         <div>
-          <h4 class="fw-bold mb-0">Featured title</h4>
-          <p>Paragraph of text beneath the heading to explain the heading.</p>
+          <h4 class="fw-bold mb-0">Beneficios </h4>
+          <p>Libro de memoria,Certificados, Derechos de Autor, ISBN, ISSN</p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#tools"/></svg>
         <div>
-          <h4 class="fw-bold mb-0">Featured title</h4>
-          <p>Paragraph of text beneath the heading to explain the heading.</p>
+          <h4 class="fw-bold mb-0">Celebración del congreso</h4>
+          <p> 7,8,9 de noviembre del 2022</p>
         </div>
       </div>
     </div>
