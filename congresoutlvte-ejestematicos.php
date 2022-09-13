@@ -21,23 +21,21 @@
       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#007bff"/><text x="50%" y="50%" fill="#FFFFFF" dy=".3em">1</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
-Sistema de monitoreo remoto, in situ y en gabinete, caracterización de variables climáticas y productivas mediante sensores y procedimientos afines. Big Data.
+Innovaciones en el campo de las TICs. Aplicaciones en la virtualización, seguridad informática, big data, cloud computing, machine learning e Inteligencia Artificial. Bioinformática. Desarrollo empresarial, tecno-ingenieril y académico desde las TICS.
       </p>
     </div>
     <div class="d-flex text-muted pt-3">
       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#e83e8c"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">2</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
-Generación energética autónoma sustentable y sostenibilidad.
-
+Automatizacion y Control de Procesos Tecno-Industriales y en las Ciencias Ingenieriles. Gestión de Calidad.
       </p>
     </div>
     <div class="d-flex text-muted pt-3">
       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#6f42c1"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">3</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
-
-Automatización y control en procesos técnicos y productivos.
+Energias Renovables. Aplicaciones.
       </p>
     </div>
 
@@ -46,7 +44,7 @@ Automatización y control en procesos técnicos y productivos.
       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#33ffa9"/><text x="50%" y="50%" fill="#6f42c1" dy=".3em">4</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
-TICs en la educación y las ciencias. Aplicación a la comunidad.
+Integracion Multidisciplinaria y Sostenibilidad en el campo de las Ciencias Ingenieriles. Perspectiva Ambiental en el Desarrollo Tecnológico.
       </p>
     </div>
 
@@ -55,12 +53,42 @@ TICs en la educación y las ciencias. Aplicación a la comunidad.
       <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #42534c"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">5</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
-Virtualización y privacidad en la era digital.
+Nuevas metodologías de enseñanza de las Ciencias Ingenieriles, Naturales y Aplicadas.
       </p>
     </div>
 
 
+<div class="d-flex text-muted pt-3">
+      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #42534c"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">6</text></svg>
 
+      <p class="pb-3 mb-0 small lh-sm border-bottom">
+Diseño y Desarrollo de Prototipos Electro-Mecánicos.
+      </p>
+    </div>
+
+<div class="d-flex text-muted pt-3">
+      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #42534c"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">7</text></svg>
+
+      <p class="pb-3 mb-0 small lh-sm border-bottom">
+Ingenieria Química y Química Verde. Desarrollo de Procesos, Productos y Servicios. Nuevos Materiales y sus aplicaciones. Biotecnología.
+      </p>
+    </div>
+
+<div class="d-flex text-muted pt-3">
+      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #42534c"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">8</text></svg>
+
+      <p class="pb-3 mb-0 small lh-sm border-bottom">
+Propuestas de nuevas carreras, tecnologías y programas de enseñanza en el campo ingenieril.
+      </p>
+    </div>
+
+<div class="d-flex text-muted pt-3">
+      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #42534c"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">9</text></svg>
+
+      <p class="pb-3 mb-0 small lh-sm border-bottom">
+Casos de estudio.
+      </p>
+    </div>
 
     <small class="d-block text-end mt-3">
       <a href="https://congresoutlvte.org/faci/congresoutlvte-tematicas.php">Todas las temáticas</a>
