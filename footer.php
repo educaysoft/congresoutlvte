@@ -105,7 +105,9 @@
     <div style="float:left; padding:0.5vw; ">
       <a href="https://www.manglareditores.com/"><img src="images/manglareditorial.jpg"  height="100vh"></a>
     </div>
-
+<div style="float:left; padding:0.5vw; ">
+      <a href="https://copimerainternacional.org/"><img src="images/copimera.jpg"  height="100vh" alt="Confederación Panamericana de Ingeniería Mecánica, Eléctrica, Industrial y Ramas Afines" ></a>
+    </div>
     
 </div>
 </div>
