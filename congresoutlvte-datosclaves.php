@@ -85,7 +85,7 @@
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#bootstrap"/></svg>
         <div>
           <h4 class="fw-bold mb-0">Envios de trabajos</h4>
-          <p>Hasta el 30 de septiembre del 2022.</p>
+          <p>Hasta el 30 de septiembre del 2022.<br><small>grupo.investigacion.faci@utelvt.edu.ec</small></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
