@@ -29,9 +29,10 @@
             <img src="http://www.congresoutlvte.org/faci/ponentes/ponente1.jpg">
 
             <div class="card-body">
-	      <p class="card-text"><strong>Mario Heredia</strong> </p>
-          <strong class="d-inline-block mb-2 text-success">Modalidad: <i> Presencial</i></strong>
-          <strong class="d-inline-block mb-2 text-success">Fecha: <i> Finales de octubre</i></strong>
+	      <p class="card-text"><strong>Expositor:</strong>Mario Heredia PhD. </p>
+	      <p class="card-text text-success"><strong>Modalidad:</strong>Presencial. </p>
+	      <p class="card-text text-success"><strong>Fecha:</strong>Finales de octubre. </p>
+	      <p class="card-text text-success"><strong>Tema:</strong> </p>
 <p> TÉCNICAS DE APROVECHAMIENTO DE RESIDUOS EN LA AGROINDUSTRIA DE ECUADOR: CONVERSIÓN TERMOQUÍMICA.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
