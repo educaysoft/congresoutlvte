@@ -48,9 +48,12 @@
             <img src="http://www.congresoutlvte.org/faci/ponentes/ponente2.jpg">
 
             <div class="card-body">
-	      <p class="card-text"><b>Hugo Romero</b></p>
-          <strong class="d-inline-block mb-2 text-success">Modalidad: <i> Presencial</i></strong>
-          <strong class="d-inline-block mb-2 text-success">Fecha: <i> Finales de octubre</i></strong>
+
+	      <p class="card-text text-success"><strong>Hugo Romero PhD. </strong></p>
+	      <p class="card-text"><strong>Modalidad:</strong>Presencial. <br>
+	      <strong>Fecha:</strong>Finales de octubre. <br>
+	      <strong>Tema:</strong> </p>
+
 <p> LA ELECTROANALÍTICA APLICADA A LOS PROCESOS INDUSTRIALES.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
