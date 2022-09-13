@@ -59,7 +59,7 @@ Nuevas metodologías de enseñanza de las Ciencias Ingenieriles, Naturales y Apl
 
 
 <div class="d-flex text-muted pt-3">
-      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #42534c"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">6</text></svg>
+      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #D673D7"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">6</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
 Diseño y Desarrollo de Prototipos Electro-Mecánicos.
@@ -67,7 +67,7 @@ Diseño y Desarrollo de Prototipos Electro-Mecánicos.
     </div>
 
 <div class="d-flex text-muted pt-3">
-      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #42534c"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">7</text></svg>
+      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #C8BECO"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">7</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
 Ingenieria Química y Química Verde. Desarrollo de Procesos, Productos y Servicios. Nuevos Materiales y sus aplicaciones. Biotecnología.
@@ -75,7 +75,7 @@ Ingenieria Química y Química Verde. Desarrollo de Procesos, Productos y Servic
     </div>
 
 <div class="d-flex text-muted pt-3">
-      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #42534c"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">8</text></svg>
+      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #FB525A"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">8</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
 Propuestas de nuevas carreras, tecnologías y programas de enseñanza en el campo ingenieril.
@@ -83,7 +83,7 @@ Propuestas de nuevas carreras, tecnologías y programas de enseñanza en el camp
     </div>
 
 <div class="d-flex text-muted pt-3">
-      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #42534c"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">9</text></svg>
+      <svg class="bd-placeholder-img flex-shrink-0 me-2 rounded" width="32" height="32" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 32x32" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill=" #DBDD25"/><text x="50%" y="50%" fill="#ffffff" dy=".3em">9</text></svg>
 
       <p class="pb-3 mb-0 small lh-sm border-bottom">
 Casos de estudio.
