@@ -20,6 +20,7 @@ include("head.php");
           <a href="congresoutlvte-normafinal1.php" class="btn btn-primary my-2">Normas para edición</a>
           <a href="congresoutlvte-normafinal2.php" class="btn btn-secondary my-2">Plantilla para evaluar</a>
         </p>
+<p>El trabajo deberá ser enviado al correo electrónico:  <a href="mailto:grupo.investigacion.faci@utelvt.edu.ec"> grupo.investigacion.faci@utelvt.edu.ec</a></p>
       </div>
     </div>
   </section>
