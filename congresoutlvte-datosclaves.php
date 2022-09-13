@@ -64,10 +64,21 @@
 
 
   <main>
-  
+
+  <div class="album py-5 bg-light">
+    <div class="container">
+
+ <div class="row py-lg-5 text-center container">
+      <div class="col-lg-6 col-md-8 mx-auto">
+        <h1 class="fw-light">Ejes temáticos </h1>
+      </div>
+    </div>
+
+
+
+
 
   <div class="container px-4 py-5" id="icon-grid">
-    <h2 class="pb-2 border-bottom">Datos importantes</h2>
 
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4 py-5">
       <div class="col d-flex align-items-start">
@@ -129,7 +140,10 @@
     </div>
   </div>
 
-   
+     </div>
+  </div>
+
+  
   </main>
 </div>
 </div>
