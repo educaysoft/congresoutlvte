@@ -29,9 +29,10 @@
             <img src="http://www.congresoutlvte.org/faci/ponentes/ponente1.jpg">
 
             <div class="card-body">
-          <strong class="d-inline-block mb-2 text-primary">En linea</strong>
 	      <p class="card-text"><strong>Mario Heredia</strong> </p>
-<p> TÉECNICAS DE APROVECHAMIENTO DE RESIDUOS EN LA AGROINDUSTRIA DE ECUADOR: CONVERSIÓN TERMOQUÍMICA.</p>
+          <strong class="d-inline-block mb-2 text-success">Modalidad: <i> Presencial</i></strong>
+          <strong class="d-inline-block mb-2 text-success">Fecha: <i> Finales de octubre</i></strong>
+<p> TÉCNICAS DE APROVECHAMIENTO DE RESIDUOS EN LA AGROINDUSTRIA DE ECUADOR: CONVERSIÓN TERMOQUÍMICA.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                    <button  onclick="location.href='congresoutlvte-biografia1.php'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
@@ -46,8 +47,9 @@
             <img src="http://www.congresoutlvte.org/faci/ponentes/ponente2.jpg">
 
             <div class="card-body">
-          <strong class="d-inline-block mb-2 text-success">En linea</strong>
 	      <p class="card-text"><b>Hugo Romero</b></p>
+          <strong class="d-inline-block mb-2 text-success">Modalidad: <i> Presencial</i></strong>
+          <strong class="d-inline-block mb-2 text-success">Fecha: <i> Finales de octubre</i></strong>
 <p> LA ELECTROANALÍTICA APLICADA A LOS PROCESOS INDUSTRIALES.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
