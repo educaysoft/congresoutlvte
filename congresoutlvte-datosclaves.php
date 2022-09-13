@@ -99,7 +99,7 @@
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
         <div>
           <h4 class="fw-bold mb-0">Inscripción público en general</h4>
-          <p>Del 5 de septiembre al 15 de octubre</p>
+          <p>Del 5 de septiembre al 15 de octubre del 2022</p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
@@ -120,7 +120,7 @@
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#toggles2"/></svg>
         <div>
           <h4 class="fw-bold mb-0">Cursos Pre-congreso</h4>
-          <p>Finales de octubre.</p>
+          <p>Finales de octubre del 2022.</p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
