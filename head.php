@@ -72,9 +72,9 @@
   
 
 <!---<div   id="intro-example"  class="p-5 text-center bg-image"     style="background-image: url('http://educaysoft.org/sica/campus2.jpg');" >--->
-<div   id="intro-example"  class="p-5 text-center bg-image"     style="background-image: url('http://congresoutlvte.org/faci/images/portada2.jpg');" >
+<div   id="intro-example"  class="p-5 text-center bg-image"     style="height:100px; background-image: url('http://congresoutlvte.org/faci/images/portada2.jpg');" >
 	<div class="mask" style="background-color:hsla(120,100%,50%,0.0)">
-       <div class="d-flex justify-content-center align-items-start h-100">
+       <div class="d-flex justify-content-center align-items-center h-100">
           <div class="text-black">
            <h1 class="mb-3" style="color: white; text-shadow: 2px 2px #000000;">I CONGRESO INTERNACIONAL </h1>
            <p class="mb-4" style="Font-family: Impact, Charcoal, Helvetica Inserat, Bitstream Vera Sans Bold, Arial Black, sans serif; color: white;font-weight:900; font-size:1.5em; text-shadow: 2px 2px #000000;" > MIRADAS Y TENDENCIAS DE LAS CIENCIAS INGENIERILES (MTCI) - UTLVTE 2022 </p>
