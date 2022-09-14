@@ -41,7 +41,7 @@ Certificado de designación  al Cordinador del Evento.
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria1-2.jpg" style="width:100%; ">
+      <img src="images/Memoria/triptico_V3_1.jpg" style="width:100%; ">
   </div>
   
   
@@ -55,7 +55,7 @@ Primera inscripción conferencistas internacionales.
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria2.jpg" style="width:100%; ">
+      <img src="images/Memoria/triptico_V3_1.jpg" style="width:100%; ">
   </div>
   
   
