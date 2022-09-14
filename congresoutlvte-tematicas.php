@@ -20,7 +20,10 @@ include("head.php");
   </div>
   <div style=" width: 60%; display: flex;justify-content: center;align-items: center;">
     <div style=" margin: auto;text-align: center;">
-      <p style="font-size: 20px; margin:10px 0 10px 0;">Sistema de monitoreo remoto, in situ y en gabinete, caracterización de variables climáticas y productivas mediante sensores y procedimientos afines. Big Data</p>
+      <p style="font-size: 20px; margin:10px 0 10px 0;">
+Innovaciones en el campo de las TICs. Aplicaciones en la virtualización, seguridad informática, big data, cloud computing, machine learning e Inteligencia Artificial. Bioinformática. Desarrollo empresarial, tecno-ingenieril y académico desde las TICS.</p> 
+
+
       <p style="color:gray;"> --- Facultad de Ingenierias </p> 
     </div>  
 </div>
@@ -35,7 +38,7 @@ include("head.php");
 <div style="width: 60%; display: flex;justify-content: center;align-items: center;">
 
   <div style=" margin: auto;text-align: center;">
-    <p style="font-size:20px; margin:10px 10px 10px 0px;">Generación energética autónoma sustentable y sostenibilidad.</p>
+    <p style="font-size:20px; margin:10px 10px 10px 0px;">Automatizacion y Control de Procesos Tecno-Industriales y en las Ciencias Ingenieriles. Gestión de Calidad. </p>
     <p style="color:gray;">--- Facultad de Ingenierías</p> 
   </div>  
 </div>
@@ -58,7 +61,7 @@ include("head.php");
   </div>
   <div style=" width: 60%; display: flex;justify-content: center;align-items: center;">
     <div style=" margin: auto;text-align: center;">
-      <p style="font-size: 20px; margin:10px 0 10px 0;">Automatización y control en procesos técnicos y productivos.</p>
+      <p style="font-size: 20px; margin:10px 0 10px 0;">Energias Renovables. Aplicaciones. .</p>
       <p style="color:gray;"> --- Facultad de Ingenierias </p> 
     </div>  
 </div>
@@ -73,7 +76,7 @@ include("head.php");
 <div style="width: 60%; display: flex;justify-content: center;align-items: center;">
 
   <div style=" margin: auto;text-align: center;">
-    <p style="font-size:20px; margin:10px o 10px 0;">TICS en la educación y las ciencias. Aplicación a la comunidad.</p>
+    <p style="font-size:20px; margin:10px o 10px 0;">Integracion Multidisciplinaria y Sostenibilidad en el campo de las Ciencias Ingenieriles. Perspectiva Ambiental en el Desarrollo Tecnológico. </p>
     <p style="color:gray;">--- Facultad de Ingenierias</p> 
   </div>  
 </div>
@@ -96,7 +99,7 @@ include("head.php");
   </div>
   <div style=" width: 60%; display: flex;justify-content: center;align-items: center;">
     <div style=" margin: auto;text-align: center;">
-      <p style="font-size: 20px; margin:10px 0 10px 0;">Virtualización y Privacidad en la era digital.</p>
+      <p style="font-size: 20px; margin:10px 0 10px 0;">Nuevas metodologías de enseñanza de las Ciencias Ingenieriles, Naturales y Aplicadas. </p>
       <p style="color:gray;"> --- Facultad de Ingenierìas</p> 
     </div>  
 </div>
@@ -112,7 +115,7 @@ include("head.php");
 <div style="width: 60%; display: flex;justify-content: center;align-items: center;">
 
   <div style=" margin: auto;text-align: center;">
-    <p style="font-size:20px; margin:10px o 10px 0;">Visión Sistémica de las Perspectivas ambientales de desarrollo y tecnología asociadas. Integración Multidisciplinaria y Sostenibilidad.</p>
+    <p style="font-size:20px; margin:10px o 10px 0;">Diseño y Desarrollo de Prototipos Electro-Mecánicos. </p>
   </div>  
 </div>
 
@@ -136,7 +139,7 @@ include("head.php");
   </div>
   <div style=" width: 60%; display: flex;justify-content: center;align-items: center;">
     <div style=" margin: auto;text-align: center;">
-      <p style="font-size: 20px; margin:10px 0 10px 0;">Visión docente y estudiantil en ciencias técnicas e ingeniería.</p>
+      <p style="font-size: 20px; margin:10px 0 10px 0;">Ingenieria Química y Química Verde. Desarrollo de Procesos, Productos y Servicios. Nuevos Materiales y sus aplicaciones. Biotecnología. </p>
       <p style="color:gray;"> --- Facultad de Ingenierìas</p> 
     </div>  
 </div>
@@ -152,7 +155,7 @@ include("head.php");
 <div style="width: 60%; display: flex;justify-content: center;align-items: center;">
 
   <div style=" margin: auto;text-align: center;">
-    <p style="font-size:20px; margin:10px o 10px 0;">Ingeniería Química, Química Verde y Sostenibilidad. Desarrollo de procesos y productos. Materiales y Aplicaciones.</p>
+    <p style="font-size:20px; margin:10px o 10px 0;">Propuestas de nuevas carreras, tecnologías y programas de enseñanza en el campo ingenieril.</p>
   </div>  
 </div>
 
@@ -175,7 +178,7 @@ include("head.php");
   </div>
   <div style=" width: 60%; display: flex;justify-content: center;align-items: center;">
     <div style=" margin: auto;text-align: center;">
-      <p style="font-size: 20px; margin:10px 0 10px 0;">Ingeniería Mecánica Aplicada. Diseño y desarrollo de prototipos.</p>
+      <p style="font-size: 20px; margin:10px 0 10px 0;">Casos de estudio.</p>
       <p style="color:gray;"> --- Facultad de Ingenierìas</p> 
     </div>  
 </div>
@@ -183,23 +186,9 @@ include("head.php");
 
 
 
-<div style="padding:20px;">
-<hr>
-</div>
 
-<div style=" display: flex; flex-direction:row; justify-content: center; width: 100%;" >
-<div style="width: 60%; display: flex;justify-content: center;align-items: center;">
 
-  <div style=" margin: auto;text-align: center;">
-    <p style="font-size:20px; margin:10px o 10px 0;">Ciencas Naturales. </p>
-  </div>  
-</div>
 
-<div  class="img-contenedor w3-card-4" style=" border:2px solid green;width: 40%; display:flex; justify-content: center;">
-      <a href=" https://www.youtube.com/watch?v=7OkZgw9dSJo"> 
-     <img src="images/tematica10.jpg" style="width:100%"></a>
-</div>
-</div>
 
 </main>
 

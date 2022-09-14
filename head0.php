@@ -12,8 +12,8 @@
 	<meta property="og:site_name" content="FACULTAD DE INGENIERÍAS" />
 	<meta property="article:modified_time" content="2021-12-14T21:51:01+00:00" />
 	<meta property="og:image" content="https://congresoutlvte.org/faci/images/logo.png" />
-	<meta property="og:image:width" content="180" />
-	<meta property="og:image:height" content="180" />
+	<meta property="og:image:width" content="100" />
+	<meta property="og:image:height" content="100" />
 	<!-- / Yoast SEO plugin. -->
 
 
