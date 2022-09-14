@@ -103,13 +103,14 @@
         <div>
           <h4 class="fw-bold mb-0">Inscripción público en general</h4>
           <p>Del 5 de septiembre al 15 de octubre del 2022</p>
+<a    href="https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link">Inscripciones </a>
         </div>
       </div>
       <div class="col d-flex align-items-start">
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#home"/></svg>
         <div>
           <h4 class="fw-bold mb-0">Lugar del evento</h4>
-          <p>Universidad Técnica Luis Vargas Torres.</p>
+          <p>Universidad Técnica Luis Vargas Torres de Esmeraldas-Ecuador.</p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
