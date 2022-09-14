@@ -86,8 +86,8 @@
      <!---   <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#bootstrap"/></svg> -->
         <div>
           <h4 class="fw-bold mb-0">Envios de trabajos</h4>
-          <p>Hasta el 30 de septiembre del 2022.</p>
-          <p><a href="congresoutlvte-normafinal.php">Ver normativas</a></p>
+          <p>Hasta el 30 de septiembre del 2022.<br>
+          <a href="congresoutlvte-normafinal.php">Ver normativas</a></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
@@ -102,8 +102,8 @@
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
         <div>
           <h4 class="fw-bold mb-0">Inscripción público en general</h4>
-          <p>Del 5 de septiembre al 15 de octubre del 2022</p>
-<a    href="https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link">Inscripciones </a>
+          <p>Del 5 de septiembre al 15 de octubre del 2022. <br>
+<a    href="https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link">Inscribete ya </a></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">

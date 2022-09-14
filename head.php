@@ -85,8 +85,7 @@
             role="button"
             rel="nofollow"
             target="_blank"
-  >Inscripciones </a
-          >
+  >Inscripciones </a>
           <a
             class="btn btn-outline-light btn-lg m-2"
     href="#"
