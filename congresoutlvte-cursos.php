@@ -1,5 +1,5 @@
 <div id="equipo" style="border-top: 2px solid green;    width: 90%; margin:20px auto; display: inline-block; ";
-<div id="xxx" class="w3-container" style=" margin-left:10px; margin-top:10px;  padding: 0px; width: 100%; height: 20vh; display: inline-block; ">
+<div id="cursos" class="w3-container" style=" margin-left:10px; margin-top:10px;  padding: 0px; width: 100%; height: 20vh; display: inline-block; ">
     
 
 
@@ -31,7 +31,7 @@
             <div class="card-body">
 	      <p class="card-text text-success"><strong>Mario Heredia PhD. </strong></p>
 	      <p class="card-text"><strong>Modalidad:</strong>Presencial. <br>
-	      <strong>Fecha:</strong>Finales de octubre. <br>
+	      <strong>Fecha:</strong>5 de noviembre 2022. <br>
 	      <strong>Tema:</strong> </p>
 <p> TÉCNICAS DE APROVECHAMIENTO DE RESIDUOS EN LA AGROINDUSTRIA DE ECUADOR: CONVERSIÓN TERMOQUÍMICA.</p>
               <div class="d-flex justify-content-between align-items-center">
@@ -51,7 +51,7 @@
 
 	      <p class="card-text text-success"><strong>Hugo Romero PhD. </strong></p>
 	      <p class="card-text"><strong>Modalidad:</strong>Presencial. <br>
-	      <strong>Fecha:</strong>Finales de octubre. <br>
+	      <strong>Fecha:</strong>4 de noviembre del 2022. <br>
 	      <strong>Tema:</strong> </p>
 
 <p> LA ELECTROANALÍTICA APLICADA A LOS PROCESOS INDUSTRIALES.</p>

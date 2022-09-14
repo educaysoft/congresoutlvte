@@ -124,7 +124,7 @@
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#calendar3"/></svg>
         <div>
           <h4 class="fw-bold mb-0">Cursos Pre-congreso</h4>
-          <p>Finales de octubre del 2022.</p>
+          <p>4 y 5 de noviembre del 2022.<b> <a href="#cursos">Más Información</a></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
