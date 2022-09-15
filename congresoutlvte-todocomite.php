@@ -28,7 +28,7 @@ include("head.php");
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
           <div class="card shadow-sm">
-            <img src="http://www.congresoutlvte.org/faci/images/comite/CruelSiguenzaJoseph.jpg">
+            <img src="http://www.congresoutlvte.org/faci/images/comite/CruelSiguenzaJoseph.png">
 
             <div class="card-body">
               <p class="card-text"><strong>Joseph Cruel</strong>  <br> Comisión organizadora</p>
