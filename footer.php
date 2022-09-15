@@ -121,7 +121,7 @@
 
 
 <div style="float:left; padding:0.5vw; ">
-      <a href="https://siiqsa.business.site/"><img src="images/auspiciantes/asefie.png"  height="100vh" alt="Sistemas Integrales en Ingenieria, Salud y Ambiente" ></a>
+      <a href="https://www.asefie.org/"><img src="images/auspiciantes/asefie.png"  height="100vh" alt="Sistemas Integrales en Ingenieria, Salud y Ambiente" ></a>
     </div>
 
 
