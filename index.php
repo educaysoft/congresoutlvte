@@ -183,7 +183,48 @@
         white-space: nowrap;
         -webkit-overflow-scrolling: touch;
       }
-    </style>
+ 
+
+/* ? ----- Cuenta Regresiva ----- */
+#cuenta {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 100px;
+}
+
+.simply-section {
+	background: #fff;
+	width: 180px;
+	height: 180px;
+	margin: 0 20px;
+	border-radius: 5px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.simply-amount {
+	display: block;
+	font-size: 50px;
+	font-weight: 700;
+}
+
+.simply-word {
+	font-weight: 300;
+	font-size: 30px;
+}
+
+
+/* ? ---------------------------- */
+
+
+
+
+
+
+
+
+   </style>
 
 
 
@@ -201,7 +242,7 @@ include_once("head.php");
 
 <div style="display:flex;flex-direction: column; background-color: white;">
 <?php
-//include_once("carrusel.php");
+include_once("cuenta-regresiva/cuenta-regresiva.php");
 ?>
 
 
@@ -290,7 +331,12 @@ function cargarVideo(url){
 </script>
     <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
 
+<!--begin Cuenta regrasiva -->
+	<script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
+	<script src="./cuenta-regresiva/js/simplyCountdown.min.js"></script>
+	<script src="./cuenta-regresiva/js/countdown.js"></script>
 
+<!-- --fin Cuenta regrasiva -->
 
 
 
