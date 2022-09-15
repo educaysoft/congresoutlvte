@@ -282,14 +282,17 @@ include_once("head.php");
 ?>
 
 <div style="display:flex;flex-direction: column; background-color: white;">
+
+<?php
+include_once("congresoutlvte-resumen.php");
+?>
+
 <?php
 include_once("cuenta-regresiva.php");
 ?>
 
 
-<?php
-include_once("congresoutlvte-resumen.php");
-?>
+
 
 <?php
 include_once("congresoutlvte-datosclaves.php");
