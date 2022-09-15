@@ -287,12 +287,10 @@ include_once("head.php");
 include_once("congresoutlvte-resumen.php");
 ?>
 
-<!--
 <?php
 include_once("cuenta-regresiva.php");
 ?>
 
--->
 
 
 <?php
@@ -378,8 +376,8 @@ function cargarVideo(url){
 
 <!--begin Cuenta regrasiva -->
 	<script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
-	<script src="./cuenta-regresiva/js/simplyCountdown.min.js"></script>
-	<script src="./cuenta-regresiva/js/countdown.js"></script>
+	<script src="./regresion/js/simplyCountdown.min.js"></script>
+	<script src="./regresion/js/countdown.js"></script>
 
 <!-- --fin Cuenta regrasiva -->
 
