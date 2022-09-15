@@ -86,6 +86,11 @@
       <a href="https://www.unitru.edu.pe/"><img src="images/universidades/trujillo.jpg"  height="100vh"></a>
     </div>
 
+
+<div style="float:left; padding:0.5vw; ">
+      <a href="https://www.unap.edu.pe/"><img src="images/universidades/Logo_UNAP.png"  height="100vh"></a>
+    </div>
+
     
 </div>
 </div>
