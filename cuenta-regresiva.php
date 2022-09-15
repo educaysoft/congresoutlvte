@@ -7,11 +7,24 @@
 
 
   <main>
- 
+   <div class="album py-5 bg-light">
+    <div class="container">
+
+ <div class="row py-lg-5 text-center container">
+      <div class="col-lg-6 col-md-8 mx-auto">
+        <h1 class="fw-light">Faltan pocos días </h1>
+      </div>
+    </div>
+
+
+
+
 		
 
 		<div id="cuenta"></div>
 
+     </div>
+  </div>
 		
   </main>
 </div>
