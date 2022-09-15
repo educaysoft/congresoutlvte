@@ -113,7 +113,13 @@
 <div style="float:left; padding:0.5vw; ">
       <a href="https://copimerainternacional.org/"><img src="images/copimera.jpg"  height="100vh" alt="Confederación Panamericana de Ingeniería Mecánica, Eléctrica, Industrial y Ramas Afines" ></a>
     </div>
-    
+
+
+<div style="float:left; padding:0.5vw; ">
+      <a href="https://siiqsa.business.site/"><img src="images/auspociante/siiqsa.jpg"  height="100vh" alt="Sistemas Integrales en Ingenieria, Salud y Ambiente" ></a>
+    </div>
+
+
 </div>
 </div>
 
