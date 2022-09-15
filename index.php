@@ -194,8 +194,8 @@
 
 .simply-section {
 	background: #fff;
-	width: 180px;
-	height: 180px;
+	width: 100px;
+	height: 100px;
 	margin: 0 20px;
 	border-radius: 5px;
 	display: flex;
