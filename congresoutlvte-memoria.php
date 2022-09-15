@@ -53,7 +53,7 @@ Primer tríptico promosional.
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/triptico_V3_1.jpg" style="width:100%; ">
+      <img src="images/Memoria/triptico_V3_2.jpg" style="width:100%; ">
   </div>
   
   
