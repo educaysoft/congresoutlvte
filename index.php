@@ -283,7 +283,7 @@ include_once("head.php");
 
 <div style="display:flex;flex-direction: column; background-color: white;">
 <?php
-include_once("cuenta-regresiva/cuenta-regresiva.php");
+include_once("cuenta-regresiva.php");
 ?>
 
 
