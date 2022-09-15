@@ -8,11 +8,9 @@
   <main>
  
 		
-	<div class="portada" id="portada">
 
 		<div id="cuenta"></div>
 
 		
-	</div>
   </main>
 </div>
