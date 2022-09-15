@@ -1,12 +1,10 @@
-<html>
-  <head>
-<!-- Load font awesome icons -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="style.css">
+<?php
+include("head0.php");
+?>
 
-  </head>
 
-<body style="margin: 0% 10% 0% 10%; background-color: #c0c0c0;">
+
+
 <?php
 include("head.php");
 ?>
@@ -37,6 +35,10 @@ Certificado de designación  al Cordinador del Evento.
   
 	</div>  
 
+<div style="padding:20px;">
+Primer tríptico promosional.
+</div >
+
 
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
@@ -47,10 +49,6 @@ Certificado de designación  al Cordinador del Evento.
   
 	</div>
 
-
-<div style="padding:20px;">
-Primera inscripción conferencistas internacionales.
-</div >
 
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
