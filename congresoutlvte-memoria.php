@@ -92,7 +92,7 @@ Mesa de trabajo.
 
 
 <div style="pading:20px;">
-Cuarta inscripción conferencistas nacionales.
+Mesa de trabajo.
 </div >
 
 

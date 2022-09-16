@@ -12,7 +12,7 @@ include("head.php");
 <div style="width: 100%; margin:0px auto; padding: 10px;background-color: white;">
 
 <main id="agenda" class="cd-main-content" style="margin-top:0%">
-<p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> COMITE">
+<p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> COMITE"</p>
     <div class="container">
 
 <div class="row py-lg-5 text-center container">
@@ -28,7 +28,7 @@ include("head.php");
             <img src="http://www.congresoutlvte.org/faci/images/comite/CruelSiguenzaJoseph.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>Joseph Cruel</strong>  <br> Comisión organizadora</p>
+              <p class="card-text"><strong>Joseph Cruel</strong>  <br> Comite organizador</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                    <button  onclick="location.href='https://utelvt.edu.ec/sitioweb/index.php/rector'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
