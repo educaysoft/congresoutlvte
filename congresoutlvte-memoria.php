@@ -61,13 +61,13 @@ Primer tríptico promosional.
 
 
 <div style="padding:20px;">
-Segunda inscripción conferencistas internacionales.
+Primer mesa de trabajo.
 </div >
 
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria3.jpg" style="width:100%; ">
+      <img src="images/Memoria/MesaDetrabajo1.jpeg" style="width:100%; ">
   </div>
   
   
@@ -76,13 +76,13 @@ Segunda inscripción conferencistas internacionales.
 
 
 <div style="padding:20px;">
-Tercera inscripción conferencistas internacionales.
+Mesa de trabajo.
 </div >
 
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria4.jpg" style="width:100%; ">
+      <img src="images/Memoria/MesaDetrabajo2.jpeg" style="width:100%; ">
   </div>
   
   
@@ -91,7 +91,7 @@ Tercera inscripción conferencistas internacionales.
 
 
 
-<div style="padding:20px;">
+<div style="pading:20px;">
 Cuarta inscripción conferencistas nacionales.
 </div >
 
