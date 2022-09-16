@@ -100,6 +100,11 @@
     </div>
 
 
+<div style="float:left; padding:0.5vw; ">
+      <a href="https://www.utmachala.edu.ec/portalwp/"><img src="images/universidades/loja.jpg"  height="100vh"></a>
+    </div>
+
+
 </div>
 </div>
 
