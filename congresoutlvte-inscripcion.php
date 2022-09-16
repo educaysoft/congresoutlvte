@@ -22,7 +22,7 @@ include("head.php");
         </p>
 
 <h3> Inscripción como estudiante </h3>
-<p class="text-justify">Si eres estudiantes y vas vas a participar como asistente al evento debes llenar el formulario y enviar tu comprobante del pago del $10 al correo :  <a href="mailto:grupo.investigacion.faci@utelvt.edu.ec"> grupo.investigacion.faci@utelvt.edu.ec</a></p>
+<p class="text-justify">Si eres estudiantes y  vas a participar como asistente al evento debes llenar el formulario y enviar tu comprobante del pago de $10  al correo :  <a href="mailto:grupo.investigacion.faci@utelvt.edu.ec"> grupo.investigacion.faci@utelvt.edu.ec</a></p>
 <p>
           <a href=" https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link" class="btn btn-primary my-2">Inscipción como estudiante asistente</a>
         </p>
