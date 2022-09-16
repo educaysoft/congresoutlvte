@@ -67,7 +67,7 @@ Primer mesa de trabajo.
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/MesaDetrabajo1.jpeg" style="width:100%; ">
+      <img src="images/Memoria/MesaDetrabajo1.jpg" style="width:100%; ">
   </div>
   
   
@@ -82,7 +82,7 @@ Mesa de trabajo.
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/MesaDetrabajo2.jpeg" style="width:100%; ">
+      <img src="images/Memoria/MesaDetrabajo2.jpg" style="width:100%; ">
   </div>
   
   
