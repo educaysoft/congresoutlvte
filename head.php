@@ -81,7 +81,7 @@
         <p class="mb-5" style="Font-family: Impact, Charcoal, Helvetica Inserat, Bitstream Vera Sans Bold, Arial Black, sans serif; color: white; font-weight:900;font-size:1.17em;text-shadow: 2px 2px #000000;">   noviembre 7,8,9 - 2022 <br> Esmeraldas-Ecuador  </p>
  <a
             class="btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold"
-             href="https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link"
+             href="congresoutlvte-inscripcion.php"
             role="button"
             rel="nofollow"
             target="_blank"
