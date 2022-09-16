@@ -25,8 +25,6 @@
 
 
 
-  <b>Coordinador del congreso</b><br><br>
-  <p class="nombre">Ing. Franklin Ochoa Gonzales MSc.</p> 
   </main>
 </div>
 
