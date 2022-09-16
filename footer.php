@@ -144,7 +144,7 @@
     </div>
 
 <div style="float:left; padding:0.5vw; ">
-      <a href="#"><img src="images/auspiciantes/gim-face.jpg"  height="100vh" alt="Sistemas Integrales en Ingenieria, Salud y Ambiente" ></a>
+      <a href="#"><img src="images/auspiciantes/gim-faci.jpg"  height="100vh" alt="Grupo de Investigación Multidiciplinaria-FACI" ></a>
     </div>
 
 
