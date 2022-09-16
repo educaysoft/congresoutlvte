@@ -65,7 +65,7 @@
   </tbody>
 </table>
 
-<p>Los participantes recibiran un certificado con una validez académica de 40 horas.</p>
+<p>Los participantes recibirán un certificado de asistencia y participación con una validez académica de 40 horas.</p>
 
 
 

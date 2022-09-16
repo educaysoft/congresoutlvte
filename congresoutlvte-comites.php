@@ -38,8 +38,8 @@
   <b>Presidente</b><br><br>
   <p class="nombre">PhD. Elizabeth Canchingre.</p>
   <p>Vicerrectora Académica.</p><br>
-  <p class="nombre">PhD. Joseph Cruel Siguenza.<br>
-  Doctorado Ciencias Ambientales.</p><br><br>
+  <p class="nombre">Ing. Joseph Cruel Siguenza M.Sc.<br>
+  Doctorando Ciencias Ambientales.</p><br><br>
   
   <p class="nombre">PhD. Juan Tacoronte.<br>
   Docente FACI.</p><br>
