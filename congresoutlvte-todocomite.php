@@ -25,7 +25,7 @@ include("head.php");
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
           <div class="card shadow-sm">
-            <img src="http://www.congresoutlvte.org/faci/images/comite/CruelSiguenzaJoseph.png">
+            <img src="http://www.congresoutlvte.org/faci/images/comite/CruelSiguenzaJoseph.jpg">
 
             <div class="card-body">
               <p class="card-text"><strong>Joseph Cruel</strong>  <br> Comisión organizadora</p>
@@ -40,10 +40,10 @@ include("head.php");
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <img src="http://www.congresoutlvte.org/faci/images/Vicerectora2.jpg">
+            <img src="http://www.congresoutlvte.org/faci/images/comite/GarciaCervantesXavier.jpg">
 
             <div class="card-body">
-              <p class="card-text"><b>Elizabeth Canchingre</b><br>Vice-rectora Académica UTLVTE.</p>
+              <p class="card-text"><b>Xavier Garcia</b><br>UTLVTE.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
