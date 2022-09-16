@@ -17,7 +17,7 @@ include("head.php");
 
 <div class="row py-lg-5 text-center container">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Comisión organizadora</h1>
+        <h1 class="fw-light">Comite organizador</h1>
       </div>
     </div>
 
@@ -43,7 +43,7 @@ include("head.php");
             <img src="http://www.congresoutlvte.org/faci/images/comite/GarciaCervantesXavier.jpg">
 
             <div class="card-body">
-              <p class="card-text"><b>Xavier Garcia</b><br>UTLVTE.</p>
+              <p class="card-text"><b>Xavier Garcia</b><br>Comite organizador del evento.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
@@ -59,7 +59,7 @@ include("head.php");
             <img src="http://www.congresoutlvte.org/faci/images/Decano.png">
 
             <div class="card-body">
-              <p class="card-text"><strong>Lenin Montaño</strong> <br> Decano FACI-UTLVTE.</p>
+              <p class="card-text"><strong>Lenin Montaño</strong> <br> Comite organizador del evento.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
@@ -80,11 +80,11 @@ include("head.php");
             <img src="http://www.congresoutlvte.org/faci/images/Coordinador.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>Franklin Ochoa</strong> <br> Coordinador del Evento.</p>
+              <p class="card-text"><strong>Franklin Ochoa</strong> <br>Comite organizador del evento.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                  
                 </div>
              <!---   <small class="text-muted">9 mins</small>  -->
               </div>
