@@ -47,6 +47,7 @@
               <ul class="dropdown-menu">
                 <li><a class="dropdown-item" href="#">Certificado</a></li>
                 <li><a class="dropdown-item" href="congresoutlvte-memoria.php">Memoria</a></li>
+                <li><a class="dropdown-item" href="congresoutlvte-todocomite.php">Comite</a></li>
                 <li>
                   <hr class="dropdown-divider">
                 </li>
