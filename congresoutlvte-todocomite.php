@@ -38,7 +38,26 @@ include("head.php");
             </div>
           </div>
         </div>
-        <div class="col">
+	
+
+<div class="col">
+          <div class="card shadow-sm">
+            <img src="http://www.congresoutlvte.org/faci/images/comite/FrancisQuindeStalin.png">
+
+            <div class="card-body">
+              <p class="card-text"><strong>Stalin Francis </strong>  <br> Comite organizador</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                   <button  onclick="location.href='https://utelvt.edu.ec/sitioweb/index.php/rector'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                  <button  onclick="location.href='https://www.youtube.com/watch?v=-2gqhIER5Uo'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+<div class="col">
           <div class="card shadow-sm">
             <img src="http://www.congresoutlvte.org/faci/images/comite/GarciaCervantesXavier.jpg">
 
