@@ -91,7 +91,15 @@
       <a href="https://www.unap.edu.pe/"><img src="images/universidades/Logo_UNAP.png"  height="100vh"></a>
     </div>
 
-    
+<div style="float:left; padding:0.5vw; ">
+      <a href=" https://www.uce.edu.ec/"><img src="images/universidades/UCE.png"  height="100vh"></a>
+    </div>
+
+<div style="float:left; padding:0.5vw; ">
+      <a href="https://www.utmachala.edu.ec/portalwp/"><img src="images/universidades/machala.png"  height="100vh"></a>
+    </div>
+
+
 </div>
 </div>
 

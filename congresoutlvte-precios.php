@@ -37,12 +37,12 @@
     <tr>
       <th scope="row">2</th>
       <td colspan="2">Estudiantes participantes:</td>
-      <td>20 USD.</td>
+      <td>10 USD.</td>
     </tr>
     <tr>
       <th scope="row">3</th>
       <td colspan="2">Estudiantes ponentes:</td>
-      <td>30 USD.</td>
+      <td>20 USD.</td>
     </tr>
 <tr>
       <th scope="row">4</th>
@@ -60,16 +60,12 @@
       <td>90 USD.</td>
     </tr>
 
-<tr>
-      <th scope="row">7</th>
-      <td colspan="2">Invitados y participantes extranjeros:</td>
-      <td>sin costos.</td>
-    </tr>
+
 
   </tbody>
 </table>
 
-
+<p>Los participantes recibiran un certificado con una validez académica de 40 horas.</p>
 
 
 
