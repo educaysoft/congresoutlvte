@@ -93,7 +93,7 @@
 
 
  <a
-            class="btn btn-primay my-2"
+            class="btn btn-primary my-2"
   >Inscripciones </a>
           <a
             class="btn btn-outline-light btn-lg m-2"
