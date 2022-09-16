@@ -16,13 +16,20 @@ include("head.php");
       <div class="col-lg-6 col-md-8 mx-auto">
 	<h1 class="fw-light">Inscripción al congreso </h1>
 <h3> Inscripción como profesional </h3>
-        <p class="text-justify">Registrate como profesional o ponente, si quieres presentar una ponencia; luego de registrar tus datos, deberás enviar el trabajo de la ponencia al correo <a href="mailto:grupo.investigacion.faci@utelvt.edu.ec">grupo.investigacion.faci@utelvt.edu.ec</a>, tu trabajo sera enviado a casas editoriales para ser revisado por pares; luego de 48 horas te llegará a tu correo ya sea las observaciones en caso de que tengas que realizar alguna corrección o la solicitud del comprobando de  pago por $90 y envio de diapositivos  en caso de que el trabajo halla sido aprobado, con lo cual tu proceso de inscripción llega a su finalización.</p>
+        <p class="text-justify">Registrate como profesional o ponente, si quieres presentar una ponencia; luego de registrar tus datos, deberás enviar el trabajo de la ponencia al correo <a href="mailto:grupo.investigacion.faci@utelvt.edu.ec">grupo.investigacion.faci@utelvt.edu.ec</a>, tu trabajo sera enviado a casas editoriales para ser revisado por pares; luego de 48 horas te llegará a tu correo ya sea las observaciones en caso de que tengas que realizar alguna corrección o la solicitud del comprobante de  pago por un valor de  $90 adjunto a las diapositivas  en caso de que el trabajo halla sido aprobado, con lo cual tu proceso de inscripción llega a su finalización.</p>
         <p>
           <a href=" https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link" class="btn btn-primary my-2">Inscipción como profesional</a>
         </p>
 
-<h3> Inscripción como estudiante </h3>
-<p class="text-justify">Si eres estudiantes y  vas a participar como asistente al evento debes llenar el formulario y enviar tu comprobante del pago de $10  al correo :  <a href="mailto:grupo.investigacion.faci@utelvt.edu.ec"> grupo.investigacion.faci@utelvt.edu.ec</a></p>
+<h3> Inscripción como estudiante ponente </h3>
+        <p class="text-justify">Si eres estudiante y quieres presentar una ponencia; luego de registrar tus datos, deberás enviar el trabajo de la ponencia al correo <a href="mailto:grupo.investigacion.faci@utelvt.edu.ec">grupo.investigacion.faci@utelvt.edu.ec</a>, tu trabajo sera enviado a casas editoriales para ser revisado por pares; luego de 48 horas te llegará a tu correo ya sea las observaciones en caso de que tengas que realizar alguna corrección o la solicitud para que envies el comprobante de  pago por un un valor de  $20 adjuntando tus diapositivas  en caso de que el trabajo halla sido aprobado, con lo cual tu proceso de inscripción llega a su finalización.</p>
+        <p>
+          <a href=" https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link" class="btn btn-primary my-2">Inscipción como profesional</a>
+        </p>
+
+
+<h3> Inscripción como estudiante asistente </h3>
+<p class="text-justify">Si eres estudiante y  vas a participar como asistente al evento debes llenar el formulario y enviar tu comprobante de pago por el valor de $10  al correo :  <a href="mailto:grupo.investigacion.faci@utelvt.edu.ec"> grupo.investigacion.faci@utelvt.edu.ec.</a></p>
 <p>
           <a href=" https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link" class="btn btn-primary my-2">Inscipción como estudiante asistente</a>
         </p>
@@ -30,9 +37,9 @@ include("head.php");
 
 
 <h3> Inscripción de tu estand </h3>
-<p class="text-justify">Si eres una personas Natura o Juridica, quieres hacerte conocer y tienes un stand para set colocado el día del evento, inscribete llenando el formulario y enviando tu comprobante de pago del $90 al correo :  <a href="mailto:grupo.investigacion.faci@utelvt.edu.ec"> grupo.investigacion.faci@utelvt.edu.ec</a></p>
+<p class="text-justify">Si eres una persona Natural o Jurídica, quieres hacerte conocer y tienes un stand para ser colocado el día del evento, inscribete llenando el formulario y enviando tu comprobante de pago por el valor de $90 al correo :  <a href="mailto:grupo.investigacion.faci@utelvt.edu.ec"> grupo.investigacion.faci@utelvt.edu.ec.</a></p>
 <p>
-          <a href=" https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link" class="btn btn-primary my-2">Inscipción como persona natural o jurídica</a>
+          <a href=" https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link" class="btn btn-primary my-2">Inscripción como persona natural o jurídica</a>
         </p>
 
 
