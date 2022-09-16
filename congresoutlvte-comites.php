@@ -3,7 +3,7 @@
 
 <div style="float:left; width: 20%; font-size: 0.5wv;">
   <header>
-    <p style="margin-bottom: 10px; margin-top:10px;"><b>Miembros de Honor</b></p>
+    <p style="margin-bottom: 10px; margin-top:10px;"><b>AUTORIDADES</b></p>
   </header>
   <main>
 
@@ -120,31 +120,44 @@
 
 <div style="float:left; width: 20%; padding-right:10px;">
   <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMISIÓN DE PRESUPUESTO</b></p>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE ORGANIZADOR</b></p>
+    <p  style="margin-bottom: 10px; margin-top:10px;" >Nacionales</p>
   </header>
   <main>
-  <p class="nombre">PhD. Juan Tacoronte.
-  <br><i>Docente FACI</i><br><br></p>
 
-  <p class="nombre">Ing. Galo Maldonado M.Sc. </p>
-  <i>Docente FACI</i><br><br>
+  <p class="nombre">Ing. Stalin Francis Quinde, MSc. 
+  <br><i>UTLVTE</i><br><br></p>
 
-  <p class="nombre">Ing. Marco Navarrete M.Sc. </p>
-  <i>Docente FACI</i><br><br>
+  <p class="nombre">Ing. Silvia Simisterra Masías, Mgs.
+  <br><i>UTLVTE</i><br><br></p>
+
+  <p class="nombre">Dr. Juan Tacoronte Morales, PhD.
+  <br><i>UTLVTE</i><br><br></p>
+
+  <p class="nombre">Ing. Franklin Ochoa Gonzales,  MSc. 
+  <br><i>UTLVTE</i><br><br></p>
 
 
-  <p class="nombre">Ing. Marco Navarrete M.Sc. </p>
-  <i>Docente FACI</i><br><br>
+  <p class="nombre">Ing. Xavier Garcia Cervantes, MSc.
+  <br><i>UTLVTE</i><br><br></p>
 
 
-  <p class="nombre">M.Sc. Lucía Germania Chávez Ruano.</p>
-  <i>Pedagogía de las Ciencias Experimentales de las Matemáticas y Física.</i><br><br>
+  <p class="nombre">Ing. Damián Pérez Moreira, MSc.
+  <br><i>UTLVTE</i><br><br></p>
 
-  <p class="nombre">PhD. Lázaro Lima Cazorla.</p>
-  <i>Pedagogía de las Ciencias Experimentales de Química y Biología.</i> <br><br>
 
-  <p class="nombre">M.Sc. Ana Bedoya Gutierrez.</p>
-  <i>Educación Inicial.</i> <br> <br>
+  <p class="nombre">Ing. Lenin Montaño Roldan, MSc.
+  <br><i>UTLVTE</i><br><br></p>
+
+
+  <p class="nombre">Ing. Marco Rosero, MSc.
+  <br><i>UCE</i><br><br></p>
+
+  <p class="nombre">Ing. Geraldo Areolfo Cuadrado, MSc.
+  <br><i>UPEC</i><br><br></p>
+
+  <p class="nombre">Ing. Erasmo Alvarado Jaramillo, MSc.
+  <br><i>UNL</i><br><br></p>
    
 
   </main>
