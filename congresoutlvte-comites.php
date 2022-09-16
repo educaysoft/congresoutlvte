@@ -125,6 +125,9 @@
   </header>
   <main>
 
+  <p class="nombre">Ing. Joseph Cruel Siguenza, MSc. 
+  <br><i>UTLVTE</i><br><br></p>
+
   <p class="nombre">Ing. Stalin Francis Quinde, MSc. 
   <br><i>UTLVTE</i><br><br></p>
 
@@ -146,6 +149,10 @@
   <br><i>UTLVTE</i><br><br></p>
 
 
+  <p class="nombre">Ing. Guillermo Mosquera Quintero, MSc.
+  <br><i>UTLVTE</i><br><br></p>
+
+
   <p class="nombre">Ing. Lenin Montaño Roldan, MSc.
   <br><i>UTLVTE</i><br><br></p>
 
@@ -159,6 +166,33 @@
   <p class="nombre">Ing. Erasmo Alvarado Jaramillo, MSc.
   <br><i>UNL</i><br><br></p>
    
+    <p  style="margin-bottom: 10px; margin-top:10px;" >Internacionales.</p>
+
+
+  <p class="nombre">Dr. Hugo Romero Bonilla, PhD. 
+  <br><i>PERU</i><br><br></p>
+
+
+  <p class="nombre">Dr. Guadalupe Abeledo, PhD. 
+  <br><i>ESPAÑA</i><br><br></p>
+
+  <p class="nombre">Dr. Hever Robles Castillo, PhD. 
+  <br><i>PERU</i><br><br></p>
+
+
+  <p class="nombre">Dr. Luis Paucar Flores, PhD. 
+  <br><i>PERU</i><br><br></p>
+
+
+  <p class="nombre">Dr. José Nestor Mamani Quispe, PhD. 
+  <br><i>PERU</i><br><br></p>
+
+  <p class="nombre">Ing. Luz Cano Zapata, MSc. 
+  <br><i>PERU</i><br><br></p>
+
+
+  <p class="nombre">Dra. Yorberth Montes de Oca Rojas, PhD. 
+  <br><i>Venezuela</i><br><br></p>
 
   </main>
 </div>
