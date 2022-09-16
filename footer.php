@@ -143,6 +143,10 @@
       <a href="https://www.asefie.org/"><img src="images/auspiciantes/asefie.png"  height="100vh" alt="Sistemas Integrales en Ingenieria, Salud y Ambiente" ></a>
     </div>
 
+<div style="float:left; padding:0.5vw; ">
+      <a href="#"><img src="images/auspiciantes/gim-face.jpg"  height="100vh" alt="Sistemas Integrales en Ingenieria, Salud y Ambiente" ></a>
+    </div>
+
 
 </div>
 </div>
