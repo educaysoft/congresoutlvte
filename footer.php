@@ -125,7 +125,7 @@
     </div>
 
 <div style="float:left; padding:0.5vw; ">
-      <a href="https://investigacion.utmachala.edu.ec/portal/la-editorial/"><img src="images/auspicientes/machala2.png"  height="100vh"></a>
+      <a href="https://investigacion.utmachala.edu.ec/portal/la-editorial/"><img src="images/auspiciantes/machala2.png"  height="100vh"></a>
     </div>
 
 
