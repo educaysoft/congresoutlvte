@@ -94,11 +94,10 @@
 
  <a
             class="btn btn-primary my-2"
-             href="congresoutlvte-inscripcion.php"
-  >Inscripciones </a>
+             href="congresoutlvte-inscripcion.php"  >Inscripciones </a>
           <a
             class="btn btn-secondary my-2"
-    href="#"
+    href="#" style="background-color: #f44336;" 
           >Cronograma</a>
           </div>
        </div>
