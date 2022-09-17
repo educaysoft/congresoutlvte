@@ -11,7 +11,9 @@
 <div class="row py-lg-5 text-center container">
       <div class="col-lg-6 col-md-8 mx-auto">
         <h1 class="fw-light">Cursos-Precongreso</h1>
-        <p class="lead text-muted">EXPOSITORES.</p>
+<a
+            class="btn btn-primary my-2"
+             href="congresoutlvte-inscripcion-al-cursos.php"  >Inscripción al curso</a>
       </div>
     </div>
 
