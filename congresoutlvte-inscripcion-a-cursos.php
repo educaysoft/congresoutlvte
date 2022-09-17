@@ -15,10 +15,9 @@ include("head.php");
     <div class="row py-lg-5">
       <div class="col-lg-6 col-md-8 mx-auto">
 	<h1 class="fw-light">Inscripción a cursos </h1>
-<h3> Inscripción como profesional </h3>
-        <p class="text-justify">Los cursos pre-congreso son dictados por conferensistas internacionales de gran prestigio, para inscribirte solo deben llenar el siguiente formulario,  y adjuntar tu recibo de pago con un valor de $25, para información adicionar sobre los cursos puedes enviar un mensaje al correo  <a href="mailto:grupo.investigacion.faci@utelvt.edu.ec">grupo.investigacion.faci@utelvt.edu.ec</a> </p>
+        <p class="text-justify">Los cursos pre-congreso son dictados por conferencistas internacionales de gran prestigio, para inscribirte solo deben llenar el siguiente formulario,  y adjuntar tu recibo de pago con un valor de $25, para información adicional sobre los cursos puedes enviar un mensaje al correo  <a href="mailto:grupo.investigacion.faci@utelvt.edu.ec">grupo.investigacion.faci@utelvt.edu.ec</a> </p>
         <p>
-          <a href=" https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link" class="btn btn-primary my-2">Inscipción como profesional</a>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLScPJ1OQBJTkWJkaP53B4Q3Mbp_2q-b-Sflb04yyKrFbF4G_Kw/viewform?usp=sf_link" class="btn btn-primary my-2">Inscribete aquí</a>
         </p>
 
 

@@ -13,7 +13,7 @@
         <h1 class="fw-light">Cursos-Precongreso</h1>
 <a
             class="btn btn-primary my-2"
-             href="congresoutlvte-inscripcion-al-cursos.php"  >Inscripción al curso</a>
+             href="congresoutlvte-inscripcion-a-cursos.php"  >Inscripción a curso</a>
       </div>
     </div>
 
