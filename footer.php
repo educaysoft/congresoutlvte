@@ -158,7 +158,8 @@
     </div>
     <main style="color: black;font-size:20px;">
       <p style="font-size: 1vw;">Dirección: Ciudadela Nuevos Horizontes:</p>
-      <p style="font-size: 1vw;">Correo: congresoutlvte@utelvt.edu.ec</p>
+      <p style="font-size: 1vw;">Coord:0.9743604276613814, -79.66642811934824</p>
+      <p style="font-size: 1vw;"><a href="mailto:grupo.investigacion.faci@utelvt.edu.ec">grupo.investigacion.faci@utelvt.edu.ec</a></p>
 </main>   
  </div>
  <div style="  height:100%; width:30%; display:flex; justify-content: center; flex-direction: column; ">
