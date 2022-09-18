@@ -177,7 +177,7 @@
     <li><a href="#">Conferencias</a></li>
     <li><a href="#">Ferias de libros virtuales</a></li>
     <li><a href="#" >Memorias</a></li>
-    <li><a href="#">Inscripciones</a></li>
+    <li><a href="congresoutlvte-politica.php">Política de privacidad</a></li>
     </ul>
 </div>
 
