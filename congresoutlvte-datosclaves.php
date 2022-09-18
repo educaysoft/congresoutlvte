@@ -110,7 +110,7 @@
         <svg class="bi text-muted flex-shrink-0 me-3" width="1.75em" height="1.75em"><use xlink:href="#home"/></svg>
         <div>
           <h4 class="fw-bold mb-0">Lugar del evento</h4>
-          <p>Universidad Técnica Luis Vargas Torres de Esmeraldas-Ecuador.</p>
+          <p><a href="https://www.utelvt.edu.ec/site/" target="_blank">Universidad Técnica Luis Vargas Torres de Esmeraldas-Ecuador.</a></p>
         </div>
       </div>
       <div class="col d-flex align-items-start">
