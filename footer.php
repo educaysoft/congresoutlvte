@@ -173,11 +173,11 @@
 
 <div style="color: black; height: 100%; width: 30%; display:flex; justify-content: center;  ">
     <ul style="margin:0; padding:0;" class="icons">
-    <li><a href="congresoutlvte-normafinal.php">Normativas</a></li>
+    <li><a href="congresoutlvte-presentacion.php">Presentación</a></li>
     <li><a href="#">Agenda</a></li>
-    <li><a href="#">Conferencias</a></li>
-    <li><a href="#">Ferias de libros virtuales</a></li>
-    <li><a href="#" >Memorias</a></li>
+    <li><a href="congresoutlvte-normafinal.php">Normativas</a></li>
+    <li><a href="congresoutlvte-todocomite.php">Miembros del comite</a></li>
+    <li><a href="congresoutlvte-memoria.php" >Memoria de evento</a></li>
     <li><a href="congresoutlvte-politica.php">Política de privacidad</a></li>
     </ul>
 </div>
