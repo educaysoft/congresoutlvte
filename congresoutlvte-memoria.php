@@ -24,7 +24,7 @@ Certificado de designación  al Cordinador del Evento.
 
 
 
-
+<!------
 
 <div style="margin-bottom: 10px; display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
@@ -34,7 +34,7 @@ Certificado de designación  al Cordinador del Evento.
   
   
 	</div>  
-
+--->
 <div style="padding:20px;">
 Primer tríptico promosional.
 </div >
