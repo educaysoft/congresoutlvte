@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.25)  26 JAN 2022 06:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.26)  19 SEP 2022 23:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -148,20 +148,20 @@ LaTeX Warning: Label `fig:arquitectura' multiply defined.
 )
 \openout1 = `congresoweb.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -220,342 +220,136 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 9.
+(Font)              <12> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 9.
+(Font)              <8> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 9.
+(Font)              <6> on input line 10.
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--14
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
+Underfull \hbox (badness 10000) in paragraph at lines 16--17
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--28
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
 [1
 
-{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): fontmap entry for `pncb8y' already exists, duplicates ignored
-
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): fontmap entry for `pncbi8y' already exists, duplicates ignore
-d
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): invalid entry for `pncbo8y': SlantFont/ExtendFont can be used
- only with embedded Type1 fonts
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): fontmap entry for `pncr8y' already exists, duplicates ignored
-
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): fontmap entry for `pncri8y' already exists, duplicates ignore
-d
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): invalid entry for `pncro8y': SlantFont/ExtendFont can be used
- only with embedded Type1 fonts
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `UniClass[letter]': font file present but
- not included, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtcxbsl': font file present but not incl
-uded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtcxbsso': font file present but not inc
-luded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtcxsl': font file present but not inclu
-ded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtcxsssl': font file present but not inc
-luded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtxbsl': font file present but not inclu
-ded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtxbsssl': font file present but not inc
-luded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtxphvb': font file present but not incl
-uded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): fontmap entry for `rtxphvb' already exists, duplicates ignore
-d
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtxphvbo': font file present but not inc
-luded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): fontmap entry for `rtxphvbo' already exists, duplicates ignor
-ed
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtxphvr': font file present but not incl
-uded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): fontmap entry for `rtxphvr' already exists, duplicates ignore
-d
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtxphvro': font file present but not inc
-luded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): fontmap entry for `rtxphvro' already exists, duplicates ignor
-ed
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtxptmb': font file present but not incl
-uded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): fontmap entry for `rtxptmb' already exists, duplicates ignore
-d
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtxptmbi': font file present but not inc
-luded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): fontmap entry for `rtxptmbi' already exists, duplicates ignor
-ed
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtxptmbo': font file present but not inc
-luded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): fontmap entry for `rtxptmbo' already exists, duplicates ignor
-ed
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtxptmr': font file present but not incl
-uded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): fontmap entry for `rtxptmr' already exists, duplicates ignore
-d
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtxptmri': font file present but not inc
-luded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): fontmap entry for `rtxptmri' already exists, duplicates ignor
-ed
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtxptmro': font file present but not inc
-luded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): fontmap entry for `rtxptmro' already exists, duplicates ignor
-ed
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtxsl': font file present but not includ
-ed, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `rtxsssl': font file present but not incl
-uded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `t1xbttsl': font file present but not inc
-luded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `t1xttsl': font file present but not incl
-uded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `tcxbttsl': font file present but not inc
-luded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `tcxttsl': font file present but not incl
-uded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `txbttsl': font file present but not incl
-uded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): ambiguous entry for `txttsl': font file present but not inclu
-ded, will be treated as font file not present
-
-
-pdfTeX warning: pdflatex (file /usr/share/texlive/texmf-var/fonts/map/pdftex/up
-dmap/pdftex.map): fontmap entry for `pzcmi8y' already exists, duplicates ignore
-d
-}]
+{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 <congresoweb.jpg, id=11, 1551.08516pt x 1203.7229pt>
 File: congresoweb.jpg Graphic file (type jpg)
 <use congresoweb.jpg>
-Package pdftex.def Info: congresoweb.jpg  used on input line 32.
+Package pdftex.def Info: congresoweb.jpg  used on input line 33.
 (pdftex.def)             Requested size: 465.32915pt x 361.11966pt.
  [2 <./congresoweb.jpg>]
-<index.png, id=15, 635.37375pt x 742.775pt>
-File: index.png Graphic file (type png)
-<use index.png>
-Package pdftex.def Info: index.png  used on input line 48.
-(pdftex.def)             Requested size: 381.22719pt x 445.66843pt.
- [3 <./index.png>]
-<presentacion.png, id=21, 795.97375pt x 752.8125pt>
+<index.jpg, id=15, 722.7pt x 1646.15pt>
+File: index.jpg Graphic file (type jpg)
+<use index.jpg>
+Package pdftex.def Info: index.jpg  used on input line 49.
+(pdftex.def)             Requested size: 433.62334pt x 987.69763pt.
+ [3]
+Overfull \vbox (420.11188pt too high) has occurred while \output is active []
+
+
+[4 <./index.jpg>]
+<presentacion.png, id=22, 795.97375pt x 752.8125pt>
 File: presentacion.png Graphic file (type png)
 <use presentacion.png>
-Package pdftex.def Info: presentacion.png  used on input line 65.
+Package pdftex.def Info: presentacion.png  used on input line 66.
 (pdftex.def)             Requested size: 477.58794pt x 451.69098pt.
- [4 <./presentacion.png>]
-<normativas.png, id=26, 785.93625pt x 756.8275pt>
+ [5 <./presentacion.png>]
+<normativas.png, id=28, 785.93625pt x 756.8275pt>
 File: normativas.png Graphic file (type png)
 <use normativas.png>
-Package pdftex.def Info: normativas.png  used on input line 80.
+Package pdftex.def Info: normativas.png  used on input line 81.
 (pdftex.def)             Requested size: 471.56538pt x 454.1pt.
- [5 <./normativas.png>]
-<agenda.png, id=31, 787.94376pt x 754.82pt>
+ [6 <./normativas.png>]
+<agenda.png, id=33, 787.94376pt x 754.82pt>
 File: agenda.png Graphic file (type png)
 <use agenda.png>
-Package pdftex.def Info: agenda.png  used on input line 96.
+Package pdftex.def Info: agenda.png  used on input line 97.
 (pdftex.def)             Requested size: 472.7699pt x 452.89551pt.
- [6 <./agenda.png>]
-<tematicas.png, id=36, 793.96625pt x 756.8275pt>
+ [7 <./agenda.png>]
+<tematicas.png, id=39, 793.96625pt x 756.8275pt>
 File: tematicas.png Graphic file (type png)
 <use tematicas.png>
-Package pdftex.def Info: tematicas.png  used on input line 111.
+Package pdftex.def Info: tematicas.png  used on input line 112.
 (pdftex.def)             Requested size: 476.38342pt x 454.1pt.
- [7 <./tematicas.png>]
-<conferencistas.png, id=42, 790.955pt x 757.83125pt>
+ [8 <./tematicas.png>]
+<conferencistas.png, id=44, 790.955pt x 757.83125pt>
 File: conferencistas.png Graphic file (type png)
 <use conferencistas.png>
-Package pdftex.def Info: conferencistas.png  used on input line 127.
+Package pdftex.def Info: conferencistas.png  used on input line 128.
 (pdftex.def)             Requested size: 474.57666pt x 454.70226pt.
- [8 <./conferencistas.png>]
-<repositorio.png, id=47, 789.95125pt x 750.805pt>
+ [9 <./conferencistas.png>]
+<repositorio.png, id=49, 789.95125pt x 750.805pt>
 File: repositorio.png Graphic file (type png)
 <use repositorio.png>
-Package pdftex.def Info: repositorio.png  used on input line 145.
+Package pdftex.def Info: repositorio.png  used on input line 146.
 (pdftex.def)             Requested size: 473.9744pt x 450.48647pt.
- [9 <./repositorio.png>]
-<certificado.png, id=52, 789.95125pt x 747.79375pt>
+ [10 <./repositorio.png>]
+<certificado.png, id=54, 789.95125pt x 747.79375pt>
 File: certificado.png Graphic file (type png)
 <use certificado.png>
-Package pdftex.def Info: certificado.png  used on input line 161.
+Package pdftex.def Info: certificado.png  used on input line 162.
 (pdftex.def)             Requested size: 473.9744pt x 448.6797pt.
- [10 <./certificado.png>]
-<memoria.png, id=57, 792.9625pt x 752.8125pt>
+[11 <./certificado.png>]
+<memoria.png, id=59, 792.9625pt x 752.8125pt>
 File: memoria.png Graphic file (type png)
 <use memoria.png>
-Package pdftex.def Info: memoria.png  used on input line 176.
+Package pdftex.def Info: memoria.png  used on input line 177.
 (pdftex.def)             Requested size: 475.78116pt x 451.69098pt.
- [11 <./memoria.png>]
-<inscripcion.png, id=62, 791.95876pt x 720.6925pt>
+ [12 <./memoria.png>]
+<inscripcion.png, id=64, 791.95876pt x 720.6925pt>
 File: inscripcion.png Graphic file (type png)
 <use inscripcion.png>
-Package pdftex.def Info: inscripcion.png  used on input line 191.
+Package pdftex.def Info: inscripcion.png  used on input line 192.
 (pdftex.def)             Requested size: 475.17892pt x 432.41884pt.
-
-[12 <./inscripcion.png>] (./congresoweb.aux)
+ [13 <./inscripcion.png>]
+(./congresoweb.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1876 strings out of 478862
- 28162 string characters out of 5858944
- 329771 words of memory out of 6000000
- 19522 multiletter control sequences out of 15000+600000
+ 1876 strings out of 480806
+ 28162 string characters out of 5905151
+ 324784 words of memory out of 6000000
+ 19268 multiletter control sequences out of 15000+600000
  407685 words of font info for 41 fonts, out of 8000000 for 9000
- 1137 hyphenation exceptions out of 8191
+ 14 hyphenation exceptions out of 8191
  55i,7n,62p,534b,216s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on congresoweb.pdf (12 pages, 4147237 bytes).
+Output written on congresoweb.pdf (13 pages, 3976709 bytes).
 PDF statistics:
- 85 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
+ 88 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
