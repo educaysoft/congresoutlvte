@@ -57,10 +57,10 @@ array(
 "diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1R35FupuISCJQ-JgmR8Td05rZFe6AhVY2/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
 
 array(
-"foto"=>"GalbanMendozaYumilka.png",
-"ponencia"=>"Integración de los contenidos de las disciplinas, impacto de la formación profesional de la educación.",
-"bandera"=>"BanderaCuba.png",
-"conferencista"=>"PhD. Yumilka Galban Mendoza.",
+"foto"=>"RomeroBonillaHugo.png",
+"ponencia"=>"Bioingenieria, Biomateriales, Biomedicina y Bioeconomía.",
+"bandera"=>"BanderaPeru.png",
+"conferencista"=>"PhD. Hugo Romero Bonilla.",
 "coautor1"=>"MSc. Bertha Lidia Sotomayor Sánchez.",
 "coautor2"=>"Lic. Reinier Castañeda Despaigne.",
 "coautor3"=>"",
