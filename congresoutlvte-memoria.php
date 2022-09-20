@@ -15,11 +15,11 @@ include("head.php");
 <main id="agenda" class="cd-main-content" style="margin-top:0%">
 <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> MEMORIA</p>
 
-
+<center>
 <div style="padding:20px;">
-Certificado de designación  al Cordinador del Evento.
+Eviencias del trabajo realizado durante todo el proceso de difusión, organización y ejecución del evento.
 </div >
-
+</center>
 
 
 
@@ -61,7 +61,7 @@ Primer tríptico promosional.
 
 
 <div style="padding:20px;">
-Primer mesa de trabajo.
+Mesa de trabajo.
 </div >
 
 
