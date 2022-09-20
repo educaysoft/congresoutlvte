@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.26)  20 SEP 2022 09:35
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.26)  20 SEP 2022 14:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -107,12 +107,6 @@ LaTeX Warning: Label `fig:arquitectura' multiply defined.
 LaTeX Warning: Label `sec:pagina-principal' multiply defined.
 
 
-LaTeX Warning: Label `fig:arquitectura' multiply defined.
-
-
-LaTeX Warning: Label `sec:pagina-principal' multiply defined.
-
-
 LaTeX Warning: Label `sec:pagina-principal' multiply defined.
 
 
@@ -126,6 +120,9 @@ LaTeX Warning: Label `sec:pagina-principal' multiply defined.
 
 
 LaTeX Warning: Label `fig:arquitectura' multiply defined.
+
+
+LaTeX Warning: Label `fig:arquitectura2' multiply defined.
 
 )
 \openout1 = `congresoweb.aux'.
@@ -283,63 +280,62 @@ File: normativas.jpg Graphic file (type jpg)
 Package pdftex.def Info: normativas.jpg  used on input line 125.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
  [6 <./normativas.jpg>]
-<agenda.png, id=33, 787.94376pt x 754.82pt>
-File: agenda.png Graphic file (type png)
-<use agenda.png>
-Package pdftex.def Info: agenda.png  used on input line 141.
-(pdftex.def)             Requested size: 472.7699pt x 452.89551pt.
- [7 <./agenda.png>]
-<tematicas.jpg, id=40, 722.7pt x 1646.15pt>
+<tematicas.jpg, id=33, 722.7pt x 1646.15pt>
 File: tematicas.jpg Graphic file (type jpg)
 <use tematicas.jpg>
-Package pdftex.def Info: tematicas.jpg  used on input line 156.
+Package pdftex.def Info: tematicas.jpg  used on input line 144.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
 File: index2.jpg Graphic file (type jpg)
 <use index2.jpg>
-Package pdftex.def Info: index2.jpg  used on input line 165.
+Package pdftex.def Info: index2.jpg  used on input line 153.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
 
-Overfull \hbox (33.67079pt too wide) in paragraph at lines 153--170
+Overfull \hbox (33.67079pt too wide) in paragraph at lines 141--158
 []$[]$   $[]$ 
  []
 
-[8 <./tematicas.jpg>]
-<conferencistas.jpg, id=44, 722.7pt x 1646.15pt>
+[7 <./tematicas.jpg>]
+<conferencistas.jpg, id=38, 722.7pt x 1646.15pt>
 File: conferencistas.jpg Graphic file (type jpg)
 <use conferencistas.jpg>
-Package pdftex.def Info: conferencistas.jpg  used on input line 182.
+Package pdftex.def Info: conferencistas.jpg  used on input line 170.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
-<bibliografia.jpg, id=45, 722.7pt x 1646.15pt>
+<bibliografia.jpg, id=39, 722.7pt x 1646.15pt>
 File: bibliografia.jpg Graphic file (type jpg)
 <use bibliografia.jpg>
-Package pdftex.def Info: bibliografia.jpg  used on input line 191.
+Package pdftex.def Info: bibliografia.jpg  used on input line 179.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
 
-Overfull \hbox (33.67079pt too wide) in paragraph at lines 179--196
+Overfull \hbox (33.67079pt too wide) in paragraph at lines 167--184
 []$[]$   $[]$ 
  []
 
-[9 <./conferencistas.jpg> <./bibliografia.jpg>]
-<memoria.jpg, id=49, 722.7pt x 1646.15pt>
+[8 <./conferencistas.jpg> <./bibliografia.jpg>]
+<memoria.jpg, id=43, 722.7pt x 1646.15pt>
 File: memoria.jpg Graphic file (type jpg)
 <use memoria.jpg>
-Package pdftex.def Info: memoria.jpg  used on input line 214.
+Package pdftex.def Info: memoria.jpg  used on input line 202.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
- [10 <./memoria.jpg>]
-<inscripcion.jpg, id=53, 722.7pt x 1646.15pt>
+ [9 <./memoria.jpg>]
+<inscripcion.jpg, id=47, 722.7pt x 1646.15pt>
 File: inscripcion.jpg Graphic file (type jpg)
 <use inscripcion.jpg>
-Package pdftex.def Info: inscripcion.jpg  used on input line 229.
+Package pdftex.def Info: inscripcion.jpg  used on input line 217.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
- [11 <./inscripcion.jpg>] (./congresoweb.aux)
+<inscripcion2.jpg, id=48, 722.7pt x 1646.15pt>
+File: inscripcion2.jpg Graphic file (type jpg)
+<use inscripcion2.jpg>
+Package pdftex.def Info: inscripcion2.jpg  used on input line 225.
+(pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
+ [10 <./inscripcion.jpg> <./inscripcion2.jpg>] (./congresoweb.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1900 strings out of 480806
- 28502 string characters out of 5905151
- 326904 words of memory out of 6000000
+ 1899 strings out of 480806
+ 28540 string characters out of 5905151
+ 326906 words of memory out of 6000000
  19289 multiletter control sequences out of 15000+600000
  407685 words of font info for 41 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -349,10 +345,10 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on congresoweb.pdf (11 pages, 4889277 bytes).
+Output written on congresoweb.pdf (10 pages, 4877474 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
+ 70 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

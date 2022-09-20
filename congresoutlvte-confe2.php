@@ -1,3 +1,4 @@
+<!---------------
 <html>
   <head>
 <!-- Load font awesome icons -->
@@ -7,6 +8,15 @@
 
   </head>
 <body style="margin: 0% 10% 0% 10%; background-color: #c0c0c0;">
+-------->
+
+<?php
+include("head0.php");
+?>
+
+
+
+
 
 <?php
 include("head.php");
