@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.26)  20 SEP 2022 07:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.26)  20 SEP 2022 09:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -114,21 +114,6 @@ LaTeX Warning: Label `sec:pagina-principal' multiply defined.
 
 
 LaTeX Warning: Label `sec:pagina-principal' multiply defined.
-
-
-LaTeX Warning: Label `fig:arquitectura' multiply defined.
-
-
-LaTeX Warning: Label `sec:pagina-principal' multiply defined.
-
-
-LaTeX Warning: Label `fig:arquitectura' multiply defined.
-
-
-LaTeX Warning: Label `sec:pagina-principal' multiply defined.
-
-
-LaTeX Warning: Label `fig:arquitectura' multiply defined.
 
 
 LaTeX Warning: Label `sec:pagina-principal' multiply defined.
@@ -319,47 +304,43 @@ Overfull \hbox (33.67079pt too wide) in paragraph at lines 153--170
  []
 
 [8 <./tematicas.jpg>]
-<conferencistas.png, id=44, 790.955pt x 757.83125pt>
-File: conferencistas.png Graphic file (type png)
-<use conferencistas.png>
-Package pdftex.def Info: conferencistas.png  used on input line 181.
-(pdftex.def)             Requested size: 474.57666pt x 454.70226pt.
- [9 <./conferencistas.png>]
-<repositorio.png, id=49, 789.95125pt x 750.805pt>
-File: repositorio.png Graphic file (type png)
-<use repositorio.png>
-Package pdftex.def Info: repositorio.png  used on input line 199.
-(pdftex.def)             Requested size: 473.9744pt x 450.48647pt.
- [10 <./repositorio.png>]
-<certificado.png, id=54, 789.95125pt x 747.79375pt>
-File: certificado.png Graphic file (type png)
-<use certificado.png>
-Package pdftex.def Info: certificado.png  used on input line 215.
-(pdftex.def)             Requested size: 473.9744pt x 448.6797pt.
+<conferencistas.jpg, id=44, 722.7pt x 1646.15pt>
+File: conferencistas.jpg Graphic file (type jpg)
+<use conferencistas.jpg>
+Package pdftex.def Info: conferencistas.jpg  used on input line 182.
+(pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
+<bibliografia.jpg, id=45, 722.7pt x 1646.15pt>
+File: bibliografia.jpg Graphic file (type jpg)
+<use bibliografia.jpg>
+Package pdftex.def Info: bibliografia.jpg  used on input line 191.
+(pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
 
-[11 <./certificado.png>]
-<memoria.jpg, id=59, 722.7pt x 1646.15pt>
+Overfull \hbox (33.67079pt too wide) in paragraph at lines 179--196
+[]$[]$   $[]$ 
+ []
+
+[9 <./conferencistas.jpg> <./bibliografia.jpg>]
+<memoria.jpg, id=49, 722.7pt x 1646.15pt>
 File: memoria.jpg Graphic file (type jpg)
 <use memoria.jpg>
-Package pdftex.def Info: memoria.jpg  used on input line 230.
+Package pdftex.def Info: memoria.jpg  used on input line 214.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
- [12 <./memoria.jpg>]
-<inscripcion.jpg, id=63, 722.7pt x 1646.15pt>
+ [10 <./memoria.jpg>]
+<inscripcion.jpg, id=53, 722.7pt x 1646.15pt>
 File: inscripcion.jpg Graphic file (type jpg)
 <use inscripcion.jpg>
-Package pdftex.def Info: inscripcion.jpg  used on input line 245.
+Package pdftex.def Info: inscripcion.jpg  used on input line 229.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
- [13 <./inscripcion.jpg>]
-(./congresoweb.aux)
+ [11 <./inscripcion.jpg>] (./congresoweb.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1905 strings out of 480806
- 28593 string characters out of 5905151
- 325766 words of memory out of 6000000
- 19293 multiletter control sequences out of 15000+600000
+ 1900 strings out of 480806
+ 28502 string characters out of 5905151
+ 326904 words of memory out of 6000000
+ 19289 multiletter control sequences out of 15000+600000
  407685 words of font info for 41 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  55i,8n,62p,570b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -368,10 +349,10 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on congresoweb.pdf (13 pages, 5295336 bytes).
+Output written on congresoweb.pdf (11 pages, 4889277 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+ 75 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

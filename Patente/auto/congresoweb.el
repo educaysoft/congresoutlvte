@@ -21,6 +21,8 @@
     "fig:arquitectura2"
     "fig:presentacion"
     "fig:tematicas1"
-    "fig:tematicas2"))
+    "fig:tematicas2"
+    "fig:conferensistas"
+    "fig:bibliografia"))
  :latex)
 
