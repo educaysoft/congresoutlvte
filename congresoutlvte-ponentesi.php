@@ -22,10 +22,10 @@
             <img src="http://www.congresoutlvte.org/faci/ponentes/ponente1.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>Mario Heredia</strong>  <br> Miembro asociado del Centro de Estudios del Ambiente y del Mar (CESAM) de la Universidad Aveiro en Portugal.</p>
+              <p class="card-text"><strong>Mario Heredia</strong>  <br> "Procesos tecnológicos para el aprovechameinto de agro-residuos en extractoras de aceite de palma africana ecuatorianas: caso práctico".</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                   <button  onclick="location.href='#'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                   <button  onclick="location.href='congresoutlvte-biografia1.php'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
                   <button  onclick="location.href='#'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
               </div>
