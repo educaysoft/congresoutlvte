@@ -47,12 +47,12 @@ $cI=array(
 array(
 "foto"=>"HerediaSalgadoMario.png",
 "ponencia"=>"Técnicas de aprovechamiento de residuos en la agroindustria de Ecuador: conversión termoquímica.",
-"bandera"=>"BanderaEcuador.png",
+"bandera"=>"BanderaPortugal.png",
 "conferencista"=>"PhD. Mario Heredia Salgado.",
-"coautor1"=>"PhD. Isabel Batista Medina.",
+"coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad Técnica de Angola.",
+"universidad"=>"Universidad de Aveiro.",
 "video"=> array("link"=>"https://youtu.be/7tOzSyufSiU", "icono"=>"images/video.png"),
 "diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1R35FupuISCJQ-JgmR8Td05rZFe6AhVY2/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
 
