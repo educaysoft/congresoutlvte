@@ -391,10 +391,10 @@ array(
 
 $cN=array(
 array(
-"foto"=>"TapiaSosaHugoDavid.jpg",
-"ponencia"=>"Desarrollo del pensamiento científico desde la mediación pedagógica.",
+"foto"=>"RamirezMarquezMartin.png",
+"ponencia"=>"Diseño de tanque para almacenamiento de hidrógeno basado en Mg/MgH2.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. Hugo David Tapia Sosa.",
+"conferencista"=>"Ing. Martin Ramirez Marquez.",
 "coautor1"=>"Lic. Yéssica Alexandra Tapia Ortiz.",
 "coautor2"=>"",
 "coautor3"=>"",
