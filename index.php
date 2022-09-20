@@ -286,11 +286,10 @@ include_once("head.php");
 <?php
 include_once("congresoutlvte-resumen.php");
 ?>
-<!-----
+
 <?php
 include_once("cuenta-regresiva.php");
 ?>
----->
 
 
 <?php

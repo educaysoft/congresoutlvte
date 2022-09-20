@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.26)  20 SEP 2022 01:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.4.26)  20 SEP 2022 07:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -88,6 +88,12 @@ LaTeX Warning: Unused global option(s):
     [14px].
 
 (./congresoweb.aux
+
+LaTeX Warning: Label `fig:arquitectura1' multiply defined.
+
+
+LaTeX Warning: Label `fig:arquitectura2' multiply defined.
+
 
 LaTeX Warning: Label `sec:pagina-principal' multiply defined.
 
@@ -269,98 +275,103 @@ File: index2.jpg Graphic file (type jpg)
 <use index2.jpg>
 Package pdftex.def Info: index2.jpg  used on input line 58.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
- [3 <./index1.jpg> <./index2.jpg>]
-<presentacion.jpg, id=20, 722.7pt x 1646.15pt>
+<index3.jpg, id=17, 722.7pt x 1646.15pt>
+File: index3.jpg Graphic file (type jpg)
+<use index3.jpg>
+Package pdftex.def Info: index3.jpg  used on input line 72.
+(pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
+<index4.jpg, id=18, 722.7pt x 1646.15pt>
+File: index4.jpg Graphic file (type jpg)
+<use index4.jpg>
+Package pdftex.def Info: index4.jpg  used on input line 82.
+(pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
+ [3 <./index1.jpg> <./index2.jpg>] [4 <./index3.jpg> <./index4.jpg>]
+<presentacion.jpg, id=25, 722.7pt x 1646.15pt>
 File: presentacion.jpg Graphic file (type jpg)
 <use presentacion.jpg>
-Package pdftex.def Info: presentacion.jpg  used on input line 77.
+Package pdftex.def Info: presentacion.jpg  used on input line 110.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
- [4 <./presentacion.jpg>]
-<normativas.png, id=24, 785.93625pt x 756.8275pt>
-File: normativas.png Graphic file (type png)
-<use normativas.png>
-Package pdftex.def Info: normativas.png  used on input line 92.
-(pdftex.def)             Requested size: 471.56538pt x 454.1pt.
-
-Overfull \hbox (253.90327pt too wide) in paragraph at lines 92--93
- [][] 
- []
-
-[5 <./normativas.png>]
-<agenda.png, id=30, 787.94376pt x 754.82pt>
+ [5 <./presentacion.jpg>]
+<normativas.jpg, id=29, 722.7pt x 1646.15pt>
+File: normativas.jpg Graphic file (type jpg)
+<use normativas.jpg>
+Package pdftex.def Info: normativas.jpg  used on input line 125.
+(pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
+ [6 <./normativas.jpg>]
+<agenda.png, id=33, 787.94376pt x 754.82pt>
 File: agenda.png Graphic file (type png)
 <use agenda.png>
-Package pdftex.def Info: agenda.png  used on input line 108.
+Package pdftex.def Info: agenda.png  used on input line 141.
 (pdftex.def)             Requested size: 472.7699pt x 452.89551pt.
- [6 <./agenda.png>]
-<tematicas.jpg, id=35, 722.7pt x 1646.15pt>
+ [7 <./agenda.png>]
+<tematicas.jpg, id=40, 722.7pt x 1646.15pt>
 File: tematicas.jpg Graphic file (type jpg)
 <use tematicas.jpg>
-Package pdftex.def Info: tematicas.jpg  used on input line 123.
+Package pdftex.def Info: tematicas.jpg  used on input line 156.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
 File: index2.jpg Graphic file (type jpg)
 <use index2.jpg>
-Package pdftex.def Info: index2.jpg  used on input line 132.
+Package pdftex.def Info: index2.jpg  used on input line 165.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
 
-Overfull \hbox (33.67079pt too wide) in paragraph at lines 120--137
+Overfull \hbox (33.67079pt too wide) in paragraph at lines 153--170
 []$[]$   $[]$ 
  []
 
-[7 <./tematicas.jpg>]
-<conferencistas.png, id=40, 790.955pt x 757.83125pt>
+[8 <./tematicas.jpg>]
+<conferencistas.png, id=44, 790.955pt x 757.83125pt>
 File: conferencistas.png Graphic file (type png)
 <use conferencistas.png>
-Package pdftex.def Info: conferencistas.png  used on input line 148.
+Package pdftex.def Info: conferencistas.png  used on input line 181.
 (pdftex.def)             Requested size: 474.57666pt x 454.70226pt.
- [8 <./conferencistas.png>]
-<repositorio.png, id=45, 789.95125pt x 750.805pt>
+ [9 <./conferencistas.png>]
+<repositorio.png, id=49, 789.95125pt x 750.805pt>
 File: repositorio.png Graphic file (type png)
 <use repositorio.png>
-Package pdftex.def Info: repositorio.png  used on input line 166.
+Package pdftex.def Info: repositorio.png  used on input line 199.
 (pdftex.def)             Requested size: 473.9744pt x 450.48647pt.
- [9 <./repositorio.png>]
-<certificado.png, id=50, 789.95125pt x 747.79375pt>
+ [10 <./repositorio.png>]
+<certificado.png, id=54, 789.95125pt x 747.79375pt>
 File: certificado.png Graphic file (type png)
 <use certificado.png>
-Package pdftex.def Info: certificado.png  used on input line 182.
+Package pdftex.def Info: certificado.png  used on input line 215.
 (pdftex.def)             Requested size: 473.9744pt x 448.6797pt.
 
-[10 <./certificado.png>]
-<memoria.jpg, id=55, 722.7pt x 1646.15pt>
+[11 <./certificado.png>]
+<memoria.jpg, id=59, 722.7pt x 1646.15pt>
 File: memoria.jpg Graphic file (type jpg)
 <use memoria.jpg>
-Package pdftex.def Info: memoria.jpg  used on input line 197.
+Package pdftex.def Info: memoria.jpg  used on input line 230.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
- [11 <./memoria.jpg>]
-<inscripcion.jpg, id=59, 722.7pt x 1646.15pt>
+ [12 <./memoria.jpg>]
+<inscripcion.jpg, id=63, 722.7pt x 1646.15pt>
 File: inscripcion.jpg Graphic file (type jpg)
 <use inscripcion.jpg>
-Package pdftex.def Info: inscripcion.jpg  used on input line 212.
+Package pdftex.def Info: inscripcion.jpg  used on input line 245.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
- [12 <./inscripcion.jpg>]
+ [13 <./inscripcion.jpg>]
 (./congresoweb.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1891 strings out of 480806
- 28391 string characters out of 5905151
- 325849 words of memory out of 6000000
- 19281 multiletter control sequences out of 15000+600000
+ 1905 strings out of 480806
+ 28593 string characters out of 5905151
+ 325766 words of memory out of 6000000
+ 19293 multiletter control sequences out of 15000+600000
  407685 words of font info for 41 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,8n,62p,534b,264s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,8n,62p,570b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on congresoweb.pdf (12 pages, 4687768 bytes).
+Output written on congresoweb.pdf (13 pages, 5295336 bytes).
 PDF statistics:
- 81 PDF objects out of 1000 (max. 8388607)
- 44 compressed objects within 1 object stream
+ 86 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 

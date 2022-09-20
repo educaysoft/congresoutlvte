@@ -49,7 +49,22 @@
           </div>
         </div>
         
+<div class="col">
+          <div class="card shadow-sm">
+            <img src="http://www.congresoutlvte.org/faci/images/conferensistas/RomeroBonillaHugo.jpg">
 
+            <div class="card-body">
+              <p class="card-text"><b>Hugo Romero</b><br>Bioingenieria, Biomateriales, Biomedicina y Bioeconomía.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                </div>
+             <!---   <small class="text-muted">9 mins</small>  -->
+              </div>
+            </div>
+          </div>
+        </div>
 	
 
 
