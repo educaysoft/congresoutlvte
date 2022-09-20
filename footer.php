@@ -105,6 +105,11 @@
     </div>
 
 
+<div style="float:left; padding:0.5vw; ">
+      <a href="https://www.utmachala.edu.ec/portalwp/"><img src="images/universidades/edwards.jpeg"  height="100vh"></a>
+    </div>
+
+
 </div>
 </div>
 
@@ -146,6 +151,12 @@
 <div style="float:left; padding:0.5vw; ">
       <a href="#"><img src="images/auspiciantes/gim-faci.jpg"  height="100vh" alt="Grupo de Investigación Multidiciplinaria-FACI" ></a>
     </div>
+
+
+<div style="float:left; padding:0.5vw; ">
+      <a href="#"><img src="images/auspiciantes/readic.jpeg"  height="100vh" alt="Red Académica de Ingeniería Química" ></a>
+    </div>
+
 
 
 </div>
