@@ -46,7 +46,7 @@ $estilo3='margin-left: 20px; margin-right: 10px; width: 60%; display: flex;justi
 $cI=array(
 array(
 "foto"=>"HerediaSalgadoMario.png",
-"ponencia"=>"Técnicas de aprovechamiento de residuos en la agroindustria de Ecuador: conversión termoquímica".",
+"ponencia"=>"Técnicas de aprovechamiento de residuos en la agroindustria de Ecuador: conversión termoquímica.",
 "bandera"=>"BanderaEcuador.png",
 "conferencista"=>"PhD. Mario Heredia Salgado.",
 "coautor1"=>"PhD. Isabel Batista Medina.",
