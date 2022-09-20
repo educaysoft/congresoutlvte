@@ -1,5 +1,5 @@
 \documentclass[a4paper,14px]{article}
-\usepackage[left=2cm,right=2cm]{geometry}
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
 \usepackage{graphicx}
 \usepackage{float}
 
@@ -11,7 +11,7 @@
 
 \section{Antecedente}
 \label{sec:antecedente}
-La Facultad de Ingenierías pedagogía de la Universidad Técnica Luis Vargas Torres (UTLVTE), organizó un congreso internacional llamado \textbf{``MIRADAS Y TENDENCIAS  DE LAS CIENCIAS INGENIERILES (MTCI) UTLVTE-2022''}, para lo cual necesitaba una plataforma web que le permitiera gestionar y difundir la información que  fue generada desde el momento de su concepción, hasta la culminación que se da con la presentación de las ponencias nacionales e internacionales.\\
+La Facultad de Ingenierías de la Universidad Técnica Luis Vargas Torres (UTLVTE), organizó un congreso internacional llamado \textbf{``MIRADAS Y TENDENCIAS  DE LAS CIENCIAS INGENIERILES (MTCI) UTLVTE-2022''}, para lo cual necesitaba una plataforma web que le permitiera gestionar y difundir la información que  fue generada desde el momento de su concepción, hasta la culminación que se da con la presentación de las ponencias nacionales e internacionales.\\
 
 Para lograr este objetivo tres docentes de la Facultad se apoyo en la carrera de Tecnología de la Información de la UTLVTE, donde docentes con experiencia en desarrollo web evaluaron varias alternativas a fin de poder aplicar la mejor solución en función de las necesidad y limitaciones que se presentaron en el levantamiento de la información.\\
 
@@ -25,7 +25,7 @@ Así nace el  ``Sitio Web para la gestión y promoción de congresos internacion
 \label{sec:descripcion-de-la}
 
 
-En la gráfica siguiente se muestra de forma resumida como funciona el sitio, los programas estaran alojados en un servidor que se comunicara vía protocolo \textbf{http} con programas navegadoras que se encuentras instaladas en máquina situadas en cualquier parte del mundo, desde donde el usuario puede soluccitar(request) información información que ha sido guardada. \\
+En la gráfica siguiente se muestra de forma resumida como funciona el sitio, los programas estarán alojados en un servidor web (o web server) donde se contrato un hosting que se accede con el  dominio ``congresoutlvte.org'' el cual se comunica vía protocolo \textbf{http} con programas navegadores que se encuentras instalados en máquina situadas en cualquier parte del mundo, desde donde el usuario puede solicitar(request) información  que ha sido guardada. \\
 
 
 \begin{figure}[H]
@@ -40,32 +40,43 @@ En la gráfica siguiente se muestra de forma resumida como funciona el sitio, lo
 \subsection{Página principal}
 \label{sec:pagina-principal}
 
-Esta es la página principal del sitio web donde se pone a disposición la información más relevante.
+En la figura 2 se muestra parte de la página principal del sitio web donde se pone a disposición información como logo de la universidad, banner promocional del congreso, resumen del congreso y fecha destacadas.
 
-
-
+\begin{minipage}[H]{0.45\linewidth}
 \begin{figure}[H]
   \centering
-  \includegraphics[scale=0.6]{index.jpg}
-  \caption{index.php }
-  \label{fig:arquitectura}
+  \includegraphics[scale=0.3]{index1.jpg}
+  \caption{index1.php }
+  \label{fig:arquitectura1}
 \end{figure}
+  
+\end{minipage}
+\hspace{0.5cm}
+        \begin{minipage}[H]{0.45\linewidth}
+\begin{figure}[H]
+  \centering
+  \includegraphics[scale=0.3]{index2.jpg}
+  \caption{index2.php }
+  \label{fig:arquitectura2}
+\end{figure}
+  
+\end{minipage}
 
 
 
 
 \newpage
-\subsection{Página bienvenida }
+\subsection{Página de presentación del congreso }
 \label{sec:pagina-principal}
 
-Esta es la página donde se da la bienvenida al congreso.
+En la figura \ref{fig:presentacion}, se muestra el motivo, la visión, la misión y los  objetivos del congreso, información que forma parte de la presentación del evento.
 
 
 \begin{figure}[H]
   \centering
-  \includegraphics[scale=0.6]{presentacion.png}
-  \caption{Presentación}
-  \label{fig:arquitectura}
+  \includegraphics[scale=0.3]{presentacion.jpg}
+  \caption{Presentación del congreso}
+  \label{fig:presentacion}
 \end{figure}
 
 \newpage
@@ -75,15 +86,15 @@ Esta es la página donde se da la bienvenida al congreso.
 Esta es la página  donde se muestra las normas a seguir para que los ponentes entreguen sus información.
 
 
+\begin{minipage}[H]{0.45\linewidth}
+  \begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.6]{normativas.png}
+    \caption{Normativas}
+    \label{fig:arquitectura}
+  \end{figure}
 
-\begin{figure}[H]
-  \centering
-  \includegraphics[scale=0.6]{normativas.png}
-  \caption{Normativas}
-  \label{fig:arquitectura}
-\end{figure}
-
-
+\end{minipage}
 \newpage
 \subsection{Página de agenda }
 \label{sec:pagina-principal}
@@ -106,14 +117,23 @@ En esta página se muestra todo el cronograma de las actividades a realizar mien
 
 La conferencias preparadas por los ponentes debe realizarse en función de ejes temáticos definidos por la unidad de investigación de la Universidad auspiciantes.
 
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[scale=0.6]{tematicas.png}
-  \caption{Temátias}
-  \label{fig:arquitectura}
-\end{figure}
-
+\begin{minipage}[H]{0.5\linewidth}
+  \begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.3]{tematicas.jpg}
+    \caption{Temáticas}
+    \label{fig:tematicas1}
+  \end{figure}
+\end{minipage}
+\hspace{0.5cm}
+\begin{minipage}[H]{0.5\linewidth}
+  \begin{figure}[H]
+    \centering
+    \includegraphics[scale=0.3]{index2.jpg}
+    \caption{Temáticas en página principal}
+    \label{fig:tematicas2}
+  \end{figure}
+\end{minipage}
 
 \newpage
 \subsection{Página de confenebienvenida }

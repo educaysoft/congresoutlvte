@@ -15,6 +15,42 @@ include("head.php");
 <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> COMITE</p>
     <div class="container">
 
+
+
+
+<div class="row py-lg-5 text-center container">
+      <div class="col-lg-6 col-md-8 mx-auto">
+        <h1 class="fw-light">Comite científico</h1>
+      </div>
+    </div>
+
+
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+
+<div class="col">
+          <div class="card shadow-sm">
+            <img src="http://www.congresoutlvte.org/faci/images/comite/MoralesTacoronteJuan.png">
+
+            <div class="card-body">
+              <p class="card-text"><strong>Juan Tacoronte</strong> <br> Comite organizador del evento.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                </div>
+             <!---   <small class="text-muted">9 mins</small>  -->
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+	
+
+
+
+        </div>
+
+
 <div class="row py-lg-5 text-center container">
       <div class="col-lg-6 col-md-8 mx-auto">
         <h1 class="fw-light">Comite organizador</h1>
@@ -104,6 +140,42 @@ include("head.php");
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
                   
+                </div>
+             <!---   <small class="text-muted">9 mins</small>  -->
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+<div class="col">
+          <div class="card shadow-sm">
+            <img src="http://www.congresoutlvte.org/faci/images/comite/MaciasSimisterraSilvia.jpg">
+
+            <div class="card-body">
+              <p class="card-text"><strong>Silvia Macias</strong> <br>Comite organizador del evento.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                  
+                </div>
+             <!---   <small class="text-muted">9 mins</small>  -->
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+<div class="col">
+          <div class="card shadow-sm">
+            <img src="http://www.congresoutlvte.org/faci/images/comite/MoralesTacoronteJuan.png">
+
+            <div class="card-body">
+              <p class="card-text"><strong>Juan Tacoronte</strong> <br> Comite organizador del evento.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
                 </div>
              <!---   <small class="text-muted">9 mins</small>  -->
               </div>
