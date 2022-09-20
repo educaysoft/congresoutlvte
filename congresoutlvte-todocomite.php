@@ -26,13 +26,29 @@ include("head.php");
 
 
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+<div class="col">
+          <div class="card shadow-sm">
+            <img src="http://www.congresoutlvte.org/faci/images/Vicerectora2.jpg">
+
+            <div class="card-body">
+              <p class="card-text"><b>Elizabeth Canchingre</b><br>Vice-rectora Académica UTLVTE.</p>
+              <div class="d-flex justify-content-between align-items-center">
+                <div class="btn-group">
+                  <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                </div>
+             <!---   <small class="text-muted">9 mins</small>  -->
+              </div>
+            </div>
+          </div>
+        </div>
 
 <div class="col">
           <div class="card shadow-sm">
             <img src="http://www.congresoutlvte.org/faci/images/comite/MoralesTacoronteJuan.jpg">
 
             <div class="card-body">
-              <p class="card-text"><strong>Juan Tacoronte</strong> <br> Comite organizador del evento.</p>
+              <p class="card-text"><strong>Juan Tacoronte</strong> <br> Comite científico.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
