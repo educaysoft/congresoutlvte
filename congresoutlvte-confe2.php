@@ -71,7 +71,7 @@ array(
 
 array(
 "foto"=>"MamaniQuispeJose.png",
-"ponencia"=>".",
+"ponencia"=>"Aplicaciones electroquímicas en el tratamiento de aguas residuales mineras.",
 "bandera"=>"BanderaPeru.png",
 "conferencista"=>"Ing. Jose Mamani Quispe MSc.",
 "coautor1"=>".PhD. Laura Margarita Fernández Martínez.",
