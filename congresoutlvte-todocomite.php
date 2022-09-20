@@ -29,7 +29,7 @@ include("head.php");
 
 <div class="col">
           <div class="card shadow-sm">
-            <img src="http://www.congresoutlvte.org/faci/images/comite/MoralesTacoronteJuan.png">
+            <img src="http://www.congresoutlvte.org/faci/images/comite/MoralesTacoronteJuan.jpg">
 
             <div class="card-body">
               <p class="card-text"><strong>Juan Tacoronte</strong> <br> Comite organizador del evento.</p>
@@ -169,7 +169,7 @@ include("head.php");
 
 <div class="col">
           <div class="card shadow-sm">
-            <img src="http://www.congresoutlvte.org/faci/images/comite/MoralesTacoronteJuan.png">
+            <img src="http://www.congresoutlvte.org/faci/images/comite/MoralesTacoronteJuan.jpg">
 
             <div class="card-body">
               <p class="card-text"><strong>Juan Tacoronte</strong> <br> Comite organizador del evento.</p>
