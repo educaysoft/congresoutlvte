@@ -417,11 +417,11 @@ array(
 
 
 array(
-"foto"=>"DiazIturreEnaAlexandra.png",
-"ponencia"=>"El entorno social y natural como recurso didáctico en el proceso de enseñanza y desarrollo intercultural.",
+"foto"=>"PerezMoreiraDamian.png",
+"ponencia"=>"Monitoreo con un sistema de sensores in-situ de parámetros físico-químicos de efluentes hospitalarios.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. Ena Alexandra Diaz Iturre.",
-"coautor1"=>"MSc. Sergio Guzmán García Sanclemente.",
+"conferencista"=>"MSc. Damian Perez Moreira.",
+"coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"https://www.canva.com/design/DAEwrYy7ffk/LQBjhl7oMTW219TibWDxZA/watch?utm_content=DAEwrYy7ffk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
