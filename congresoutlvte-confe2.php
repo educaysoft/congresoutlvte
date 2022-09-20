@@ -84,12 +84,12 @@ array(
 
 
 array(
-"foto"=>"CaballeroRodriguezGiselle.png",
-"ponencia"=>"Un acercamiento a la educación inclusiva en la formación del licenciado en educación. Pedagogía, psicología..",
-"bandera"=>"BanderaCuba.png",
-"conferencista"=>"PhD. Giselle Caballero Rodríguez..",
-"coautor1"=>"PhD. Ana Norvis Caballero Rodriguez..",
-"coautor2"=>"MSc. María del Pilar Fusté Enamorado.",
+"foto"=>"MontesDeOcaYorberth.png",
+"ponencia"=>"El arte de La Investigación en Ingeniería y los Objetivos de Desarrollo Sostenible.",
+"bandera"=>"BanderaVenezuela.png",
+"conferencista"=>"PhD. Yorberth Montes De Oca.",
+"coautor1"=>"",
+"coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"Universidad de Oriente - Cuba.",
 "video"=> array("link"=>"https://www.canva.com/design/DAEwZNNwM8k/IIJNrm9BpZcdzARFb-5stw/watch?utm_content=DAEwZNNwM8k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
