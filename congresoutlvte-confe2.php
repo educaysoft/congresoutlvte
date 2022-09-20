@@ -403,10 +403,10 @@ array(
 
 
 array(
-"foto"=>"QuinonezCaguaOlgaJackeline.png",
-"ponencia"=>"El turismo sostenible como alternativa de desarrollo sustentable en Esmeraldas provincia de Ecuador.",
+"foto"=>"MontanoRoldanLenin.png",
+"ponencia"=>"Energia renovables.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. Olga Jackeline Quiñonez Cagua.",
+"conferencista"=>"Ing. Lenin Montaño Roldan MSc.",
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"", 
