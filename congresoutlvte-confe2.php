@@ -70,10 +70,10 @@ array(
 
 
 array(
-"foto"=>"BerlotFaureAysmara.png",
-"ponencia"=>"La educación musical en Santiago de Cuba: Alternativa para la formación pedagógica universitaria.",
-"bandera"=>"BanderaCuba.png",
-"conferencista"=>"PhD. Aysmara Berlot Faure.",
+"foto"=>"MamaniQuispeJose.png",
+"ponencia"=>".",
+"bandera"=>"BanderaPeru.png",
+"conferencista"=>"Ing. Jose Mamani Quispe MSc.",
 "coautor1"=>".PhD. Laura Margarita Fernández Martínez.",
 "coautor2"=>"",
 "coautor3"=>"",
