@@ -64,7 +64,7 @@ array(
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad de Oriente - Cuba.",
+"universidad"=>"Universidad  San Ignacio de Loyola - Peru.",
 "video"=> array("link"=>"https://www.canva.com/design/DAEwmeifNeo/u8eGtaQE15XBrvSm001fsA/watch?utm_content=DAEwmeifNeo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
 "diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1MScVKgF6lPFFKPaByGeZNw9QK6vkKJOC/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
 
@@ -77,7 +77,7 @@ array(
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad de Oriente - Cuba.",
+"universidad"=>"Universidad Nacional del Altiplano de Puno - Peru.",
 "video"=> array("link"=>"https://youtu.be/gAqRI98bB-A", "icono"=>"images/video.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
@@ -91,7 +91,7 @@ array(
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad de Oriente - Cuba.",
+"universidad"=>"Universidad de Zulia - Venezuela.",
 "video"=> array("link"=>"https://www.canva.com/design/DAEwZNNwM8k/IIJNrm9BpZcdzARFb-5stw/watch?utm_content=DAEwZNNwM8k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
 "diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1u9iGTn1qpPZWF_S_iIOaNMOHv-CGNVOw/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
 

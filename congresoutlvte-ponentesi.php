@@ -11,7 +11,7 @@
 <div class="row py-lg-5 text-center container">
       <div class="col-lg-6 col-md-8 mx-auto">
         <h1 class="fw-light">Conferencistas </h1>
-        <p class="lead text-muted">Invitados de honor.</p>
+        <p class="lead text-muted"><a href="congresoutlvte-confe2.php"> Más conferencistas</a></p>
       </div>
     </div>
 
