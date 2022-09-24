@@ -37,7 +37,7 @@
             <img src="http://www.congresoutlvte.org/faci/ponentes/ponente2.jpg">
 
             <div class="card-body">
-              <p class="card-text"><b>Hugo Romero</b><br>Bio (Bioingenieria, Biomedicina y Bioeconomía). Sinergía y oportunidades de desarrollo sostenible en Ecuador.</p>
+              <p class="card-text"><b>Hugo RomeroBiomateriales,</b><br>Bio<sup>4</sup> (Bioingenieria,Biomateriales, Biomedicina y Bioeconomía). Sinergía y oportunidades de desarrollo sostenible en Ecuador.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
@@ -54,7 +54,7 @@
             <img src="http://www.congresoutlvte.org/faci/images/Conferencistas/MamaniQuispeJose.png">
 
             <div class="card-body">
-              <p class="card-text"><b>Jose Mamani</b><br>"Modelamiento matemático de la cinética de oxidación del par galvánico calcopirita."</p>
+              <p class="card-text"><b>Jose Mamani</b><br>"Modelamiento matemático de la cinética de oxidación del par galvánico calcopirita-pirita."</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
