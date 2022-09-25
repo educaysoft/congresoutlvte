@@ -1,7 +1,7 @@
 <div id="equipo" style="border-top: 2px solid green;    width: 90%; margin:20px auto; display: inline-block; ";
 <div id="xxx" class="w3-container" style=" margin-left:10px; margin-top:10px;  padding: 0px; width: 100%; height: 20vh; display: inline-block; ">
 
-<div style="float:left; width: 20%; font-size: 0.5wv;">
+<div style="float:left; width: 25%; font-size: 0.5wv;">
   <header>
     <p style="margin-bottom: 10px; margin-top:10px;"><b>AUTORIDADES</b></p>
   </header>
@@ -28,7 +28,7 @@
   </main>
 </div>
 
-<div style="float:left; width: 20%;">
+<div style="float:left; width: 25%;">
   <header>
     <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE CIENTÍFICO</b></p>
   </header>
@@ -74,12 +74,13 @@
 
     <p  class="badge bg-danger text-wrap" >Internacionales</p>
 
+  <p class="nombre">Dr. Hugo Romero Bonilla, PhD.<br><span class="text-primary">(Peru)</span></p><br>
   <p class="nombre">Dra. Yorberth Montes de Oca Rojas, PhD.<br><span class="text-primary">(Venezuela)</span></p><br>
 
   </main>
 </div>
 
-<div style="float:left; width: 20%; padding-right:10px;">
+<div style="float:left; width: 25%; padding-right:10px;">
   <header>
     <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE ORGANIZADOR</b></p>
     <p  class="badge bg-primary text-wrap" >Nacionales</p>
@@ -158,7 +159,7 @@
   </main>
 </div>
 
-<div style="float:left; width: 20%; padding-right:10px">
+<div style="float:left; width: 25%; padding-right:10px">
   <header>
     <p style="margin-bottom: 10px; margin-top:10px;" ><b>COMISIÓN DE INSCRIPCIONES Y LOGÍSTICA</b></p>
   </header>
@@ -189,68 +190,7 @@
 </div>
 
 
-<div style="float:left; width: 20%;">
-  <header>
-    <p style="margin-bottom: 10px; margin-top:10px;" ><b>COMISIÓN DE COMUNICACÓN Y PRENSA</b></p>
-  </header>
-  <main>
-  <p class="nombre">Ing. Marcelo Reina M.Sc.<br> 
- <i> Docente FACI.</i><br></p>
 
-
-  <p class="nombre">Ing. Yimmy Ramirez M.Sc.<br> 
- <i> Docente FACI.</i><br></p>
-
-
-  <p class="nombre">Ing. Jonny Quiñonez  M.Sc.<br> 
- <i> Docente FACI.</i><br></p>
-
-
-  <p class="nombre">Ing. Xavier Gracia  M.Sc.<br> 
- <i> Docente FACI.</i><br></p>
-
-
-  <p class="nombre">Ing. Marcos Navarrete M.Sc.<br> 
- <i> Docente FACI.</i><br></p>
-
-
-  <p class="nombre">Ing. Alejandro Macias M.Sc.<br> 
- <i> Docente FACI.</i><br></p>
-
-
-
-  <p class="nombre">Ing. Nelson Mora M.Sc.<br> 
- <i> Docente FACI.</i><br></p>
-
-
-  <p class="nombre">Ing. Lenin Montaño  M.Sc.<br> 
- <i> Docente FACI.</i><br></p>
-
-
-
-  <p class="nombre">Ing. Jazmin Saltos M.Sc.<br> 
- <i> Docente FACI.</i><br></p>
-
-
-
-
-  <b><u>Comisión de vinculación</u></b><br><br>  
- <p style="color:gray;"> Ing.  Guillermo Mosquera.</p>
-  <p style="color:gray;"> Ing. Wilson Bedoya.</p>
-  <p style="color:gray;"> Ing. Raul Ullo.</p><br>
-  <p style="color:gray;"> Ing. Wladimir Obando.</p><br>
-  <p style="color:gray;"> Ing. Jose Luis Sampreto.</p><br>
-  <p style="color:gray;"> Ing. Franklin Reina (hijo).</p><br>
-  <p style="color:gray;"> Ing. Eduardo Rivas.</p><br>
-  <p style="color:gray;"> Ing. Silvia Simisterra.</p><br>
-  <p style="color:gray;"> Ing. Indelira Marquez.</p><br>
-  <p style="color:gray;"> Ing. Romel Mera.</p><br>
-  <p style="color:gray;"> Ing. Douglas Quiñonez.</p><br>
-
-   
-
-  </main>
-</div>
 </div>
 </div>
 
