@@ -33,9 +33,9 @@
     <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE CIENTÍFICO</b></p>
   </header>
   <main>
-  <b>Presidente</b><br><br>
-  <p class="nombre">Ing. Elizabeth Canchingre Bone Dra.</p>
-  <p>Vicerrectora Académica.</p><br>
+<span class="badge bg-success text-wrap"><b>Presidente</b></span><br>
+  <p class="nombre">Ing. Elizabeth Canchingre Bone Dra.<br>
+  <span class="text-primary">Vicerrectora Académica.</span></p><br>
 
     <p  class="badge bg-primary text-wrap" >Nacionales</p>
 
@@ -72,9 +72,9 @@
   <p class="nombre">Ing. Nicomedes Ordoñez, MSc.</p><br>
   <p class="nombre">Ing. Karen Simisterra, MSc.</p><br>
 
-    <p  class="badge bg-danger text-wrap" >Nacionales</p>
+    <p  class="badge bg-danger text-wrap" >Internacionales</p>
 
-  <p class="nombre">Dra. Yorberth Monts de Oca Rojas, PhD.<br><span class="text-primary">(Venezuela)</span></p><br>
+  <p class="nombre">Dra. Yorberth Montes de Oca Rojas, PhD.<br><span class="text-primary">(Venezuela)</span></p><br>
 
   </main>
 </div>
