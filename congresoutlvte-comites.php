@@ -11,12 +11,12 @@
   <p class="nombre">Dr. Girald David Vernaza Arroyo. PhD.</p> <br>
 
 
-  <b>Vice-Rectora Académica de la UTLVTE</b><br>
+  <b>Vicerrectora Académica de la UTLVTE</b><br>
   <p class="nombre">Ing. María Elizabeth Canchingre Bone. PhD.</p><br> 
 
 
 
-  <b>Vice-Rector de Investigación y Postgrado</b><br>
+  <b>Vicerrector de Investigación y Postgrado</b><br>
   <p class="nombre">Dr. Manuel Quiñonez Cabeza. PhD.</p><br> 
 
 
@@ -34,83 +34,33 @@
   </header>
   <main>
   <b>Presidente</b><br><br>
-  <p class="nombre">PhD. Elizabeth Canchingre.</p>
+  <p class="nombre">Ing. Elizabeth Canchingre Bone Dra.</p>
   <p>Vicerrectora Académica.</p><br>
-  <p class="nombre">Ing. Joseph Cruel Siguenza M.Sc.<br>
-  Doctorando Ciencias Ambientales.</p><br><br>
-  
-  <p class="nombre">PhD. Juan Tacoronte.<br>
-  Docente FACI.</p><br>
-
-  <p class="nombre">PhD. Rugina Quiñonez.<br>
-  Docente FACI.</p><br>
-
-  <p class="nombre">PhD. Maribel Cuello.<br>
-  Directora carrera Ing. Química.</p><br>
 
 
-  <p class="nombre">PhD. Guadalupe Gómez.<br>
-  Docente FACI.</p><br>
+  <p class="nombre">Dr. Sc. Juan Tacoronte Morales, PhD.</p><br>
+
+  <p class="nombre">Lcda. Maribel Cuello Pérez, PhD,</p><br>
 
 
+  <p class="nombre">Dr. Lázaro Lima Cazorla, PhD,</p><br>
 
-  <p class="nombre">PhD. Eduardo Rivas.<br>
-  Docente FACI.</p><br>
+  <p class="nombre">Ing. José Samprieto Saquicela, PhD,</p><br>
+  <p class="nombre">Ing. Joseph Cruel Siguenza, MSc.</p><br>
+  <p class="nombre">Ing. Stalin Francis Quinde, MSc.</p><br>
+  <p class="nombre">Lcda. Silvia Simisterra Masias, Mgs.</p><br>
 
+  <p class="nombre">Ing. Guillermo Mosquera Quintero, MSc.</p><br>
+  <p class="nombre">Ing. Diego Hurtado Sotalin, MSc.</p><br>
+  <p class="nombre">Ing. Damián Pérez Moreira, MSc.</p><br>
+  <p class="nombre">Ing. Franklin Ochoa González, MSc.</p><br>
+  <p class="nombre">Ing. David Olmedo Ponce, MSc.</p><br>
+  <p class="nombre">Ing. Marcelo Reina Tello, Mgs.</p><br>
+  <p class="nombre">Ing. Baster Ly Estupiñan, Mgs.</p><br>
 
-  <p class="nombre">Ing. Guillermo Mosquera.<br>
-  Docente FACI.</p><br>
+  <p class="nombre">Ing. Carla Bernal Villavicencio, MSc.</p><br>
+  <p class="nombre">Ing. Raúl Ulloa D' Sousa, MSc.</p><br>
 
-
-  <p class="nombre">Ing. Lenin Montaño MsC.<br>
-  Docente FACI.</p><br>
-
-
-  <p class="nombre">Ing. Lenin Montaño MsC.<br>
-  Docente FACI.</p><br>
-
-  <p class="nombre">Ing. Diego Hurtado MsC.<br>
-  Docente FACI.</p><br>
-
-  <p class="nombre">Ing. Joseph Cruel MsC.<br>
-  Docente FACI.</p><br>
-
-
-  <p class="nombre">Ing. Damian Perez  MsC.<br>
-  Docente FACI.</p><br>
-
-
-  <p class="nombre">Ing. Leopoldo Gracia  MsC.<br>
-  Docente FACI.</p><br>
-
-  <p class="nombre">Ing. Franklin Ochoa  MsC.<br>
-  Docente FACI.</p><br>
-
-
-  <p class="nombre">Ing. Rafael Bastidas  MsC.<br>
-  Docente FACI.</p><br>
-
-
-  <p class="nombre">Ing. David Olmedo  MsC.<br>
-  Docente FACI.</p><br>
-
-
-  <p class="nombre">Ing. Silvia Simisterra  MsC.<br>
-  Docente FACI.</p><br>
-
-  <p class="nombre">Ing. Marcelo Reina  MsC.<br>
-  Docente FACI.</p><br>
-
-
-
-  <p class="nombre">Ing. Baster Ly Estupiñan  MsC.<br>
-  Docente FACI.</p><br>
-
-  <p class="nombre">Ing. Romulo Jurado  MsC.<br>
-  Docente FACI.</p><br>
-
-  <p class="nombre">Ing. Guillermo Cedeño  MsC.<br>
-  Docente FACI.</p><br>
 
 
   </main>
