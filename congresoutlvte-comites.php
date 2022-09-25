@@ -37,6 +37,7 @@
   <p class="nombre">Ing. Elizabeth Canchingre Bone Dra.</p>
   <p>Vicerrectora Académica.</p><br>
 
+    <p  class="badge bg-primary text-wrap" >Nacionales</p>
 
   <p class="nombre">Dr. Sc. Juan Tacoronte Morales, PhD.</p><br>
 
@@ -71,7 +72,9 @@
   <p class="nombre">Ing. Nicomedes Ordoñez, MSc.</p><br>
   <p class="nombre">Ing. Karen Simisterra, MSc.</p><br>
 
+    <p  class="badge bg-danger text-wrap" >Nacionales</p>
 
+  <p class="nombre">Dra. Yorberth Monts de Oca Rojas, PhD.<br><span class="text-primary">(Venezuela)</span></p><br>
 
   </main>
 </div>
@@ -125,7 +128,7 @@
   <br><i>UNL</i><br><br></p>
    
 
-    <p  class="badge bg-secondary text-wrap" >Internacional</p>
+    <p  class="badge bg-danger text-wrap" >Internacional</p>
 
   <p class="nombre">Dr. Hugo Romero Bonilla, PhD. 
   <br><i>PERU</i><br><br></p>
