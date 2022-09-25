@@ -29,11 +29,11 @@ include("head.php");
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
 
   <div style="width:50%">
-    <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> CONFERENCISTAS <br> INTERNACIONALES</p>
+<p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> PONENTES <br> INTERNACIONALES</p>
   </div>
 
   <div style="width:50%">
-    <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> CONFERENCISTAS <br> NACIONALES</p>
+    <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> PONENTES <br> NACIONALES</p>
   </div>
 
 </div>

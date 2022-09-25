@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.9.24)  24 SEP 2022 17:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.9.24)  24 SEP 2022 20:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -306,33 +306,49 @@ Overfull \hbox (33.67079pt too wide) in paragraph at lines 167--184
 []$[]$   $[]$ 
  []
 
-[8 <./conferencistas.jpg> <./bibliografia.jpg>]
-<memoria.jpg, id=43, 722.7pt x 1646.15pt>
+<conferencista2.jpg, id=40, 722.7pt x 1646.15pt>
+File: conferencista2.jpg Graphic file (type jpg)
+<use conferencista2.jpg>
+Package pdftex.def Info: conferencista2.jpg  used on input line 191.
+(pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
+File: bibliografia.jpg Graphic file (type jpg)
+<use bibliografia.jpg>
+Package pdftex.def Info: bibliografia.jpg  used on input line 200.
+(pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
+
+Overfull \hbox (33.67079pt too wide) in paragraph at lines 188--205
+[]$[]$   $[]$ 
+ []
+
+[8 <./conferencistas.jpg> <./bibliografia.jpg>] [9 <./conferencista2.jpg>]
+<memoria.jpg, id=47, 722.7pt x 1646.15pt>
 File: memoria.jpg Graphic file (type jpg)
 <use memoria.jpg>
-Package pdftex.def Info: memoria.jpg  used on input line 202.
+Package pdftex.def Info: memoria.jpg  used on input line 220.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
- [9 <./memoria.jpg>]
-<inscripcion.jpg, id=47, 722.7pt x 1646.15pt>
+
+[10 <./memoria.jpg>]
+<inscripcion.jpg, id=51, 722.7pt x 1646.15pt>
 File: inscripcion.jpg Graphic file (type jpg)
 <use inscripcion.jpg>
-Package pdftex.def Info: inscripcion.jpg  used on input line 217.
+Package pdftex.def Info: inscripcion.jpg  used on input line 235.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
-<inscripcion2.jpg, id=48, 722.7pt x 1646.15pt>
+<inscripcion2.jpg, id=52, 722.7pt x 1646.15pt>
 File: inscripcion2.jpg Graphic file (type jpg)
 <use inscripcion2.jpg>
-Package pdftex.def Info: inscripcion2.jpg  used on input line 225.
+Package pdftex.def Info: inscripcion2.jpg  used on input line 243.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
- [10 <./inscripcion.jpg> <./inscripcion2.jpg>] (./congresoweb.aux)
+ [11 <./inscripcion.jpg> <./inscripcion2.jpg>]
+(./congresoweb.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1893 strings out of 479304
- 28443 string characters out of 5869779
+ 1899 strings out of 479304
+ 28570 string characters out of 5869779
  317230 words of memory out of 5000000
- 19094 multiletter control sequences out of 15000+600000
+ 19099 multiletter control sequences out of 15000+600000
  407685 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,8n,74p,589b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -341,10 +357,10 @@ r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on congresoweb.pdf (10 pages, 4877839 bytes).
+Output written on congresoweb.pdf (11 pages, 5302064 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 39 compressed objects within 1 object stream
+ 74 PDF objects out of 1000 (max. 8388607)
+ 41 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 66 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
