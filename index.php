@@ -333,6 +333,9 @@ include_once("congresoutlvte-comites.php");
 ?>
 
 
+<?php
+include_once("congresoutlvte-comites2.php");
+?>
 
 
 
