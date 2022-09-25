@@ -24,8 +24,7 @@
 
 
 
-<center>
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
+      <div class="row justify-content-center row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
           <div class="card shadow-sm">
             <img src="http://www.congresoutlvte.org/faci/ponentes/ponente1.jpg">
@@ -78,7 +77,6 @@
 
 
       </div>
-</center>
     </div>
   </div>
 
