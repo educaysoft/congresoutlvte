@@ -124,8 +124,8 @@
   <p class="nombre">Ing. Erasmo Alvarado Jaramillo, MSc.
   <br><i>UNL</i><br><br></p>
    
-    <p  style="margin-bottom: 10px; margin-top:10px;" >Internacionales.</p>
 
+    <p  class="badge bg-secondary text-wrap" >Internacional</p>
 
   <p class="nombre">Dr. Hugo Romero Bonilla, PhD. 
   <br><i>PERU</i><br><br></p>
