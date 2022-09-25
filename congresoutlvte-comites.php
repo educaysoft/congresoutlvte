@@ -60,6 +60,16 @@
 
   <p class="nombre">Ing. Carla Bernal Villavicencio, MSc.</p><br>
   <p class="nombre">Ing. Raúl Ulloa D' Sousa, MSc.</p><br>
+  <p class="nombre">Ing. Rugina Quiñonez, PhD.</p><br>
+  <p class="nombre">Ing. Rafael Bastidas Heredia, MSc.</p><br>
+  <p class="nombre">Ing. Hugo Pillajo Quijia, MSc.</p><br>
+  <p class="nombre">Ing. Lenin Montaño Roldan, MSc.</p><br>
+  <p class="nombre">Ing. Xavier Gracia Cervantes, MSc.</p><br>
+  <p class="nombre">Ing. Santiago Quintero Samaniego, MSc.</p><br>
+  <p class="nombre">Ing. Naycer Mina Gonzalez, MSc.</p><br>
+  <p class="nombre">Ing. Rómulo Jurado Calero, MSc.</p><br>
+  <p class="nombre">Ing. Nicomedes Ordoñez, MSc.</p><br>
+  <p class="nombre">Ing. Karen Simisterra, MSc.</p><br>
 
 
 
@@ -69,7 +79,7 @@
 <div style="float:left; width: 20%; padding-right:10px;">
   <header>
     <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE ORGANIZADOR</b></p>
-    <p  style="margin-bottom: 10px; margin-top:10px;" >Nacionales</p>
+    <p  class="tex-wrap" >Nacionales</p>
   </header>
   <main>
 
