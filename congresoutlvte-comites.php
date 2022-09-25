@@ -79,7 +79,7 @@
 <div style="float:left; width: 20%; padding-right:10px;">
   <header>
     <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE ORGANIZADOR</b></p>
-    <p  class="tex-wrap" >Nacionales</p>
+    <p  class="text-wrap" >Nacionales</p>
   </header>
   <main>
 
