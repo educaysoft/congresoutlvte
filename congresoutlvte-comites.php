@@ -7,7 +7,8 @@
   </header>
   <main>
 
-  <b>Rector de la UTLVTE</b><br>
+  <b>Rector de la UTLVTE</b><br><br>
+
   <p class="nombre">Dr. Girald David Vernaza Arroyo. PhD.</p> <br>
 
 
@@ -30,7 +31,8 @@
 
 <div style="float:left; width: 25%;">
   <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE CIENTÍFICO</b></p>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE CIENTÍFICO</b><br>
+</p>
   </header>
   <main>
 <span class="badge bg-success text-wrap"><b>Presidente</b></span><br>
