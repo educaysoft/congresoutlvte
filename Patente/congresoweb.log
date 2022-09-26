@@ -1,9 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.9.24)  24 SEP 2022 21:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2022.9.24)  26 SEP 2022 04:47
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
-**\nonstopmode\input congresoweb.tex
-(./congresoweb.tex (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+**congresoweb.tex
+(./congresoweb.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
 (/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
@@ -45,8 +49,12 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layouthoffset=\dimen145
 \Gm@layoutvoffset=\dimen146
 \Gm@dimlist=\toks16
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (518.0pt) is ignored.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
@@ -73,6 +81,56 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box47
 \@float@everytoks=\toks18
 \@floatcapt=\box48
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+)
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 15
+.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-01-29 L3 backend support: PDF output (pdfTeX)
@@ -129,20 +187,20 @@ LaTeX Warning: Label `fig:arquitectura2' multiply defined.
 )
 \openout1 = `congresoweb.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -151,16 +209,16 @@ LaTeX Font Info:    ... okay on input line 9.
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
-* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
-* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* modes: includehead includemp 
+* h-part:(L,W,R)=(95.27pt, 459.55875pt, 42.67912pt)
+* v-part:(T,H,B)=(56.91496pt, 717.0pt, 71.13188pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=483.69687pt
-* \textheight=731.23584pt
-* \oddsidemargin=-15.36449pt
-* \evensidemargin=-15.36449pt
-* \topmargin=-52.36449pt
+* \textwidth=391.55875pt
+* \textheight=680.0pt
+* \oddsidemargin=23.00002pt
+* \evensidemargin=23.00002pt
+* \topmargin=-15.35503pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -185,12 +243,12 @@ LaTeX Font Info:    ... okay on input line 9.
 \scratchbox=\box50
 \nofMPsegments=\count191
 \nofMParguments=\count192
-\everyMPshowfont=\toks19
+\everyMPshowfont=\toks21
 \MPscratchCnt=\count193
 \MPscratchDim=\dimen150
 \MPnumerator=\count194
 \makeMPintoPDFobject=\count195
-\everyMPtoPDFconversion=\toks20
+\everyMPtoPDFconversion=\toks22
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -200,27 +258,43 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 10.
+\big@size=\dimen151
+LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
+ 16.
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--15
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ztmcm.fd
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
+ 16.
 
- []
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlztmcm.fd
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
+ 16.
 
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsztmcm.fd
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
+ 16.
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxztmcm.fd
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+6.
 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
-
- []
-
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 16.
 
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
@@ -232,152 +306,262 @@ Underfull \hbox (badness 10000) in paragraph at lines 22--23
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
-<congresoweb.jpg, id=1, 1551.08516pt x 1203.7229pt>
+
+Overfull \hbox (1.60736pt too wide) in paragraph at lines 44--45
+\T1/ptm/m/n/10 cuenta cri-te-rios como cos-tos, disponi-bil-i-dad, se-guri-dad 
+y que per-mite un de-sar-rollo sostenible
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 57--58
+
+ []
+
+<congresoweb.jpg, id=11, 1551.08516pt x 1203.7229pt>
 File: congresoweb.jpg Graphic file (type jpg)
 <use congresoweb.jpg>
-Package pdftex.def Info: congresoweb.jpg  used on input line 33.
-(pdftex.def)             Requested size: 465.32915pt x 361.11966pt.
-[1
+Package pdftex.def Info: congresoweb.jpg  used on input line 62.
+(pdftex.def)             Requested size: 387.77034pt x 300.93pt.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2 <./congresoweb.jpg>]
-<index1.jpg, id=15, 722.7pt x 1646.15pt>
+Overfull \hbox (10.77783pt too wide) in paragraph at lines 71--72
+\T1/ptm/m/n/10 www.congresoutlvte.org; el nom-bre con-gre-sout-lvte se eligió c
+on-siderando el tipo de evento(congreso)
+ []
+
+[3 <./congresoweb.jpg>] [4]
+<index1.jpg, id=18, 722.7pt x 1646.15pt>
 File: index1.jpg Graphic file (type jpg)
 <use index1.jpg>
-Package pdftex.def Info: index1.jpg  used on input line 48.
+Package pdftex.def Info: index1.jpg  used on input line 101.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 53.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 53.
-<index2.jpg, id=16, 722.7pt x 1646.15pt>
+
+Overfull \hbox (40.61143pt too wide) in paragraph at lines 101--102
+ [][] 
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 106.
+<index2.jpg, id=19, 722.7pt x 1646.15pt>
 File: index2.jpg Graphic file (type jpg)
 <use index2.jpg>
-Package pdftex.def Info: index2.jpg  used on input line 58.
+Package pdftex.def Info: index2.jpg  used on input line 111.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
-<index3.jpg, id=17, 722.7pt x 1646.15pt>
+
+Overfull \hbox (40.61143pt too wide) in paragraph at lines 111--112
+ [][] 
+ []
+
+<index3.jpg, id=20, 722.7pt x 1646.15pt>
 File: index3.jpg Graphic file (type jpg)
 <use index3.jpg>
-Package pdftex.def Info: index3.jpg  used on input line 72.
+Package pdftex.def Info: index3.jpg  used on input line 125.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
-<index4.jpg, id=18, 722.7pt x 1646.15pt>
+
+Overfull \hbox (40.61143pt too wide) in paragraph at lines 125--126
+ [][] 
+ []
+
+
+Underfull \hbox (badness 1253) in paragraph at lines 126--126
+[]\T1/ptm/m/n/10 Figure 4: Se mues-tra con-fer-encis-tas en
+ []
+
+<index4.jpg, id=21, 722.7pt x 1646.15pt>
 File: index4.jpg Graphic file (type jpg)
 <use index4.jpg>
-Package pdftex.def Info: index4.jpg  used on input line 82.
+Package pdftex.def Info: index4.jpg  used on input line 135.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
 
-[3 <./index1.jpg> <./index2.jpg>] [4 <./index3.jpg> <./index4.jpg>]
-<presentacion.jpg, id=25, 722.7pt x 1646.15pt>
+Overfull \hbox (40.61143pt too wide) in paragraph at lines 135--136
+ [][] 
+ []
+
+[5 <./index1.jpg> <./index2.jpg>] [6 <./index3.jpg> <./index4.jpg>]
+<presentacion.jpg, id=28, 722.7pt x 1646.15pt>
 File: presentacion.jpg Graphic file (type jpg)
 <use presentacion.jpg>
-Package pdftex.def Info: presentacion.jpg  used on input line 110.
+Package pdftex.def Info: presentacion.jpg  used on input line 163.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
- [5 <./presentacion.jpg>]
-<normativas.jpg, id=29, 722.7pt x 1646.15pt>
+ [7 <./presentacion.jpg>]
+<normativas.jpg, id=33, 722.7pt x 1646.15pt>
 File: normativas.jpg Graphic file (type jpg)
 <use normativas.jpg>
-Package pdftex.def Info: normativas.jpg  used on input line 125.
+Package pdftex.def Info: normativas.jpg  used on input line 178.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
- [6 <./normativas.jpg>]
-<tematicas.jpg, id=33, 722.7pt x 1646.15pt>
+
+Overfull \hbox (40.61143pt too wide) in paragraph at lines 178--179
+ [][] 
+ []
+
+[8 <./normativas.jpg>]
+<tematicas.jpg, id=37, 722.7pt x 1646.15pt>
 File: tematicas.jpg Graphic file (type jpg)
 <use tematicas.jpg>
-Package pdftex.def Info: tematicas.jpg  used on input line 144.
+Package pdftex.def Info: tematicas.jpg  used on input line 197.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
+
+Overfull \hbox (21.03229pt too wide) in paragraph at lines 197--198
+ [][] 
+ []
+
 File: index2.jpg Graphic file (type jpg)
 <use index2.jpg>
-Package pdftex.def Info: index2.jpg  used on input line 153.
+Package pdftex.def Info: index2.jpg  used on input line 206.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
 
-Overfull \hbox (33.67079pt too wide) in paragraph at lines 141--158
+Overfull \hbox (21.03229pt too wide) in paragraph at lines 206--207
+ [][] 
+ []
+
+
+Overfull \hbox (33.02641pt too wide) in paragraph at lines 194--211
 []$[]$   $[]$ 
  []
 
-[7 <./tematicas.jpg>]
-<conferencistas.jpg, id=38, 722.7pt x 1646.15pt>
+[9 <./tematicas.jpg>]
+<conferencistas.jpg, id=41, 722.7pt x 1646.15pt>
 File: conferencistas.jpg Graphic file (type jpg)
 <use conferencistas.jpg>
-Package pdftex.def Info: conferencistas.jpg  used on input line 170.
+Package pdftex.def Info: conferencistas.jpg  used on input line 223.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
-<ponentes.jpg, id=39, 963.6pt x 975.645pt>
+
+Overfull \hbox (21.03229pt too wide) in paragraph at lines 223--224
+ [][] 
+ []
+
+<ponentes.jpg, id=42, 963.6pt x 975.645pt>
 File: ponentes.jpg Graphic file (type jpg)
 <use ponentes.jpg>
-Package pdftex.def Info: ponentes.jpg  used on input line 179.
+Package pdftex.def Info: ponentes.jpg  used on input line 232.
 (pdftex.def)             Requested size: 289.08223pt x 292.69576pt.
 
-Overfull \hbox (47.2338pt too wide) in paragraph at lines 179--180
+Overfull \hbox (93.30286pt too wide) in paragraph at lines 232--233
  [][] 
  []
 
 
-Overfull \hbox (33.67079pt too wide) in paragraph at lines 167--184
+Overfull \hbox (33.02641pt too wide) in paragraph at lines 220--237
 []$[]$   $[]$ 
  []
 
-<bibliografia.jpg, id=40, 722.7pt x 1646.15pt>
+<bibliografia.jpg, id=43, 722.7pt x 1646.15pt>
 File: bibliografia.jpg Graphic file (type jpg)
 <use bibliografia.jpg>
-Package pdftex.def Info: bibliografia.jpg  used on input line 191.
+Package pdftex.def Info: bibliografia.jpg  used on input line 244.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
-<bibliografia2.jpg, id=41, 963.6pt x 975.645pt>
+
+Overfull \hbox (21.03229pt too wide) in paragraph at lines 244--245
+ [][] 
+ []
+
+<bibliografia2.jpg, id=44, 963.6pt x 975.645pt>
 File: bibliografia2.jpg Graphic file (type jpg)
 <use bibliografia2.jpg>
-Package pdftex.def Info: bibliografia2.jpg  used on input line 200.
+Package pdftex.def Info: bibliografia2.jpg  used on input line 253.
 (pdftex.def)             Requested size: 289.08223pt x 292.69576pt.
 
-Overfull \hbox (47.2338pt too wide) in paragraph at lines 200--201
+Overfull \hbox (93.30286pt too wide) in paragraph at lines 253--254
  [][] 
  []
 
 
-Overfull \hbox (33.67079pt too wide) in paragraph at lines 188--205
+Overfull \hbox (33.02641pt too wide) in paragraph at lines 241--258
 []$[]$   $[]$ 
  []
 
-[8 <./conferencistas.jpg> <./ponentes.jpg>] [9 <./bibliografia.jpg> <./bibliogr
-afia2.jpg>]
-<memoria.jpg, id=48, 722.7pt x 1646.15pt>
+[10 <./conferencistas.jpg> <./ponentes.jpg>] [11 <./bibliografia.jpg> <./biblio
+grafia2.jpg>]
+<memoria.jpg, id=51, 722.7pt x 1646.15pt>
 File: memoria.jpg Graphic file (type jpg)
 <use memoria.jpg>
-Package pdftex.def Info: memoria.jpg  used on input line 220.
+Package pdftex.def Info: memoria.jpg  used on input line 273.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
- [10 <./memoria.jpg>]
-<inscripcion.jpg, id=52, 722.7pt x 1646.15pt>
+ [12 <./memoria.jpg>]
+<inscripcion.jpg, id=55, 722.7pt x 1646.15pt>
 File: inscripcion.jpg Graphic file (type jpg)
 <use inscripcion.jpg>
-Package pdftex.def Info: inscripcion.jpg  used on input line 235.
+Package pdftex.def Info: inscripcion.jpg  used on input line 288.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
-<inscripcion2.jpg, id=53, 722.7pt x 1646.15pt>
+
+Overfull \hbox (40.61143pt too wide) in paragraph at lines 288--289
+ [][] 
+ []
+
+<inscripcion2.jpg, id=56, 722.7pt x 1646.15pt>
 File: inscripcion2.jpg Graphic file (type jpg)
 <use inscripcion2.jpg>
-Package pdftex.def Info: inscripcion2.jpg  used on input line 243.
+Package pdftex.def Info: inscripcion2.jpg  used on input line 296.
 (pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
- [11 <./inscripcion.jpg> <./inscripcion2.jpg>]
-(./congresoweb.aux)
+
+Overfull \hbox (40.61143pt too wide) in paragraph at lines 296--297
+ [][] 
+ []
+
+[13 <./inscripcion.jpg> <./inscripcion2.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 306--307
+
+ []
+
+<comite1.jpg, id=61, 722.7pt x 1646.15pt>
+File: comite1.jpg Graphic file (type jpg)
+<use comite1.jpg>
+Package pdftex.def Info: comite1.jpg  used on input line 314.
+(pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
+
+Overfull \hbox (40.61143pt too wide) in paragraph at lines 314--315
+ [][] 
+ []
+
+<comite2.jpg, id=62, 722.7pt x 1646.15pt>
+File: comite2.jpg Graphic file (type jpg)
+<use comite2.jpg>
+Package pdftex.def Info: comite2.jpg  used on input line 322.
+(pdftex.def)             Requested size: 216.81166pt x 493.84882pt.
+
+Overfull \hbox (40.61143pt too wide) in paragraph at lines 322--323
+ [][] 
+ []
+
+[14 <./comite1.jpg> <./comite2.jpg>] (./congresoweb.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 1905 strings out of 479304
- 28655 string characters out of 5869779
- 317230 words of memory out of 5000000
- 19104 multiletter control sequences out of 15000+600000
- 407685 words of font info for 41 fonts, out of 8000000 for 9000
+ 2335 strings out of 479304
+ 33689 string characters out of 5869779
+ 315787 words of memory out of 5000000
+ 19500 multiletter control sequences out of 15000+600000
+ 438672 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 68i,8n,74p,589b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
-e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
-ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on congresoweb.pdf (11 pages, 5212320 bytes).
+ 68i,8n,74p,657b,266s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/urw/times/utmr8a.pfb>
+Output written on congresoweb.pdf (14 pages, 5675857 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
- 41 compressed objects within 1 object stream
+ 76 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

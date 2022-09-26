@@ -119,12 +119,12 @@
 <div style="margin-left:20px;border-top:2px solid green;margin-top: 10px;">
   <div style="padding:20px">  
 
-
+<!----
     <div style="float:left; padding:0.5vw; ">
       <a href="http://www.congresoutlvte.org/facped/index.php"><img src="images/logocongresofacped1.png" width="100vw" height="100vh"></a>
 
     </div>
-
+---->
     <div style="float:left; padding:0.5vw; ">
       <a href="https://www.manglareditores.com/"><img src="images/manglareditorial.jpg"  height="100vh"></a>
     </div>
