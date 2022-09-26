@@ -3,12 +3,12 @@
 
 <div style="float:left; width: 25%; font-size: 0.3wv;">
   <header>
-    <p style="margin-bottom: 10px; margin-top:10px;"><b>AUTORIDADES</b></p>
+    <p style="margin-bottom: 10px; margin-top:10px;"><b>AUTORIDADES</b></p><br>
+
   </header>
   <main>
 
-  <b>Rector de la UTLVTE</b><br><br>
-
+  <b>Rector de la UTLVTE</b><br>
   <p class="nombre">Dr. Girald David Vernaza Arroyo. PhD.</p> <br>
 
 
@@ -31,8 +31,8 @@
 
 <div style="float:left; width: 25%;">
   <header>
-    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE CIENTÍFICO</b><br>
-</p>
+    <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE CIENTÍFICO</b></p><br>
+
   </header>
   <main>
 <span class="badge bg-success text-wrap"><b>Presidente</b></span><br>
@@ -85,12 +85,13 @@
 <div style="float:left; width: 25%; padding-right:10px;">
   <header>
     <p  style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE ORGANIZADOR</b></p>
-    <p  class="badge bg-primary text-wrap" >Nacionales</p>
   </header>
   <main>
 
+<span class="badge bg-success text-wrap"><b>Presidente</b></span><br>
   <p class="nombre">Ing. Joseph Cruel Siguenza, MSc. 
   <br><i>UTLVTE</i><br><br></p>
+    <p  class="badge bg-primary text-wrap" >Nacionales</p>
 
   <p class="nombre">Ing. Stalin Francis Quinde, MSc. 
   <br><i>UTLVTE</i><br><br></p>
@@ -163,28 +164,19 @@
 
 <div style="float:left; width: 25%; padding-right:10px">
   <header>
-    <p style="margin-bottom: 10px; margin-top:10px;" ><b>COMISIÓN DE INSCRIPCIONES Y LOGÍSTICA</b></p>
+    <p style="margin-bottom: 10px; margin-top:10px;" ><b>COMITE DE REVISIÓN Y EDICIÓN PREVIA</b></p>
   </header>
 
   <main>
-  <p class="nombre">Ing. Nakira Valencia. </p>
-  <p class="nombre">Ing. Indelira Marquez.</p>
-  <p class="nombre">Ing. Stalin Francis.</p>
-  <p class="nombre">Ing. Viviana Aparicio.</p>
-  <p class="nombre">Ing. David Ordoñez.</p><br>
-  <p class="nombre">Ing. Karen Simisterra.</p><br>
-  <p class="nombre">Ing. Leticia Moreno.</p><br>
-  <p class="nombre">Ing. Martin Ramirez.</p><br>
-  <p class="nombre">Ing. Nicomedes Ordoñez.</p><br>
-  <p class="nombre">Ing. Alexander Mecias.</p><br>
-  <p class="nombre">Ing. Yuri Ramirez.</p><br>
-  <p class="nombre">Ing. Jose Luis Castillo.</p>
-  <p class="nombre">PhD. Silvia Simisterra.</p>
-  <p class="nombre">PhD. Paul Viscaino.</p>
-  <p class="nombre">PhD. Tanya Cardena.</p>
-  <p class="nombre">PhD. Narcisa Espinal.</p>
-  <p class="nombre">PhD. Damian Perez.</p>
-  <p class="nombre">PhD. Napoleon Padilla.</p>
+<span class="badge bg-success text-wrap"><b>Presidente</b></span><br>
+  <p class="nombre">Lcda. Ana Bedolla Gutierrez, MSc.</p>
+
+    <p  class="badge bg-primary text-wrap" >Miembros</p>
+
+  <p class="nombre">Lcda. Silvia Simisterra Masias, Mgs.</p>
+  <p class="nombre">Dr. Alfredo Nicolas Tenorio Obregon, MSc.</p>
+  <p class="nombre">Dr. Hugo Tapia, PhD.</p>
+  <p class="nombre">Lcda. Mariana Cecilia Ulloa Espinoza, MSc.</p><br>
 
    
 
