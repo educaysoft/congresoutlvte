@@ -4,7 +4,7 @@
    (TeX-add-to-alist 'LaTeX-provided-class-options
                      '(("article" "a4paper" "14px")))
    (TeX-add-to-alist 'LaTeX-provided-package-options
-                     '(("geometry" "textwidth=450.0pt" "textheight=680.0pt" "left=95.27pt" "right=1.5cm" "bottom=2.5cm" "footskip=30pt" "includemp" "includehead") ("fontenc" "T1") ("inputenc" "utf8")))
+                     '(("geometry" "textwidth=520.0pt" "textheight=680.0pt" "left=2.5cm" "right=0.5cm" "bottom=2.5cm" "footskip=30pt" "includemp" "includehead") ("fontenc" "T1") ("inputenc" "utf8")))
    (TeX-run-style-hooks
     "latex2e"
     "article"
@@ -33,6 +33,7 @@
     "fig:tematicas1"
     "fig:tematicas2"
     "fig:conferensistas"
+    "fig:ponentes"
     "fig:bibliografia"
     "fig:comite1"
     "fig:comite2"))

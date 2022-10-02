@@ -158,6 +158,13 @@
     </div>
 
 
+<div style="float:left; padding:0.5vw; ">
+      <a href="#"><img src="images/auspiciantes/accionrevolucionaria.jpg"  height="100vh" alt="Acción revolucionaria" ></a>
+    </div>
+<div style="float:left; padding:0.5vw; ">
+      <a href="#"><img src="images/auspiciantes/msu.jpg"  height="100vh" alt="Movimiento Ser Universitario" ></a>
+    </div>
+
 
 </div>
 </div>
