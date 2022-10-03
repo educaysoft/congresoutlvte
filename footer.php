@@ -109,6 +109,25 @@
       <a href="https://www.utmachala.edu.ec/portalwp/"><img src="images/universidades/edwards.jpeg"  height="100vh"></a>
     </div>
 
+<div style="float:left; padding:0.5vw; ">
+      <a href="https://utpl.edu.ec"><img src="images/universidades/utpl.jpg"  height="100vh"></a>
+    </div>
+
+<div style="float:left; padding:0.5vw; ">
+      <a href="https://unap.cl"><img src="images/universidades/Prat.jpg"  height="100vh"></a>
+    </div>
+
+<div style="float:left; padding:0.5vw; ">
+      <a href="https://www.lamolina.edu.pe"><img src="images/universidades/lamolina.png"  height="100vh"></a>
+    </div>
+
+
+<div style="float:left; padding:0.5vw; ">
+      <a href="https://www.luz.edu.ve"><img src="images/universidades/zulia.jpeg"  height="100vh"></a>
+    </div>
+<div style="float:left; padding:0.5vw; ">
+      <a href="https://www.usil.edu.pe"><img src="images/universidades/usil.jpg"  height="100vh"></a>
+    </div>
 
 </div>
 </div>
@@ -161,8 +180,9 @@
 <div style="float:left; padding:0.5vw; ">
       <a href="#"><img src="images/auspiciantes/accionrevolucionaria.jpg"  height="100vh" alt="Acción revolucionaria" ></a>
     </div>
+
 <div style="float:left; padding:0.5vw; ">
-      <a href="#"><img src="images/auspiciantes/msu.jpg"  height="100vh" alt="Movimiento Ser Universitario" ></a>
+      <a href="https://www.facebook.com/profile.php?id=100078286219789"><img src="images/auspiciantes/msu.jpg"  height="100vh" alt="Movimiento Ser Universitario" ></a>
     </div>
 
 

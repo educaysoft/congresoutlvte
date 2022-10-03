@@ -1,14 +1,3 @@
-<!---------------
-<html>
-  <head>
-<!-- Load font awesome icons -->
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-  <link rel="stylesheet" href="style.css">
-
-  </head>
-<body style="margin: 0% 10% 0% 10%; background-color: #c0c0c0;">
--------->
 <?php
 include("head0.php");
 ?>
@@ -53,6 +42,7 @@ array(
 "coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"Universidad de Aveiro.",
+"biografia"=> array("link"=>"congresoutlvte-biografia1.php#", "icono"=>"images/biografia.png"),
 "video"=> array("link"=>"https://youtu.be/7tOzSyufSiU", "icono"=>"images/video.png"),
 "diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1R35FupuISCJQ-JgmR8Td05rZFe6AhVY2/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
 
@@ -429,14 +419,14 @@ array(
 
 
 array(
-"foto"=>"CortezGutierrezAndrea.png",
-"ponencia"=>"De la ciencia básica Botaroma generadora de saberes para una pedagogía de amor.",
+"foto"=>"SolanoCuevaNatali.jpg",
+"ponencia"=>"Carnosol un compuesto  con capacidades benéficas para la salud.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. Andrea Cortés Gutierrez.",
+"conferencista"=>"MSc. Natalí Elizabeth Solano Cueva.",
 "coautor1"=>".",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"https://www.canva.com/design/DAEwryfGihY/OQgJEeCkjSZs0ynVvoFvhg/watch?utm_content=DAEwryfGihY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
+"universidad"=>"Universidad Técnica Particular de Loja.","video"=> array("link"=>"https://www.canva.com/design/DAEwryfGihY/OQgJEeCkjSZs0ynVvoFvhg/watch?utm_content=DAEwryfGihY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1CT0U2K5Boj1ygL7dr3Hzat7mAaHo66aG/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
 
 
@@ -665,124 +655,29 @@ array(
 
 
 
-array(
-"foto"=>"PanchanoValenciaNelly.png",
-"ponencia"=>"Diagnóstico situacional de los emprendedores turísticos del cantón Muisne, Esmeraldas durante la pandemia del Covid 19.",
-"bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. Nelly Del Rocio Panchano Valencia.",
-"coautor1"=>"MSc. Xiomara LIbeth Grueso Guerrero.",
-"coautor2"=>"MSc. Wendy Narcisa Santos Marquez",
-"coautor3"=>"MSc. Patricia Margarita Lujano Meza",
-"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"#", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1Ws3nI3jKyo1BT6j3Xp8iNZ9zaGvFyOwx/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
-
-
-array(
-"foto"=>"BolanosMosqueraRitaLeivis.png",
-"ponencia"=>"Impacto de la Violencia de Género en el Desarrollo Personal en las Mujeres de los barrios del sur que se atienden en el Fundación Foro de Desarrollo Integral de la Mujer y la Familia en Esmeraldas.",
-"bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. Rita Leivis Bolaños Mosquera.",
-"coautor1"=>"",
-"coautor2"=>"",
-"coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"#", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/11gENCDWEV3k1XCOTOa2SCw8ZCUpTj5jJ/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
 
 
 
 
-array(
-"foto"=>"VallejoCardenasMariaIsabel.png",
-"ponencia"=>"Utilización del bono Joaquin Gallegos Lara en descapacitados severos, Distrito Esmeraldas.",
-"bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. María Isabel Vallejo Cárdenas.",
-"coautor1"=>"",
-"coautor2"=>"",
-"coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"#", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1VEwgCxrDWa63pg12yMgMxTD_uKbDsJNa/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
-
-
-
-array(
-"foto"=>"ToalaPonceSantaRocio.png",
-"ponencia"=>"La estimulación del aprendizaje en estudiantes para mejorar el rendimiento académico y el crecimiento personal.",
-"bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. Santa Rocio Toala Ponce.",
-"coautor1"=>"",
-"coautor2"=>"",
-"coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"#", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
-
-
-array(
-"foto"=>"RubyNiveloArturoJose.png",
-"ponencia"=>"Didáctica de la conciencia marítima.",
-"bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. Arturo José Roby Nivelo.",
-"coautor1"=>"",
-"coautor2"=>"",
-"coautor3"=>"",
-"universidad"=>"Armada del Ecuador.",
-"video"=> array("link"=>"#", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
 
 
-array(
-"foto"=>"MoralesMartinezMarisol.png",
-"ponencia"=>"Impacto de la Covid-19 en la formación para la carrera de Educación General Básica.",
-"bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. Marisol Morales Martínez.",
-"coautor1"=>"MSc. Fernando Teófilo Ferández Rodríguez.",
-"coautor2"=>"",
-"coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres - Ecuador.",
-"video"=> array("link"=>"#", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1Q-EcfDELg8Prha2vNckD7cTduoMYSRt2/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
-
-array(
-"foto"=>"BedoyaGutierrezAnaCarminea.png",
-"ponencia"=>"Prácticas de servicio comunitario en instituciones educativas del cantón Esmearldas, desde la pedagogía en la virtualidad.",
-"bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. Ana Carminea Bedoya Gutiérrez.",
-"coautor1"=>"MSc. Cecilia Mariana Ulloa Espinoza.",
-"coautor2"=>"MSc. Alfredo Nicolás Tenorio Obregón.",
-"coautor3"=>"MSc. Celia Verónica Batalla Benavides.",
-"universidad"=>"Universidad Técnica Luis Vargas Torres - Ecuador.",
-"video"=> array("link"=>"#", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/10izvivxwv8OZX4SoRTmjfqEqImYjVhEw/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
 
 
 
 
-array(
-"foto"=>"UlloaEspinozaCeciliaMariana.png",
-"ponencia"=>"Las TIC y formación docente: el conocimiento tecnológico pedagógico de contenido y la investigación acción.",
-"bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc.  Cecilia Mariana Ulloa Espinoza.",
-"coautor1"=>"MSc. Alfredo Nicolás Tenorio Obregón.",
-"coautor2"=>"MSc. Miryam Verónica Vera Mera.",
-"coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres - Ecuador.",
-"video"=> array("link"=>"#", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
 
-array(
-"foto"=>"PalaciosGonzalesJennyJohanna.png",
-"ponencia"=>"El diseño gráfico aplicado a la literatura infantil ancestral desde la Pedagogía.",
-"bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc.  Jenny Johanna Palacios Gonzales.",
-"coautor1"=>"",
-"coautor2"=>"",
-"coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres - Ecuador.",
-"video"=> array("link"=>"#", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
+
+
+
+
+
+
+
+
 
 
 
@@ -808,6 +703,10 @@ if($max2>$max)
 $max=$max2;
 }
 
+
+
+$max=4;
+
 for($i=0;$i<$max; $i++)
 {
 
@@ -824,6 +723,7 @@ $coautor12=$cI[$i]["coautor2"];
 $coautor13=$cI[$i]["coautor3"];
 $universidad1=$cI[$i]["universidad"];
 $video1= $cI[$i]["video"]; 
+$biografia1= $cI[$i]["biografia"]; 
 $diapositiva1= $cI[$i]["diapositiva"]; 
 }else{
   $foto1= "mujer.png";
@@ -882,6 +782,7 @@ echo "<div style='".$estilo3."' >";
 echo "<div style=' margin: auto;text-align: left;' >";
 echo "<p style='font-size: 15px; margin:10px 0 10px 0; line-height: 20px;' >".$ponencia1."</p>";
 echo "<p style='line-height: 20px;'> <br><span style='font-weight:bold ; '>".$conferencista1."</span><br><span style='font-weight:nomal ;'>".$coautor11."</span><br><span style='font-weight:nomal ;'>".$coautor12."</span><br><span style='font-weight:nomal ;color:blue; text-shadow: 1px 1px 2px green;'>".$universidad1."</span></p>"; 
+echo "<a href='".$biografia1["link"]."'> <img src='".$biografia1["icono"]."' style='width:10%;'></a>"; 
 echo "<a href='".$diapositiva1["link"]."'> <img src='".$diapositiva1["icono"]."' style='width:10%;'></a>"; 
 echo "<a href='".$video1["link"]."'> <img src='".$video1["icono"]."' style='width:10%;'></a>"; 
 echo "</div>";
