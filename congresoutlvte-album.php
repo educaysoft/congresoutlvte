@@ -41,7 +41,7 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button onclick="location.href='https://drive.google.com/file/d/11G1KDWITAM6KV_xKlIRnh6izpUOSE1xm/view'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                  <button disabled type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
              <!---   <small class="text-muted">9 mins</small>  -->
               </div>
@@ -58,7 +58,7 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button onclick="location.href='https://drive.google.com/file/d/1uPoHjQxpr9rgwENy6ovfMY9RQJvNokSI/view'"  type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                  <button disabled type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
              <!---   <small class="text-muted">9 mins</small>  -->
               </div>
@@ -77,7 +77,7 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button onclick="location.href='https://drive.google.com/file/d/1asDhkynmo_hVu_mnafXaEXBg8wDsBtey/view'"   type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                  <button disabled  type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
              <!---   <small class="text-muted">9 mins</small>  -->
               </div>
