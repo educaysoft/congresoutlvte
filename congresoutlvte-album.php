@@ -70,7 +70,7 @@
 
         <div class="col">
           <div class="card shadow-sm">
-            <img src="http://www.congresoutlvte.org/faci/images/Decano.png">
+            <img src="http://www.congresoutlvte.org/faci/images/Decano.jpg">
 
             <div class="card-body">
               <p class="card-text"><strong>Lenin Montaño</strong> <br> Decano FACI-UTLVTE.</p>
