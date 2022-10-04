@@ -185,6 +185,11 @@
       <a href="https://www.facebook.com/profile.php?id=100078286219789"><img src="images/auspiciantes/msu.jpg"  height="100vh" alt="Movimiento Ser Universitario" ></a>
     </div>
 
+<div style="float:left; padding:0.5vw; ">
+      <a href="https://m.facebook.com/JPC1Utlv/photos/a.260173954843856/1037839587077285/?type=3"><img src="images/auspiciantes/jpc.jpg"  height="100vh" alt="Movimiento Ser Universitario" ></a>
+    </div>
+
+
 
 </div>
 </div>
