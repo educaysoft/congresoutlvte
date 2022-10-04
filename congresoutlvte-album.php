@@ -25,8 +25,8 @@
               <p class="card-text"><strong>Girard Vernaza</strong>  <br> Rector UTLVTE&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                   <button  onclick="location.href='https://utelvt.edu.ec/sitioweb/index.php/rector'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
-                  <button  onclick="location.href='#'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                   <button  onclick="location.href='https://drive.google.com/file/d/16mrEufklh2xraq-d4-9urvBiW-evXON0/view'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                  <button disabled onclick="location.href='#'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
               </div>
             </div>

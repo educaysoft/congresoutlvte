@@ -38,7 +38,7 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                    <button  onclick="location.href='congresoutlvte-biografia1.php'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
-                  <button  onclick="location.href='#'" type="button" class="btn btn-sm btn-outline-secondary">CURSO</button>
+                  <button disabled onclick="location.href='#'" type="button" class="btn btn-sm btn-outline-secondary">CURSO</button>
                 </div>
               </div>
             </div>
@@ -59,7 +59,7 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button  onclick="location.href='congresoutlvte-biografia2.php'" type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">CURSO</button>
+                  <button disabled type="button" class="btn btn-sm btn-outline-secondary">CURSO</button>
                 </div>
              <!---   <small class="text-muted">9 mins</small>  -->
               </div>
