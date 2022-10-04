@@ -389,8 +389,8 @@ array(
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"https://www.canva.com/design/DAEwZtZD0y4/VqVe1cJJqI4dkIZAy1vFUA/watch?utm_content=DAEwZtZD0y4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/12XHoB9nj4zO6HHmfbxR8cyuRqVREtD3_/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"", "icono"=>"images/novideo.png"),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 array(
@@ -403,7 +403,7 @@ array(
 "coautor3"=>"", 
 "universidad"=>"Universidad Técnica Luis Vargas Torres.",
 "video"=> array("link"=>"", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1l52IwD9ZAgxyU3korcL7fC7phNoDUJ27/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")
 ),
 
 
@@ -415,8 +415,8 @@ array(
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"https://www.canva.com/design/DAEwrYy7ffk/LQBjhl7oMTW219TibWDxZA/watch?utm_content=DAEwrYy7ffk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1pWOsRw5p9wd-WmND_VGCkGt0ZijPGNqy/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"", "icono"=>"images/novideo.png"),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 array(
@@ -427,8 +427,8 @@ array(
 "coautor1"=>".",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad Técnica Particular de Loja.","video"=> array("link"=>"https://www.canva.com/design/DAEwryfGihY/OQgJEeCkjSZs0ynVvoFvhg/watch?utm_content=DAEwryfGihY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1CT0U2K5Boj1ygL7dr3Hzat7mAaHo66aG/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"universidad"=>"Universidad Técnica Particular de Loja.","video"=> array("link"=>"", "icono"=>"images/novideo.png"),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 
