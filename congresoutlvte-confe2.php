@@ -135,8 +135,9 @@ array(
 "coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"",
-"video"=> array("link"=>"https://www.youtube.com/watch?v=l6zfHMIb7nI&list=PLe-FpXijp6_oWnRjKNc9ekdDIltItzmPn&index=15", "icono"=>"images/video.png"),
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
+
 
 
 
@@ -233,7 +234,7 @@ array(
 "coautor2"=>"Lic. Miguel Angel Martinez Arías.",
 "coautor3"=>"",
 "universidad"=>"Universidad de Oriente - Cuba.",
-"video"=> array("link"=>"https://www.canva.com/design/DAEwmHAGhrQ/icJg9vP4SXfeyof-HVqjTA/watch?utm_content=DAEwmHAGhrQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/novideo.png"),
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
@@ -261,8 +262,8 @@ array(
 "coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"Universidad de Oriente - Cuba.",
-"video"=> array("link"=>"https://www.canva.com/design/DAEwr_3u0Tg/ppbdptAyIUGRsLF2EJfaIA/watch?utm_content=DAEwr_3u0Tg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1EdvEI7CP2vkiR4M_iOLcMHBmQbsNULXa/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 
@@ -277,7 +278,7 @@ array(
 "coautor3"=>"",
 "universidad"=>"",
 "video"=> array("link"=>"#", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1akiwSiF7MY8RqGf64tCjnnrnBKvIxp8Q/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 
@@ -290,8 +291,8 @@ array(
 "coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"Universidad de Oriente - Cuba.",
-"video"=> array("link"=>"https://www.canva.com/design/DAEwrtKZsDA/TujZcbKH_SpQk5adCT_ojA/watch?utm_content=DAEwrtKZsDA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1YubM4Zk8FuVPAx1FK9oWE-8x4pYq7Jce/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 
@@ -306,7 +307,7 @@ array(
 "coautor3"=>"",
 "universidad"=>"Universidad Nacional Toribio Rodriguez de Mendoza de Amazonas - Perú.",
 "video"=> array("link"=>"#", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1zaJ2jUUB1XQevGj98hetGKnA1KqORvxR/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 
@@ -321,7 +322,7 @@ array(
 "coautor3"=>"",
 "universidad"=>"Universidad Autónoma de Nayarit - México.",
 "video"=> array("link"=>"#", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1R3_BcYgfrCtIofVuXMv9qiFQFJ-nQmot/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"diapositiva"=> array("link"=>"005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
 
 
 
@@ -384,7 +385,7 @@ array(
 "foto"=>"RamirezMarquezMartin.png",
 "ponencia"=>"Diseño de tanque para almacenamiento de hidrógeno basado en Mg/MgH2.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"Ing. Martin Ramirez Marquez.",
+"conferencista"=>"Ing. Martin Ramirez Marquez, MSc.",
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
