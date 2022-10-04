@@ -26,7 +26,7 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                    <button  onclick="location.href='https://utelvt.edu.ec/sitioweb/index.php/rector'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
-                  <button  onclick="location.href='https://www.youtube.com/watch?v=-2gqhIER5Uo'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                  <button  onclick="location.href='#'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
               </div>
             </div>
@@ -57,7 +57,7 @@
               <p class="card-text"><strong>Manuel Quiñonez</strong> <br> Vicerrector de investigación.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                  <button onclick="location.href='https://drive.google.com/file/d/1uPoHjQxpr9rgwENy6ovfMY9RQJvNokSI/view`"  type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
                   <button type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
              <!---   <small class="text-muted">9 mins</small>  -->
