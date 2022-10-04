@@ -25,7 +25,7 @@
               <p class="card-text"><strong>Girard Vernaza</strong>  <br> Rector UTLVTE&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                   <button  onclick="location.href='https://drive.google.com/file/d/16mrEufklh2xraq-d4-9urvBiW-evXON0/view'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                   <button  onclick="location.href='https://drive.google.com/file/d/16mrEufklh2xraq-d4-9urvBiW-evXON0/view'"    type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
                   <button disabled onclick="location.href='#'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
               </div>
@@ -40,7 +40,7 @@
               <p class="card-text"><b>Elizabeth Canchingre</b><br>Vice-rectora Académica UTLVTE.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button onclick="location.href='https://drive.google.com/file/d/11G1KDWITAM6KV_xKlIRnh6izpUOSE1xm/view'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                  <button onclick="location.href='https://drive.google.com/file/d/11G1KDWITAM6KV_xKlIRnh6izpUOSE1xm/view'"    type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
                   <button disabled type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
              <!---   <small class="text-muted">9 mins</small>  -->
@@ -57,7 +57,7 @@
               <p class="card-text"><strong>Manuel Quiñonez</strong> <br> Vicerrector de investigación.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button onclick="location.href='https://drive.google.com/file/d/1uPoHjQxpr9rgwENy6ovfMY9RQJvNokSI/view'"  type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                  <button onclick="location.href='https://drive.google.com/file/d/1uPoHjQxpr9rgwENy6ovfMY9RQJvNokSI/view'"  type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
                   <button disabled type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
              <!---   <small class="text-muted">9 mins</small>  -->
@@ -76,7 +76,7 @@
               <p class="card-text"><strong>Lenin Montaño</strong> <br> Decano FACI-UTLVTE.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button onclick="location.href='https://drive.google.com/file/d/1asDhkynmo_hVu_mnafXaEXBg8wDsBtey/view'"   type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                  <button onclick="location.href='https://drive.google.com/file/d/1asDhkynmo_hVu_mnafXaEXBg8wDsBtey/view'"   type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
                   <button disabled  type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
              <!---   <small class="text-muted">9 mins</small>  -->

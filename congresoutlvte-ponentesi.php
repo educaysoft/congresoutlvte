@@ -25,8 +25,8 @@
               <p class="card-text"><strong>Mario Heredia.</strong>  <br> "Procesos tecnológicos para el aprovechameinto de agro-residuos en extractoras de aceite de palma africana ecuatorianas: caso práctico".</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                   <button  onclick="location.href='congresoutlvte-biografia1.php'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
-                  <button  onclick="location.href='#'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                   <button  onclick="location.href='congresoutlvte-biografia1.php'"    type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
+                  <button disabled  onclick="location.href='#'" type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
               </div>
             </div>
@@ -40,8 +40,8 @@
               <p class="card-text"><b>Hugo RomeroBiomateriales.</b><br>Bio<sup>4</sup> (Bioingenieria,Biomateriales, Biomedicina y Bioeconomía). Sinergía y oportunidades de desarrollo sostenible en Ecuador.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
+                  <button disabled type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
              <!---   <small class="text-muted">9 mins</small>  -->
               </div>
@@ -57,8 +57,8 @@
               <p class="card-text"><b>Jose Mamani.</b><br>"Modelamiento matemático de la cinética de oxidación del par galvánico calcopirita-pirita."</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
+                  <button type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
+                  <button disabled type="button" class="btn btn-sm btn-outline-secondary">VÍDEO</button>
                 </div>
              <!---   <small class="text-muted">9 mins</small>  -->
               </div>

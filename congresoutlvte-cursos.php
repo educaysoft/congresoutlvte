@@ -37,7 +37,7 @@
 <p> TÉCNICAS DE APROVECHAMIENTO DE RESIDUOS EN LA AGROINDUSTRIA DE ECUADOR: CONVERSIÓN TERMOQUÍMICA.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                   <button  onclick="location.href='congresoutlvte-biografia1.php'"    type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                   <button  onclick="location.href='congresoutlvte-biografia1.php'"    type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
                   <button disabled onclick="location.href='#'" type="button" class="btn btn-sm btn-outline-secondary">CURSO</button>
                 </div>
               </div>
@@ -58,7 +58,7 @@
 <p> LA ELECTROANALÍTICA APLICADA A LOS PROCESOS INDUSTRIALES.</p>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <button  onclick="location.href='congresoutlvte-biografia2.php'" type="button" class="btn btn-sm btn-outline-secondary">BIBLIOGRAFÍA</button>
+                  <button  onclick="location.href='congresoutlvte-biografia2.php'" type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
                   <button disabled type="button" class="btn btn-sm btn-outline-secondary">CURSO</button>
                 </div>
              <!---   <small class="text-muted">9 mins</small>  -->
