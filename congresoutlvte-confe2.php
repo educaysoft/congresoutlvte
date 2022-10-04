@@ -43,8 +43,8 @@ array(
 "coautor3"=>"",
 "universidad"=>"Universidad de Aveiro.",
 "biografia"=> array("link"=>"congresoutlvte-biografia1.php#", "icono"=>"images/biografia.png"),
-"video"=> array("link"=>"https://youtu.be/7tOzSyufSiU", "icono"=>"images/video.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1R35FupuISCJQ-JgmR8Td05rZFe6AhVY2/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 array(
 "foto"=>"RomeroBonillaHugo.png",
@@ -55,8 +55,8 @@ array(
 "coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"Universidad  San Ignacio de Loyola - Peru.",
-"video"=> array("link"=>"https://www.canva.com/design/DAEwmeifNeo/u8eGtaQE15XBrvSm001fsA/watch?utm_content=DAEwmeifNeo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1MScVKgF6lPFFKPaByGeZNw9QK6vkKJOC/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 array(
@@ -68,7 +68,7 @@ array(
 "coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"Universidad Nacional del Altiplano de Puno - Peru.",
-"video"=> array("link"=>"https://youtu.be/gAqRI98bB-A", "icono"=>"images/video.png"),
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
@@ -82,8 +82,8 @@ array(
 "coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"Universidad de Zulia - Venezuela.",
-"video"=> array("link"=>"https://www.canva.com/design/DAEwZNNwM8k/IIJNrm9BpZcdzARFb-5stw/watch?utm_content=DAEwZNNwM8k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1u9iGTn1qpPZWF_S_iIOaNMOHv-CGNVOw/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 array(
@@ -95,8 +95,8 @@ array(
 "coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"Universidad de Oriente - Cuba.",
-"video"=> array("link"=>"https://www.canva.com/design/DAEwrkr7iAM/1dAVKhrJsfTU-bKwzKcfNw/watch?utm_content=DAEwrkr7iAM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1pi4Xe_d9QJ2-kdx7aBCsfDwy78wii_1h/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 array(
@@ -152,8 +152,8 @@ array(
 "coautor2"=>"PhD. Aniuska Tito Durán",
 "coautor3"=>"",
 "universidad"=>"Universidad de Oriente - Cuba.",
-"video"=> array("link"=>"https://youtu.be/w0Dcd7mV2TU", "icono"=>"images/video.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1Y5_Fe95BVyVLzb0EGZhs_PhX3kNLoZKc/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 array(
@@ -165,7 +165,7 @@ array(
 "coautor2"=>"MSc. Maricela Alfaro Tamayo.",
 "coautor3"=>"",
 "universidad"=>"Universidad de Oriente - Cuba.",
-"video"=> array("link"=>"https://www.canva.com/design/DAEwsLpeZ3w/WTmsI_t9IImBi9oCDW99LA/watch?utm_content=DAEwsLpeZ3w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
@@ -178,8 +178,8 @@ array(
 "coautor2"=>"MSc. Dalyn Matamoros Borges.",
 "coautor3"=>"",
 "universidad"=>"Universidad de Oriente - Cuba.",
-"video"=> array("link"=>"https://www.canva.com/design/DAEwq8GYnj8/3vZlAKeGjBH2vs5ryJvLrQ/watch?utm_content=DAEwq8GYnj8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1kBFvYLSdtN_DJHhDzdJYP6d7rKbVxkJi/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 
@@ -193,7 +193,7 @@ array(
 "coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"Universidad de Oriente - Cuba.",
-"video"=> array("link"=>"https://www.canva.com/design/DAEwaFIey5I/bW8A7kYGqNrneQ9QC1LiMQ/watch?utm_content=DAEwaFIey5I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
@@ -207,7 +207,7 @@ array(
 "coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"Universidad de Oriente - Cuba.",
-"video"=> array("link"=>"https://www.canva.com/design/DAEwZg-ZU_w/y7FsiTrPBXVLRnlEa_gR2g/watch?utm_content=DAEwZg-ZU_w&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
@@ -220,7 +220,7 @@ array(
 "coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"Universidad de Oriente - Cuba.",
-"video"=> array("link"=>"https://www.canva.com/design/DAEwZrc42U4/LxtGykVgbXsXX1V4NMV9eg/watch?utm_content=DAEwZrc42U4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
