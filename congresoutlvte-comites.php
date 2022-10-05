@@ -169,7 +169,7 @@
 
   <main>
 <span class="badge bg-success text-wrap"><b>Presidente</b></span><br>
-  <p class="nombre">Lcda. Ana Bedolla Gutierrez, MSc.</p>
+  <p class="nombre">Lcda. Ana Bedoya Gutierrez, MSc.</p>
 
     <p  class="badge bg-primary text-wrap" >Miembros</p>
 
