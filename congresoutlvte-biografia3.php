@@ -15,7 +15,7 @@ include("head.php");
 <main  class="container" >
 <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> Ing. Jose Mamani MSc.</p>
 <div class="text-center">
-  <img src="http://www.congresoutlvte.org/faci/ponentes/ponente2.jpg" class="img-circle"  style="width:50%" alt="Ing. Jose Mamani, MSc.">
+  <img src="http://www.congresoutlvte.org/faci/images/Conferencistas/MamaniQuispeJose.png" class="img-circle"  style="width:50%" alt="Ing. Jose Mamani, MSc.">
 </div>
 
 
