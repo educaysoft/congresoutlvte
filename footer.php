@@ -138,13 +138,7 @@
 <div style="margin-left:20px;border-top:2px solid green;margin-top: 10px;">
   <div style="padding:20px">  
 
-<!----
-    <div style="float:left; padding:0.5vw; ">
-      <a href="http://www.congresoutlvte.org/facped/index.php"><img src="images/logocongresofacped1.png" width="100vw" height="100vh"></a>
-
-    </div>
----->
-    <div style="float:left; padding:0.5vw; ">
+   <div style="float:left; padding:0.5vw; ">
       <a href="https://www.manglareditores.com/"><img src="images/manglareditorial.jpg"  height="100vh"></a>
     </div>
 
@@ -163,69 +157,69 @@
     </div>
 
 
-<div style="float:left; padding:0.5vw; ">
-      <a href="https://www.asefie.org/"><img src="images/auspiciantes/asefie.png"  height="100vh" alt="Sistemas Integrales en Ingenieria, Salud y Ambiente" ></a>
-    </div>
+	<div style="float:left; padding:0.5vw; ">
+      		<a href="https://www.asefie.org/"><img src="images/auspiciantes/asefie.png"  height="100vh" alt="Sistemas Integrales en Ingenieria, Salud y Ambiente" ></a>
+    	</div>
 
-<div style="float:left; padding:0.5vw; ">
-      <a href="#"><img src="images/auspiciantes/gim-faci.jpg"  height="100vh" alt="Grupo de Investigación Multidiciplinaria-FACI" ></a>
-    </div>
-
-
-<div style="float:left; padding:0.5vw; ">
-      <a href="#"><img src="images/auspiciantes/readic.jpeg"  height="100vh" alt="Red Académica de Ingeniería Química" ></a>
-    </div>
+	<div style="float:left; padding:0.5vw; ">
+      		<a href="#"><img src="images/auspiciantes/gim-faci.jpg"  height="100vh" alt="Grupo de Investigación Multidiciplinaria-FACI" ></a>
+    	</div>
 
 
-<div style="float:left; padding:0.5vw; ">
-      <a href="#"><img src="images/auspiciantes/accionrevolucionaria.jpg"  height="100vh" alt="Acción revolucionaria" ></a>
-    </div>
-
-<div style="float:left; padding:0.5vw; ">
-      <a href="https://www.facebook.com/profile.php?id=100078286219789"><img src="images/auspiciantes/msu.jpg"  height="100vh" alt="Movimiento Ser Universitario" ></a>
-    </div>
-
-<div style="float:left; padding:0.5vw; ">
-      <a href="https://m.facebook.com/JPC1Utlv/photos/a.260173954843856/1037839587077285/?type=3"><img src="images/auspiciantes/jpc.jpg"  height="100vh" alt="Movimiento Ser Universitario" ></a>
-    </div>
+	<div style="float:left; padding:0.5vw; ">
+      		<a href="#"><img src="images/auspiciantes/readic.jpeg"  height="100vh" alt="Red Académica de Ingeniería Química" ></a>
+    	</div>
 
 
+	<div style="float:left; padding:0.5vw; ">
+      		<a href="#"><img src="images/auspiciantes/accionrevolucionaria.jpg"  height="100vh" alt="Acción revolucionaria" ></a>
+    	</div>
 
-</div>
-</div>
+	<div style="float:left; padding:0.5vw; ">
+      		<a href="https://www.facebook.com/profile.php?id=100078286219789"><img src="images/auspiciantes/msu.jpg"  height="100vh" alt="Movimiento Ser Universitario" ></a>
+    	</div>
 
-<div id="eys-footer"    >
-  <div style="margin-top:10px; height: 100%; width: 30%; display: flex; flex-direction:column;  ">
-    <div >      
-        <p style="color: black;font-size:20px;font-weight:bold;">Contactanos:</p>
-    </div>
-    <main style="color: black;font-size:20px;">
-      <p style="font-size: 1vw;">Dirección: Ciudadela Nuevos Horizontes:</p>
-      <p style="font-size: 1vw;">Coord:0.9743604276613814, -79.66642811934824</p>
-      <p style="font-size: 1vw;"><a href="mailto:grupo.investigacion.faci@utelvt.edu.ec">grupo.investigacion.faci@utelvt.edu.ec</a></p>
-</main>   
- </div>
- <div style="  height:100%; width:30%; display:flex; justify-content: center; flex-direction: column; ">
-     <div style="width: 100%;  height: 100%; ">
-     <center><a href="https://utelvt.edu.ec/sitioweb/"> <img src="images/logoutlvte.png" height="100%"></a></center>
-    </div>
-<div style="width: 100%;">
-<center>Visitas:<br> <script src="misvisitas.php"></script> </center>
-</div>
- </div>
+	<div style="float:left; padding:0.5vw; ">
+      		<a href="https://m.facebook.com/JPC1Utlv/photos/a.260173954843856/1037839587077285/?type=3"><img src="images/auspiciantes/jpc.jpg"  height="100vh" alt="Movimiento Ser Universitario" ></a>
+    	</div>
 
-<div style="color: black; height: 100%; width: 30%; display:flex; justify-content: center;  ">
-    <ul style="margin:0; padding:0;" class="icons">
-    <li><a href="congresoutlvte-presentacion.php">Presentación</a></li>
-    <li><a href="#">Agenda</a></li>
-    <li><a href="congresoutlvte-normafinal.php">Normativas</a></li>
-    <li><a href="congresoutlvte-todocomite.php">Miembros del comite</a></li>
-    <li><a href="congresoutlvte-memoria.php" >Memoria de evento</a></li>
-    <li><a href="congresoutlvte-politica.php">Política de privacidad</a></li>
-    </ul>
-</div>
+
 
 </div>
+</div>
+
+   <div id="eys-footer"    >
+	  <div style="margin-top:10px; height: 100%; width: 30%; display: flex; flex-direction:column;  ">
+	    <div >      
+		<p style="color: black;font-size:20px;font-weight:bold;">Contactanos:</p>
+	    </div>
+	    <ul class="nav flex-column">
+	      <li class="nva-item mb-2">Dirección: Ciudadela Nuevos Horizontes:</li>
+	      <li class="nav-item mb-2">Coord:0.9743604276613814, -79.66642811934824</li>
+	      <li class="nav-item mb-2"><a href="mailto:grupo.investigacion.faci@utelvt.edu.ec"></a></li>
+	    </ul>   
+	  </div>
+	 <div style="  height:100%; width:30%; display:flex; justify-content: center; flex-direction: column; ">
+		<div style="width: 100%;  height: 100%; ">
+		     <center><a href="https://utelvt.edu.ec/sitioweb/"> <img src="images/logoutlvte.png" height="100%"></a></center>
+		</div>
+		<div style="width: 100%;">
+		     <center>Visitas:<br> <script src="misvisitas.php"></script> </center>
+		</div>
+	 </div>
+
+	<div style="color: black; height: 100%; width: 30%; display:flex; justify-content: center;  ">
+	    <ul style="margin:0; padding:0;" class="icons">
+	    <li><a href="congresoutlvte-presentacion.php">Presentación</a></li>
+	    <li><a href="#">Agenda</a></li>
+	    <li><a href="congresoutlvte-normafinal.php">Normativas</a></li>
+	    <li><a href="congresoutlvte-todocomite.php">Miembros del comite</a></li>
+	    <li><a href="congresoutlvte-memoria.php" >Memoria de evento</a></li>
+	    <li><a href="congresoutlvte-politica.php">Política de privacidad</a></li>
+	    </ul>
+	</div>
+
+   </div>
 
 </div>
 

@@ -81,17 +81,6 @@
            <p class="mb-4 bg-success p-2 bg-opacity-50" style="color: white; font-size:1.5em; text-shadow: 2px 2px #000000;" > MIRADAS Y TENDENCIAS DE LAS CIENCIAS INGENIERILES (MTCI) - UTLVTE 2022 </p>
         <p class="mb-5" style=" color: white; font-size:1.17em;text-shadow: 2px 2px #000000;">   Noviembre 7,8,9 - 2022 <br> Esmeraldas-Ecuador  </p>
 
-<!----
- <a
-            class="btn btn-outline-info btn-lg px-4 me-sm-3 fw-bold"
-             href="congresoutlvte-inscripcion.php"
-            role="button"
-            rel="nofollow"
-            target="_blank"
-  >Inscripciones </a>
-          <a
- --->
-
 
  <a
             class="btn btn-primary my-2"
