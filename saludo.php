@@ -1,4 +1,4 @@
-<div id="fsaludo" style="border-top: 2px solid green; background-color:black;   width: 100%; margin:0px auto; display: flex; flex-direction:column ; ">
+<div id="fsaludo" style="border-top: 2px solid green; background-color:gray;   width: 100%; margin:0px auto; display: flex; flex-direction:column ; ">
 <div  style="color:white; padding: 10px;">
                <center> PRIMER CONGRESO INTERNACIONAL MIRADAS Y TENDENCIAS DE LAS CIENCIAS INGENIERILES (MTCI) - UTLVTE 2022.</center>
             </div>
