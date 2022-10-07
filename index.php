@@ -288,6 +288,11 @@ include_once("congresoutlvte-resumen.php");
 ?>
 
 <?php
+include_once("saludo.php");
+?>
+
+
+<?php
 include_once("cuenta-regresiva.php");
 ?>
 
@@ -339,9 +344,6 @@ include_once("congresoutlvte-comites2.php");
 
 
 
-<?php
-//include_once("saludo.php");
-?>
 
 
 <?php

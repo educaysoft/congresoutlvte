@@ -45,6 +45,7 @@
 
   <p class="nombre">Lcda. Maribel Cuello Pérez, PhD,</p><br>
 
+  <p class="nombre">Ing. Eduardo Rivas Tufiño, PhD.</p><br>
 
   <p class="nombre">Dr. Lázaro Lima Cazorla, PhD,</p><br>
 
