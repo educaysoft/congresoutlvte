@@ -111,7 +111,8 @@
 <!---			<li><a href="http://www.twitter.com/falconmasters" target="_blank" class="fa fa-twitter"></a></li>
 			<li><a href="http://www.googleplus.com/falconmasters" target="_blank" class="fa fa-google"></a></li
 			<li><a href="http://www.pinterest.com/falconmasters" target="_blank" class="fa fa-linkedin"></a></li>  ---->
-	<li><a href="https://www.youtube.com/channel/UCGFJyjTLf70iXHIg6OIjHNg" target="_blank" class="fa fa-youtube"></a></li>
+	<li><a href="https://youtube.com/playlist?list=PLe-FpXijp6_qocjxhCXEhXUQQWAouFTa_" target="_blank" class="fa fa-youtube"></a></li>
+
 			<li><a href="mailto:congresoutlvte@utelvt.edu.e" class="fa fa-envelope"></a></li>
 		</ul>
 	</div>
