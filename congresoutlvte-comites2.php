@@ -88,7 +88,7 @@
   <p class="nombre">Ing. Guillermo Mosquera, Msc. </p>
   <p class="nombre">Ing. Raul Ulloa D' Sousa MSc.</p>
   <p class="nombre">Ing. Wladimir Obando Perea.</p>
-  <p class="nombre">Ing. Jose Luis Samprieto Saquicela ,PhD.</p>
+  <p class="nombre">Dr. Jose Luis Samprieto Saquicela ,PhD.</p>
   <p class="nombre">Ing. Franklin Reina Pérez, MSc.</p><br>
   <p class="nombre">Ing. Eduardo Rivas Tufiño, MSc.</p><br>
   <p class="nombre">Ing. Silvia Simisterra, MSc.</p><br>

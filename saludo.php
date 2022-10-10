@@ -21,9 +21,14 @@
         <div id="thumbs">
             <div class="thumb"><img src="saludos/VernazaGiraldSaludos.jpg" onclick="video0()"  /></div>
             <div class="thumb"><img src="saludos/CanchingreElizabethSaludos.jpg" onclick="video1()"  /></div>
-            <div class="thumb"><img src="saludos/BasterLySaludos.jpg" onclick="video4()"  /></div>
+            <div class="thumb"><img src="saludos/BasterLySaludos.jpg" onclick="video3()"  /></div>
+            <div class="thumb"><img src="saludos/CuelloMaribelSaludos.jpg"  onclick="video4()" /></div>
+            <div class="thumb"><img src="saludos/VlucherQuinteroSaludos.jpg" onclick="video5()" /></div>
+            <div class="thumb"><img src="saludos/MinaNayzerSaludos.jpg"  onclick="video6()" /></div>
+            <div class="thumb"><img src="saludos/AbataDiegoSaludos.jpg"  onclick="video7()" /></div>
+            <div class="thumb"><img src="saludos/CajasCarolinaSaludos.jpg"  onclick="video8()" /></div>
+            <div class="thumb"><img src="saludos/MarquezCarlosSaludos.jpg"  onclick="video9()" /></div>
    <!----
-            <div class="thumb"><img src="saludos/saludo1.png"  onclick="image()" /></div>
             <div class="thumb"><img src="saludos/saludo5.png"  onclick="video5()" /></div>
             <div class="thumb"><img src="saludos/saludo6.png" onclick="video6()" /></div>
             <div class="thumb"><img src="saludos/VlucherQuinteroSaludos.jpg" onclick="video7()" /></div>
@@ -42,7 +47,7 @@ function image() {
        var elsaludo = document.getElementById("vsaludos");
         elsaludo.src="https://www.youtube.com/embed/V3y9KC0yozo";
 }
-function video4() {
+function video3() {
        var elsaludo = document.getElementById("vsaludos");
         elsaludo.src="https://www.youtube.com/embed/On4HOlDm3MQ";
 }
@@ -59,21 +64,46 @@ function video0() {
     elsaludo.src="https://www.youtube.com/embed/gYLQitipdvs ";
 }
 
+function video4() {
+       var elsaludo = document.getElementById("vsaludos");
+    elsaludo.src="https://www.youtube.com/embed/U0sSBn6iYbc" ;
+}
+
+
+
+
+
 function video5() {
        var elsaludo = document.getElementById("vsaludos");
-    elsaludo.src="https://www.youtube.com/embed/NublnQ3Sfpc";
+    elsaludo.src=" https://www.youtube.com/embed/zpHtut_kGQc";
 }
 
 
 function video6() {
        var elsaludo = document.getElementById("vsaludos");
-    elsaludo.src="https://www.youtube.com/embed/O1ZJkmtjJgI";
+    elsaludo.src="https://www.youtube.com/embed/nT10bWb6MLQ";
 }
 
-
+//Abata Diego
 function video7() {
        var elsaludo = document.getElementById("vsaludos");
-    elsaludo.src=" https://www.youtube.com/embed/zpHtut_kGQc";
+    elsaludo.src="https://www.youtube.com/embed/mawBYQJD5sc";
 }
+
+
+//Cajas Carolina
+function video8() {
+       var elsaludo = document.getElementById("vsaludos");
+    elsaludo.src="https://www.youtube.com/embed/kpzpOuII8pM";
+}
+
+
+//Marquez carlos
+function video9() {
+       var elsaludo = document.getElementById("vsaludos");
+    elsaludo.src="https://www.youtube.com/embed/dyaZdjhRcrU";
+}
+
+
 </script>
 

@@ -13,7 +13,7 @@
 
 
   <b>Vicerrectora Académica de la UTLVTE</b><br>
-  <p class="nombre">Ing. María Elizabeth Canchingre Bone. PhD.</p><br> 
+  <p class="nombre">Dra. María Elizabeth Canchingre Bone. PhD.</p><br> 
 
 
 
@@ -41,15 +41,15 @@
 
     <p  class="badge bg-primary text-wrap" >Nacionales</p>
 
-  <p class="nombre">Dr. Sc. Juan Tacoronte Morales, PhD.</p><br>
+  <p class="nombre">Dr. Juan Tacoronte Morales, PhD.</p><br>
 
-  <p class="nombre">Lcda. Maribel Cuello Pérez, PhD,</p><br>
+  <p class="nombre">Dra. Maribel Cuello Pérez, PhD,</p><br>
 
-  <p class="nombre">Ing. Eduardo Rivas Tufiño, PhD.</p><br>
+  <p class="nombre">Dr. Eduardo Rivas Tufiño, PhD.</p><br>
 
   <p class="nombre">Dr. Lázaro Lima Cazorla, PhD,</p><br>
 
-  <p class="nombre">Ing. José Samprieto Saquicela, PhD,</p><br>
+  <p class="nombre">Dr. José Samprieto Saquicela, PhD,</p><br>
   <p class="nombre">Ing. Joseph Cruel Siguenza, MSc.</p><br>
   <p class="nombre">Ing. Stalin Francis Quinde, MSc.</p><br>
   <p class="nombre">Lcda. Silvia Simisterra Masias, Mgs.</p><br>
@@ -64,7 +64,7 @@
 
   <p class="nombre">Ing. Carla Bernal Villavicencio, MSc.</p><br>
   <p class="nombre">Ing. Raúl Ulloa D' Sousa, MSc.</p><br>
-  <p class="nombre">Ing. Rugina Quiñonez, PhD.</p><br>
+  <p class="nombre">Dra. Rugina Quiñonez, PhD.</p><br>
   <p class="nombre">Ing. Rafael Bastidas Heredia, MSc.</p><br>
   <p class="nombre">Ing. Hugo Pillajo Quijia, MSc.</p><br>
   <p class="nombre">Ing. Lenin Montaño Roldan, MSc.</p><br>
@@ -139,7 +139,7 @@
   <br><i>PERU</i><br><br></p>
 
 
-  <p class="nombre">Dr. Guadalupe Abeledo, PhD. 
+  <p class="nombre">Dra. Guadalupe Abeledo, PhD. 
   <br><i>ESPAÑA</i><br><br></p>
 
   <p class="nombre">Dr. Hever Robles Castillo, PhD. 
