@@ -31,19 +31,28 @@
   <tbody>
     <tr>
       <th scope="row">1</th>
-      <td colspan="2">Profesionales:</td>
+      <td colspan="2">Docentes o profesionales ponentes:</td>
       <td>90 USD.</td>
     </tr>
+<tr>
+      <th scope="row">3</th>
+      <td colspan="2">Estudiantes ponentes:</td>
+      <td>20 USD.</td>
+    </tr>
+
     <tr>
       <th scope="row">2</th>
       <td colspan="2">Estudiantes participantes:</td>
       <td>10 USD.</td>
     </tr>
-    <tr>
-      <th scope="row">3</th>
-      <td colspan="2">Estudiantes ponentes:</td>
+
+<tr>
+      <th scope="row">2</th>
+      <td colspan="2">Docentes participantes:</td>
       <td>20 USD.</td>
     </tr>
+
+    
 <tr>
       <th scope="row">4</th>
       <td colspan="2">Personas naturales/juridicas:</td>
