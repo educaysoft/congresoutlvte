@@ -13,6 +13,10 @@
 	<meta property="og:image" content="https://congresoutlvte.org/faci/images/logo.png" />
 	<meta property="og:image:width" content="100" />
 	<meta property="og:image:height" content="100" />
+
+
+
+
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -57,6 +61,10 @@
 
 
 <link href='https://fonts.googleapis.com/css?family=Raleway:400,800,300' rel='stylesheet' type='text/css'>
+
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/js/bootstrap.bundle.min.js"></script>
 
 
 
@@ -284,8 +292,13 @@ include_once("head.php");
 <div style="display:flex;flex-direction: column; background-color: white;">
 
 <?php
-include_once("congresoutlvte-resumen.php");
+//include_once("congresoutlvte-resumen.php");
 ?>
+
+<?php
+include_once("congresoutlvte-slide.php");
+?>
+
 
 <?php
 include_once("saludo.php");

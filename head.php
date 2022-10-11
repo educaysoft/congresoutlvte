@@ -82,9 +82,7 @@
         <p class="mb-5" style=" color: white; font-size:1.17em;text-shadow: 2px 2px #000000;">   Noviembre 7,8,9 - 2022 <br> Esmeraldas-Ecuador  </p>
 
 
- <a
-            class="btn btn-primary my-2"
-             href="congresoutlvte-inscripcion.php"  >Inscripciones </a>
+ <a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php"  >Inscripciones </a>
           <a
             class="btn btn-secondary my-2"
     href="#" style="background-color: #f44336;" 
