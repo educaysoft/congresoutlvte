@@ -53,7 +53,7 @@
     <div class="carousel-item">
       <img src="images/slide/EstudiantePonente2.jpg" alt="New York" class="d-block" style="width:100%">
       <div class="carousel-caption">
-        <h3 style="color:black">Estudiante Ponente</h3>
+        <h3 style="color:black">Estudiante ponente</h3>
         <p><a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php"> Inscribete ya</a></p>
       </div>  
     </div>
@@ -61,7 +61,7 @@
 <div class="carousel-item">
       <img src="images/slide/EstudianteParticipante2.jpg" alt="New York" class="d-block" style="width:100%">
       <div class="carousel-caption">
-        <h3>Estudiantes Participantes</h3>
+        <h3>Estudiantes participantes</h3>
         <p><a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php"> Inscribete ya</a></p>
       </div>  
     </div>
