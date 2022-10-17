@@ -15,7 +15,7 @@ include("head.php");
 <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> NORMAS PARA EDITAR EL ARTÍCULO.</p>
 
 
-<div style="width: 100%;padding:10px;" > <center><a href="Documentos/normas.pdf"><button class="button-33" role="button">Desargar</button></a>
+<div style="width: 100%;padding:10px;" > <center><a href="Documentos/normas.pdf"><button class="button-33" role="button">Descargar</button></a>
 </center></div>
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
 
