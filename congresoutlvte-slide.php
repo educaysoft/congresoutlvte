@@ -13,7 +13,7 @@
 
 <div class="row py-lg-5 text-center container">
       <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Presentación y parcipación al evento</h1>
+        <h1 class="fw-light">Presentación y participación al evento</h1>
       </div>
     </div>
 
