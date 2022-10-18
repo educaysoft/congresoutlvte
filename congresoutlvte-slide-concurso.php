@@ -39,10 +39,9 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
       <a href="congresoutlvte-presentacion.php" class="stretched-link"><img src="images/concurso/concurso.jpg" alt="Concurso" class="d-block" style="width:100%"></a>
-        <p><a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php#estudiante-ponente"> Inscribete ya</a></p>
       <div class="carousel-caption">
         <h3></h3>
-        <p></p>
+        <p><a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php#estudiante-ponente"> Inscribete ya</a></p>
       </div>
     </div>
     <div class="carousel-item">
@@ -69,7 +68,7 @@
 <div class="carousel-item">
       <img src="images/concurso/invita.jpg" alt="Invita" class="d-block" style="width:100%">
       <div class="carousel-caption">
-        <h3>Auspiciantes</h3>
+        <h3></h3>
         <p><a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php#estudiante-ponente"> Inscribete ya</a></p>
       </div>  
     </div>
