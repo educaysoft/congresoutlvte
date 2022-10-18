@@ -39,6 +39,7 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
       <a href="congresoutlvte-presentacion.php" class="stretched-link"><img src="images/concurso/concurso.jpg" alt="Concurso" class="d-block" style="width:100%"></a>
+        <p><a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php#estudiante-ponente"> Inscribete ya</a></p>
       <div class="carousel-caption">
         <h3></h3>
         <p></p>
@@ -47,14 +48,12 @@
     <div class="carousel-item">
       <img src="images/concurso/premios.jpg" alt="Premios" class="d-block" style="width:100%">
       <div class="carousel-caption">
-        <h3 >Premios a los participantes</h3>
         <p> <a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php#estudiante-ponente"> Inscribete ya </a> </p>
       </div> 
     </div>
     <div class="carousel-item">
       <img src="images/concurso/estandar.jpg" alt="Standar de publicación" class="d-block" style="width:100%">
       <div class="carousel-caption">
-        <h3 >Estandares a cumplir</h3>
         <p><a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php#estudiante-ponente"> Inscribete ya</a></p>
       </div>  
     </div>
@@ -62,7 +61,6 @@
 <div class="carousel-item">
       <img src="images/concurso/ejestematicos.jpg" alt="Eje temático" class="d-block" style="width:100%">
       <div class="carousel-caption">
-        <h3>Ejes temáticos</h3>
         <p><a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php#estudiante-ponente"> Inscribete ya</a></p>
       </div>  
     </div>
@@ -80,7 +78,6 @@
 <div class="carousel-item">
       <img src="images/slide/EstudiantePonente2.jpg" alt="New York" class="d-block" style="width:100%">
       <div class="carousel-caption">
-        <h3>Estudiante ponente</h3>
         <p><a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php#estudiante-ponente"> Inscribete ya </a></p>
       </div>  
     </div>
