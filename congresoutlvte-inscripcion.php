@@ -20,12 +20,13 @@ include("head.php");
         <p>
           <a href=" https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link" class="btn btn-primary my-2">Inscipción como profesional</a>
         </p>
-
+<div id="estudiante-ponente">
 <h3> Inscripción como estudiante ponente </h3>
         <p class="text-justify">Si eres estudiante y quieres presentar una ponencia; luego de registrar tus datos, deberás enviar el trabajo de la ponencia al correo <a href="mailto:grupo.investigacion.faci@utelvt.edu.ec">grupo.investigacion.faci@utelvt.edu.ec</a>, tu trabajo sera enviado a casas editoriales para ser revisado por pares; luego de 48 horas te llegará a tu correo ya sea las observaciones en caso de que tengas que realizar alguna corrección o la solicitud para que envies el comprobante de  pago por un un valor de  $20 adjuntando tus diapositivas  en caso de que el trabajo halla sido aprobado, con lo cual tu proceso de inscripción llega a su finalización.</p>
         <p>
           <a href=" https://docs.google.com/forms/d/e/1FAIpQLSdhljELClt8TYWDNovtIRamJXMZLYsBM_SKGr1eAfWX_TrqOw/viewform?usp=sf_link" class="btn btn-primary my-2">Inscipción como estudiante ponente</a>
         </p>
+</div>
 
 
 <h3> Inscripción como estudiante asistente </h3>

@@ -335,13 +335,22 @@ include_once("congresoutlvte-cursos.php");
 ?>
 
 
+
+
 <?php
 include_once("congresoutlvte-ponentesi.php");
 ?>
 
 
+
+
 <?php
 include_once("congresoutlvte-precios.php");
+?>
+
+
+<?php
+include_once("congresoutlvte-slide-concurso.php");
 ?>
 
 
