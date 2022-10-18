@@ -38,7 +38,7 @@
   <!-- The slideshow/carousel -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <a href="congresoutlvte-presentacion.php" class="stretched-link"><img src="images/concurso/concurso.jpg" alt="Concurso" class="d-block" style="width:100%"></a>
+      <a href="congresoutlvte-inscripcion.php#estudiante-ponente" class="stretched-link"><img src="images/concurso/concurso.jpg" alt="Concurso" class="d-block" style="width:100%"></a>
       <div class="carousel-caption">
         <h3></h3>
         <p><a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php#estudiante-ponente"> Inscribete ya</a></p>
