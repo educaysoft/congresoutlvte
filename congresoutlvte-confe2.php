@@ -18,11 +18,12 @@ include("head.php");
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
 
   <div style="width:50%">
-<p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> PONENTES <br> INTERNACIONALES</p>
+<p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> PONENTES </p>
+
   </div>
 
   <div style="width:50%">
-    <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> PONENTES <br> NACIONALES</p>
+    <p style="font-size: 30px; font-weight: bold; text-align: center; padding: 20px 0 40px 0; "> PONENTES </p>
   </div>
 
 </div>
@@ -87,50 +88,50 @@ array(
 
 
 array(
-"foto"=>"ManuelAlejandroRomeroLeon.jpg",
-"ponencia"=>"Metodología para el desarrollo de la psicomotricidad en niños con disartria pseudobulbar.",
-"bandera"=>"BanderaCuba.png",
-"conferencista"=>" PhD. Manuel Alejandro Romero León.",
+"foto"=>"MendozaDominguezPatricio.jpg",
+"ponencia"=>"Aplicaciones en la virtualización y los nuevos entornos de trabajo.",
+"bandera"=>"BanderaEcuador.png",
+"conferencista"=>"Ing. Patricio Mendoza Dominguez, MSc.",
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad de Oriente - Cuba.",
+"universidad"=>"Universidad Técnica Luis Vargas Torres - Ecuador.",
 "video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 array(
-"foto"=>"AlexanderGorinaSanchez.png",
-"ponencia"=>"El liderazgo en la gestión de la calidad de empresas. Un estudio de caso sustentando en la superación profesional.",
-"bandera"=>"BanderaCuba.png",
-"conferencista"=>"PhD. Alexander Gorina Sánchez.",
-"coautor1"=>"MSc. María Eulalia Martha Rivero.",
-"coautor2"=>"Med.  Nelson Gorina Sánchez.",
+"foto"=>"AnguloGuerreroRonny.jpg",
+"ponencia"=>"Control de factor de potencia en una red fotovoltaica en la parroquia Vuelta Larga Esmeraldas - Ecuador.",
+"bandera"=>"BanderaEcuador.png",
+"conferencista"=>"Ing. Ronny Joel Angulo Guerrero MSc.",
+"coautor1"=>"",
+"coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad de Oriente - Cuba.",
+"universidad"=>"Universidad Técnica Luis Vargas Torres - Ecuador.",
 "video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
 array(
-"foto"=>"JoseAndresCastilloHernandez.png",
-"ponencia"=>"Sociedad del conocimiento y la educación para el siglo XXI.",
-"bandera"=>"BanderaMexico.png",
-"conferencista"=>"PhD. José Andrés Castillo Hernández.",
+"foto"=>"MoreiraCarlos.jpg",
+"ponencia"=>"Tratamiento térmicos de biomasa residuales para la producción de biocombustible.",
+"bandera"=>"BanderaEcuador.png",
+"conferencista"=>"Ing. Carlos Moreira, MSc.",
 "coautor1"=>".",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad Veracruzana de México.",
+"universidad"=>"Universidad Técnica de Manabi.",
 "video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
 
 array(
-"foto"=>"FabricioGermanMartinez.png",
-"ponencia"=>"Educación Del pensar al hacer, para ser.",
-"bandera"=>"BanderaArgentina.png",
-"conferencista"=>"Profesor. Fabricio Germán Martinez.",
+"foto"=>"SolanoGutierrezGerardo.jpg",
+"ponencia"=>"Demostración del sistema de difusión de mensajes masivos.",
+"bandera"=>"BanderaEcuador.png",
+"conferencista"=>"Ing. Gerardo Solano Gutiérrez, Mtr.",
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
@@ -433,53 +434,53 @@ array(
 
 
 array(
-"foto"=>"HernandezMartinezJeimy.png",
-"ponencia"=>"Estrategia de enseñanza aprendizaje cooperativo para el Bachillerato General Unificado de Ciencias.",
+"foto"=>"MedinaJean.jpg",
+"ponencia"=>"Desarrollo y análisis de harina a base de picudo negro capturado en palmáriun para la elaboración de snacks con alto valor nutricional.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. Jeimy Hernández Martinez.",
+"conferencista"=>"Ing. Jean Paúl Medina, MSc.",
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"https://youtu.be/NyXRdzkL9xI ", "icono"=>"images/video.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1dBTHqCkZ6epViViIMWW7FQ79osbNUdlS/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 array(
-"foto"=>"EstradaRealpekelly.png",
-"ponencia"=>"Prácticas pre profesionales: mecanismo de competencia laboral en el mundo actual.",
+"foto"=>"QuispeMeraAlex.jpg",
+"ponencia"=>"Políticas y estrategias frente al cambio climático en el Ecuador: el camino hacia la gobernanza climática.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc, Kelly Estrada Realpe.",
+"conferencista"=>"Ing. Álex Gabriel Quispe Mera, MSc.",
+"coautor1"=>"",
+"coautor2"=>"",
+"coautor3"=>"",
+"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"", "icono"=>"images/video.png"),
+"diapositiva"=> array("link"=>"", "icono"=>"images/diapositiva.png")),
+
+
+
+array(
+"foto"=>"VillaAchupallasMercedes.jpg",
+"ponencia"=>"Aguas arriba aguas abajo.",
+"bandera"=>"BanderaEcuador.png",
+"conferencista"=>"Ing. Mercedes Villa Achupallas, MSc.",
 "coautor1"=>".",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"https://www.canva.com/design/DAEwrvFHHXs/RZSecDQo4Y7-KD1_XKzD2Q/watch?utm_content=DAEwrvFHHXs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1YPfdOy8lo0x9Q2NWTz88gtk2SIbvN2hl/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"", "icono"=>"images/novideo.png"),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 
 array(
-"foto"=>"RenteriaMaciasHenryJavier.png",
-"ponencia"=>"Competencias digitales estudiantiles e importancia de TIC como eje transversal en la universidad ecuatoriana..",
+"foto"=>"MarquezCarlos.jpg",
+"ponencia"=>"Determinación de viscosidad cinemática para productos opacos.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. Henry Javier Renteria Macias.",
-"coautor1"=>".",
+"conferencista"=>"Carlos Marquez.",
+"coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"https://www.youtube.com/watch?v=3fbBIIf0kIc", "icono"=>"images/video.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1YqawV9i7kDbg7dCTHE3uXgka2diYCiEJ/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
-
-
-
-array(
-"foto"=>"PlataCarlos.jpg",
-"ponencia"=>"Los MOOC en la educación contínua: contribución de la universidad Luis Vargas Torres de Esmeraldas a la comunidad.",
-"bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. Carlos Simon Plata Cabrera.",
-"coautor1"=>"MSc. Henry Javier Renteria Macias.",
-"coautor2"=>"MSc. Pedro Cesar Godoy Rosero.",
-"coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"https://www.canva.com/design/DAEwrW5EiZA/djH-tJD_SAjs01qQMPuksw/watch?utm_content=DAEwrW5EiZA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1RwmvntLO3ioHjSlA-LThqUW0nBPmyJpQ/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"", "icono"=>"images/novideo.png"),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 
@@ -706,7 +707,7 @@ $max=$max2;
 
 
 
-$max=4;
+$max=8;
 
 for($i=0;$i<$max; $i++)
 {
