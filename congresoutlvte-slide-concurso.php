@@ -32,7 +32,7 @@
     <button type="button" data-bs-target="#democ" data-bs-slide-to="2"></button>
     <button type="button" data-bs-target="#democ" data-bs-slide-to="3"></button>
     <button type="button" data-bs-target="#democ" data-bs-slide-to="4"></button>
-    <button type="button" data-bs-target="#democ" data-bs-slide-to="5"></button>
+<!----    <button type="button" data-bs-target="#democ" data-bs-slide-to="5"></button> --->
   </div>
   
   <!-- The slideshow/carousel -->
@@ -64,7 +64,7 @@
       </div>  
     </div>
 
-
+<!---
 <div class="carousel-item">
       <img src="images/concurso/invita.jpg" alt="Invita" class="d-block" style="width:100%">
       <div class="carousel-caption">
@@ -72,7 +72,7 @@
         <p><a class="btn btn-primary my-2"  href="congresoutlvte-inscripcion.php#estudiante-ponente"> Inscribete ya</a></p>
       </div>  
     </div>
-
+--->
 
 <div class="carousel-item">
       <img src="images/slide/EstudiantePonente2.jpg" alt="New York" class="d-block" style="width:100%">
