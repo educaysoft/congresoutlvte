@@ -146,40 +146,40 @@ array(
 
 
 array(
-"foto"=>"FernandezMartinezLauraMargarita.png",
-"ponencia"=>"Vivencia, arte y localidad: Sentido y significado en la formación cultural de los estudiantes universitarios.",
-"bandera"=>"BanderaCuba.png",
-"conferencista"=>"PhD. Laura Margarita Fernández Martínez.",
-"coautor1"=>"PhD. Silvia Idania Ramírez.",
-"coautor2"=>"PhD. Aniuska Tito Durán",
+"foto"=>"AmadorRodriguezBelen.jpg",
+"ponencia"=>"Diálogo epistémico entre Ingeniería Eléctrica y Educación Básica: la interdisciplinariedad sobre cuatro ejes interseccionados.",
+"bandera"=>"BanderaEcuador.png",
+"conferencista"=>"Dra. Belén Amador Rodríguez. PhD.",
+"coautor1"=>"",
+"coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad de Oriente - Cuba.",
+"universidad"=>"Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador.",
 "video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
 array(
-"foto"=>"FrometaQuintanaElaine.png",
-"ponencia"=>"Sistematización teórica de la comunicación oral y escrita en la enseñanzas de lenguas extranjeras desde la interculturalidad.",
-"bandera"=>"BanderaCuba.png",
-"conferencista"=>"PhD. Elaine Frómeta Quintana..",
-"coautor1"=>"MSc. Lizandra Rivero Cruz..",
-"coautor2"=>"MSc. Maricela Alfaro Tamayo.",
+"foto"=>"PillajoHugo.jpg",
+"ponencia"=>"Análisis sísmico experimental de la conexión metálica viga de sección reducida columna compueta.",
+"bandera"=>"BanderaEcuador.png",
+"conferencista"=>"Ing. Hugo Pillajo, M.Sc.",
+"coautor1"=>""
+"coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad de Oriente - Cuba.",
+"universidad"=>"Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador.",
 "video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
 array(
-"foto"=>"SamePerezMariela.png",
-"ponencia"=>"Alernativa comunicacionales desde la formación posgraduada.",
-"bandera"=>"BanderaCuba.png",
-"conferencista"=>"MSc. Mariela Samé Pérez.",
-"coautor1"=>"MSc. María de los Angeles Díaz Garcia.",
-"coautor2"=>"MSc. Dalyn Matamoros Borges.",
+"foto"=>"RuedaGorki.jpg",
+"ponencia"=>"Identificación de causa raíz de fallas en la fluxería del caldero de una central termoeléctrica.",
+"bandera"=>"BanderaEcuador.png",
+"conferencista"=>"Ing. Gorki Ivan Rueda, M.Sc.",
+"coautor1"=>"",
+"coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad de Oriente - Cuba.",
+"universidad"=>"Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador.",
 "video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
@@ -475,7 +475,7 @@ array(
 "foto"=>"MarquezCarlos.jpg",
 "ponencia"=>"Determinación de viscosidad cinemática para productos opacos.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"Carlos Marquez.",
+"conferencista"=>"Est. Carlos Marquez.",
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
@@ -485,14 +485,14 @@ array(
 
 
 array(
-"foto"=>"RamirezMartin.jpg",
-"ponencia"=>"Análisis de competencias adquiridas en el módulo de soldadura en estudiantes de tercero de bachillerato  especialidad mecanizodo y construcciones metálicas de la Unidad Educativa Luis Tello.",
+"foto"=>"ToalaFabian.jpg",
+"ponencia"=>"Estudio prospectivo sobre el interés del estudiantado en temas de domótica, microcontroladores y programación.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"Msc. Martin Mateo Ramirez Marquez.",
-"coautor1"=>"MSc Jimmy Fernado Ramirez Marquez.",
+"conferencista"=>"Est. Fabián Arturo Toala.",
+"coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"https://www.canva.com/design/DAEwrymdoq4/ejyZl5BlHOzCx5FE-nXeUQ/watch?utm_content=DAEwrymdoq4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
+"universidad"=>"Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador.","video"=> array("link"=>"https://www.canva.com/design/DAEwrymdoq4/ejyZl5BlHOzCx5FE-nXeUQ/watch?utm_content=DAEwrymdoq4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
@@ -654,32 +654,6 @@ array(
 "coautor3"=>"",
 "universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"#", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1lKXa4aeuX8AYrFo3FhFRPf7I4FswLAL_/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

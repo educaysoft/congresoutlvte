@@ -197,13 +197,13 @@ Decima segunda inscripción conferencistas internacionales.
 
 
 <div style="padding:20px;">
-Decima tercera inscripción conferencistas internacionales.
+Ponencia magistral .
 </div >
 
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria13.jpg" style="width:100%; ">
+      <img src="images/Memoria/flyer7.jpg" style="width:100%; ">
   </div>
 	</div>  
 
@@ -211,13 +211,13 @@ Decima tercera inscripción conferencistas internacionales.
 
 
 <div style="padding:20px;">
-Decima cuarta inscripción conferencistas internacionales.
+Ponencia magistral .
 </div >
 
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria14.jpg" style="width:100%; ">
+      <img src="images/Memoria/flyer8.jpg" style="width:100%; ">
   </div>
 	</div>  
 
@@ -225,20 +225,20 @@ Decima cuarta inscripción conferencistas internacionales.
 
 
 <div style="padding:20px;">
-Decima quinta inscripción conferencistas internacionales.
+Ponencia magistral .
 </div >
 
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria15.jpg" style="width:100%; ">
+      <img src="images/Memoria/flyer9.jpg" style="width:100%; ">
   </div>
 	</div>  
 
 
 
 <div style="padding:20px;">
-Ponencia magistral conferencista internacional.
+Ponencia magistral .
 </div >
 
 
@@ -249,7 +249,7 @@ Ponencia magistral conferencista internacional.
 	</div>  
 
 <div style="padding:20px;">
-Ponencia magistral conferencista internacional.
+Ponencia magistral.
 </div >
 
 
@@ -262,7 +262,7 @@ Ponencia magistral conferencista internacional.
 
 
 <div style="padding:20px;">
-Ponencia magistral conferencia de cierre.
+Ponencia magistral.
 </div >
 
 
