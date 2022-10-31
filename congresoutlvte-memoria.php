@@ -244,7 +244,7 @@ Ponencia magistral conferencista internacional.
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria16.jpg" style="width:100%; ">
+      <img src="images/Memoria/flyer10.jpg" style="width:100%; ">
   </div>
 	</div>  
 
@@ -255,7 +255,7 @@ Ponencia magistral conferencista internacional.
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria17.jpg" style="width:100%; ">
+      <img src="images/Memoria/flyer11.jpg" style="width:100%; ">
   </div>
 	</div>  
 
@@ -268,7 +268,7 @@ Ponencia magistral conferencia de cierre.
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
   <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria18.jpg" style="width:100%; ">
+      <img src="images/Memoria/flyer12.jpg" style="width:100%; ">
   </div>
 	</div>  
 
