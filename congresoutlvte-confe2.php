@@ -214,20 +214,20 @@ array(
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
-/*
 array(
-"foto"=>"DespaigneNegretOmayra.png",
-"ponencia"=>"La neuroeducación y la optimización del aprendizaje de la lengua extranjera en la primera infancia.",
-"bandera"=>"BanderaCuba.png",
-"conferencista"=>"PhD. Omayda Despaigne Negret.",
-"coautor1"=>"Lic. Roxana Perea Romero.",
-"coautor2"=>"Lic. Miguel Angel Martinez Arías.",
+"foto"=>"ZamoraYansiRichard.jpg",
+"ponencia"=>"La logística de salida tercerizada y su contribución en el desarrollo de los negocios de alimentos industriales.",
+"bandera"=>"BanderaPeru.png",
+"conferencista"=>"Ing. Richard Zamora Yansi, MgS.",
+"coautor1"=>"",
+"coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad de Oriente - Cuba.",
+"universidad"=>"Universidad San Ingnacio de Loyola - Peru.",
 "video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
+/*
 array(
 "foto"=>"LopezDinzaLuisaGisel.png",
 "ponencia"=>"SOS! Vamos a fomentar una cultura ambientalista en los esccolares primarios..",
@@ -538,20 +538,20 @@ array(
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
-/*
 
 array(
-"foto"=>"SimonRicardoFranciscoAngel.png",
-"ponencia"=>"Contribución a la soberanía y seguridad alimentaria del Ecuador.",
+"foto"=>"IntriagoMairongoHolger.jpg",
+"ponencia"=>"Generación de electricidad a partir de biomasa en la asociación de ganaderos de SantoDomingo.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"PhD. Francisco Angel Simón Ricardo.",
-"coautor1"=>"MSc. Leonel Aldana Naranjo.",
-"coautor2"=>"MSc. Evelyn Perea Rodríguez.",
+"conferencista"=>"Ing. Holger Intriago Mairongo.",
+"coautor1"=>"",
+"coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"https://docs.google.com/presentation/d/1lRobYbZqX-DLIByGss0aFB_gK6ux1j-3/edit?usp=sharing&ouid=109171764524505005810&rtpof=true&sd=true", "icono"=>"images/diapositiva.png")),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
+/*
 array(
 "foto"=>"ArroyoPreciadoGabyAdelaida.png",
 "ponencia"=>"Percepción en docentes y estudiantes de la carrera educación básica sobre el modelo educativo.",
@@ -694,7 +694,7 @@ $max=$max2;
 
 
 
-$max=13;
+$max=14;
 
 for($i=0;$i<$max; $i++)
 {

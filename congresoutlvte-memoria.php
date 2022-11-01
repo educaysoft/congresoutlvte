@@ -160,45 +160,11 @@ Novena inscripción conferencistas internacionales.
 
 
 
-<div style="padding:20px;">
-Decima inscripción conferencistas internacionales.
-</div >
-
-
-<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
-  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria10.jpg" style="width:100%; ">
-  </div>
-	</div>  
-
-<div style="padding:20px;">
-Decima primera inscripción conferencistas internacionales.
-</div >
-
-
-<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
-  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria11.jpg" style="width:100%; ">
-  </div>
-	</div>  
-
 
 <div style="padding:20px;">
 Decima segunda inscripción conferencistas internacionales.
 </div >
 
-
-<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
-  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
-      <img src="images/Memoria/Memoria12.jpg" style="width:100%; ">
-  </div>
-	</div>  
-
-
-
-<div style="padding:20px;">
-Ponencia magistral .
-</div >
 
 
 <div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
@@ -271,6 +237,47 @@ Ponencia magistral.
       <img src="images/Memoria/flyer12.jpg" style="width:100%; ">
   </div>
 	</div>  
+
+
+<div style="padding:20px;">
+Ponencia magistral.
+</div>
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/flyer13.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+
+<div style="padding:20px;">
+Ponencia magistral.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/flyer14.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
+
+
+
+<div style="padding:20px;">
+Ponencia magistral.
+</div>
+
+
+<div style=" display: flex; flex-direction:row; justify-content: center; width:100%;" >
+  <div  class="w3-card-4"  style="border:2px solid green; width: 100%; display:flex; justify-content: center; align-items: center;">
+      <img src="images/Memoria/flyer15.jpg" style="width:100%; ">
+  </div>
+	</div>  
+
+
 
 
 
