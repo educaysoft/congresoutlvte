@@ -173,9 +173,9 @@ array(
 
 array(
 "foto"=>"PillajoHugo.jpg",
-"ponencia"=>"Análisis sistémico experimental de la conexión metálica viga de sección reducida, columna compuesta.",
+"ponencia"=>"Análisis sísmico experimental de la conexión metálica viga de sección reducida-columna compuesta.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"Ing. Hugo Pillajo MSc.",
+"conferencista"=>"Ing. Hugo Pillajo Quijia MSc.",
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
