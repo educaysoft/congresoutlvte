@@ -144,38 +144,38 @@ array(
 
 
 
+array(
+"foto"=>"RuedaGorki.jpg",
+"ponencia"=>"Identificación de causa raiz de fallas en la fluxería del caldero de una central termoeléctrica.",
+"bandera"=>"BanderaEcuador.png",
+"conferencista"=>"Ing. Gorki Ivan Rueda M.Sc.",
+"coautor1"=>"",
+"coautor2"=>"",
+"coautor3"=>"",
+"universidad"=>"Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador.",
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
+"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
+
+ 
 array(
 "foto"=>"AmadorRodriguezBelen.jpg",
 "ponencia"=>"Diálogo epistémico entre Ingeniería Eléctrica y Educación Básica: la interdisciplinariedad sobre cuatro ejes interseccionados.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"Dra. Belén Amador Rodríguez. PhD.",
+"conferencista"=>"Dra. Belén Amador Rodríguez, PhD.",
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador.",
+"universidad"=>"Universidad Técnica Luis Vargas Torres del Esmeraldas - Ecuador.",
 "video"=> array("link"=>"", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
+"diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
 array(
 "foto"=>"PillajoHugo.jpg",
-"ponencia"=>"Análisis sísmico experimental de la conexión metálica viga de sección reducida columna compueta.",
+"ponencia"=>"Análisis sistémico experimental de la conexión metálica viga de sección reducida, columna compuesta.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"Ing. Hugo Pillajo, M.Sc.",
-"coautor1"=>""
-"coautor2"=>"",
-"coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador.",
-"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
-
-
-array(
-"foto"=>"RuedaGorki.jpg",
-"ponencia"=>"Identificación de causa raíz de fallas en la fluxería del caldero de una central termoeléctrica.",
-"bandera"=>"BanderaEcuador.png",
-"conferencista"=>"Ing. Gorki Ivan Rueda, M.Sc.",
+"conferencista"=>"Ing. Hugo Pillajo MSc.",
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
@@ -186,46 +186,35 @@ array(
 
 
 
-array(
-"foto"=>"JimenezAlvarezMarisela.png",
-"ponencia"=>"La ensenanza de Lenguas Extranjeras. Algunas experiencias pedagøgicas a través de su sistematización y contextualización.",
-"bandera"=>"BanderaCuba.png",
-"conferencista"=>"PhD. Marisela Jiménez Alvarez.",
-"coautor1"=>"PhD. Isabel Batista Medina.",
-"coautor2"=>"",
-"coautor3"=>"",
-"universidad"=>"Universidad de Oriente - Cuba.",
-"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
-
 
 
 array(
-"foto"=>"RodriguezMestreArelys.png",
-"ponencia"=>"La sistematización en el desarrollo de la competencia sociolinguística en la formación del profesor de inglés.",
-"bandera"=>"BanderaCuba.png",
-"conferencista"=>"PhD. Arelys Rodríguez Mestre.",
-"coautor1"=>"MSc.  Juan Carlos Castellanos Morales.",
+"foto"=>"LainesAlvarezYolanda.jpg",
+"ponencia"=>"Constitución de las empresas del Ecuador y la relación con la firma electrónica 2021.",
+"bandera"=>"BanderaEcuador.png",
+"conferencista"=>"Ing. Yolanda Maria Laines Alvarez MSc.",
+"coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad de Oriente - Cuba.",
+"universidad"=>"Universidad Técnica de Machala.",
 "video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
 array(
-"foto"=>"AlfaroTamayoMarisela.png",
-"ponencia"=>"La competencia comunicativa profesional pedagógica del profesor en formación de lenguas extranjeras en la virtualidad.",
-"bandera"=>"BanderaCuba.png",
-"conferencista"=>"MSc. Marisela Alfaro Tamayo.",
-"coautor1"=>"PhD.  Elaine Frómeta Quintana.",
+"foto"=>"RivasTufinoAlfonso.jpg",
+"ponencia"=>"El estado del control de los riesgos y la materialización del daño en los oleoductos, poliductos y gasoductos.",
+"bandera"=>"BanderaEcuador.png",
+"conferencista"=>"Dr. Alfonso Eduardo Rivas Tufiño, PH.",
+"coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad de Oriente - Cuba.",
+"universidad"=>"Universidad Técnica Luis Vargas Torres de Esmeradlas - Ecuador.",
 "video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
+/*
 array(
 "foto"=>"DespaigneNegretOmayra.png",
 "ponencia"=>"La neuroeducación y la optimización del aprendizaje de la lengua extranjera en la primera infancia.",
@@ -358,7 +347,7 @@ array(
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
-
+ */
 
 
 );
@@ -470,18 +459,41 @@ array(
 "diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
 
-
 array(
 "foto"=>"MarquezCarlos.jpg",
 "ponencia"=>"Determinación de viscosidad cinemática para productos opacos.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"Est. Carlos Marquez.",
+"conferencista"=>"Carlos Marquez.",
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"", "icono"=>"images/nodiapositiva.png")),
 
+
+
+array(
+"foto"=>"BaqueroSamaniegoSteven.jpg",
+"ponencia"=>"Análisis de las estrategias competitivas internacionales y la identidad corporativa universitaria: caso Universidad  Técnica de Machala.",
+"bandera"=>"BanderaEcuador.png",
+"conferencista"=>"Est. Baquero Samaniego Steven.",
+"coautor1"=>"",
+"coautor2"=>"",
+"coautor3"=>"",
+"universidad"=>"Universidad Técnica de Machala -Ecuador.","video"=> array("link"=>"https://www.canva.com/design/DAEwrymdoq4/ejyZl5BlHOzCx5FE-nXeUQ/watch?utm_content=DAEwrymdoq4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/novideo.png"),
+"diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
+
+
+array(
+"foto"=>"HurtadoPortocarreroDiego.jpg",
+"ponencia"=>"Propuesta de diseño ingenieril para construcción de un hidrodestilador, en condiciones eco-sustentable para la obtención de aceites asenciales.",
+"bandera"=>"BanderaEcuador.png",
+"conferencista"=>"Est. Diego Hurtado Portocarrero.",
+"coautor1"=>"",
+"coautor2"=>"",
+"coautor3"=>"",
+"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"", "icono"=>"images/novideo.png"),
+"diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
 array(
@@ -492,27 +504,19 @@ array(
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador.","video"=> array("link"=>"https://www.canva.com/design/DAEwrymdoq4/ejyZl5BlHOzCx5FE-nXeUQ/watch?utm_content=DAEwrymdoq4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
+"universidad"=>"Universidad Técnica Luis Vargas Torres de Esmeraldas - Ecuador.",
+"video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
-array(
-"foto"=>"QuispeMeraAlex.png",
-"ponencia"=>"Ordenamiento territorial rural y la gestión de riesgo en el marco de los objetivos de desarrollo sostenible.",
-"bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. Alex Quispe Mera.",
-"coautor1"=>"",
-"coautor2"=>"",
-"coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"", "icono"=>"images/novideo.png"),
-"diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
+
 
 
 array(
-"foto"=>"HurtadoDiego.png",
-"ponencia"=>"Derechos del buen vivir: Una mirada a la constitución de la República del Ecuador año 2008.",
+"foto"=>"OchoaGonzalezFranklin.jpg",
+"ponencia"=>"Análisis y predicción de las precipitaciones con inteligencia artificial en Esmeraldas - Ecuador.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. Diego Hurtado.",
+"conferencista"=>"Ing. Franklin Ochoa González, MSc.",
 "coautor1"=>".",
 "coautor2"=>"",
 "coautor3"=>"",
@@ -520,18 +524,21 @@ array(
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
+
+
 array(
-"foto"=>"GuapiGuamanFaustoIvan.png",
-"ponencia"=>"Habilidades investigativas en estudiantes de la carrera Pedagogía de la actividad física y deporte UTELVT.",
+"foto"=>"FrancisQuindeStalin.jpg",
+"ponencia"=>"Herramientas para trabajo colaborativo en Fundamentos de programación: GitHub caso de estudio.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"MSc. Fausto Ivan Guapi Guamán.",
+"conferencista"=>"Ing. Stalin Francis Quinde, MSc.",
 "coautor1"=>"",
 "coautor2"=>"",
 "coautor3"=>"",
-"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"https://www.canva.com/design/DAEwxAnKa14/QZmSn3QpOV6_zJZ8qklfTA/watch?utm_content=DAEwxAnKa14&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/video.png"),
+"universidad"=>"Universidad Técnica Luis Vargas Torres.","video"=> array("link"=>"", "icono"=>"images/novideo.png"),
 "diapositiva"=> array("link"=>"#", "icono"=>"images/nodiapositiva.png")),
 
 
+/*
 
 array(
 "foto"=>"SimonRicardoFranciscoAngel.png",
@@ -658,6 +665,12 @@ array(
 
 
 
+ */
+
+
+
+
+
 
 
 );
@@ -681,7 +694,7 @@ $max=$max2;
 
 
 
-$max=8;
+$max=13;
 
 for($i=0;$i<$max; $i++)
 {
