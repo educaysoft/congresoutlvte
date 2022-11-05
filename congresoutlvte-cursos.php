@@ -59,7 +59,7 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button  onclick="location.href='congresoutlvte-biografia2.php'" type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
-                  <button disabled type="button" class="btn btn-sm btn-outline-secondary">CURSO</button>
+                  <button onclick='location.href='https://www.youtube.com/watch?v=rmiauIKa4kk&list=PLe-FpXijp6_qocjxhCXEhXUQQWAouFTa_&index=12'    type="button" class="btn btn-sm btn-outline-secondary">CURSO</button>
                 </div>
              <!---   <small class="text-muted">9 mins</small>  -->
               </div>
