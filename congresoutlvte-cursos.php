@@ -38,7 +38,8 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                    <button  onclick="location.href='congresoutlvte-biografia1.php'"    type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
-                  <button disabled onclick="location.href='#'" type="button" class="btn btn-sm btn-outline-secondary">CURSO</button>
+                  <button disabled onclick="location.href='https://www.youtube.com/watch?v=7VSVb24QedU'" type="button" class="btn btn-sm btn-outline-secondary">VIDEO</button>
+                  <button disabled onclick="location.href='Diapositivas/HerediaMario.pdf'" type="button" class="btn btn-sm btn-outline-secondary">SLIDE</button>
                 </div>
               </div>
             </div>
@@ -59,8 +60,8 @@
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
                   <button  onclick="location.href='congresoutlvte-biografia2.php'" type="button" class="btn btn-sm btn-outline-secondary">BIOGRAFÍA</button>
-                  <button onclick="location.href='https://www.youtube.com/watch?v=rmiauIKa4kk&list=PLe-FpXijp6_qocjxhCXEhXUQQWAouFTa_&index=12'"    type="button" class="btn btn-sm btn-outline-secondary">CURSO</button>
-                </div>
+	  <button onclick="location.href='https://www.youtube.com/watch?v=rmiauIKa4kk&list=PLe-FpXijp6_qocjxhCXEhXUQQWAouFTa_&index=12'"    type="button" class="btn btn-sm btn-outline-secondary">VIDEO</button>
+	</div>
              <!---   <small class="text-muted">9 mins</small>  -->
               </div>
             </div>
