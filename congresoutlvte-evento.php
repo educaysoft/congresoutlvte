@@ -61,76 +61,16 @@ include("head.php");
 
 
 
-
-
-
-
-
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7VSVb24QedU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="fsaludo" style="  border-top: 2px solid green; background-color:gray;   width: 100%; margin:0px auto; margin-bottom: 100px; padding-top: 50px; padding-bottom: 100px; display: flex; flex-direction:column ; ">
-
-
-<div class="delimitador">
-<div class="contenedor">
-<center>
-<iframe id="idiframe" src="https://www.youtube.com/embed/6Li7uG0QpAU"></iframe>
-</center>
-</div>
-<div class="content" >
-  <h1>Día No. 2: 02 - Diciembre -2021  -  PONENCIAS (JORNADA MAÑANA) </h1>
-</div>
-</div>
-</div>
-
-
-
-
-
-<div id="fsaludo" style="  border-top: 2px solid green; background-color:gray;   width: 100%; margin:0px auto; margin-bottom: 100px; padding-top: 50px; padding-bottom: 100px; display: flex; flex-direction:column ; ">
-
-
-<div class="delimitador">
-<div class="contenedor">
-<center>
-<iframe id="idiframe" src="https://www.youtube.com/embed/JZkL9b49S0M"></iframe>
-</center>
-</div>
-<div class="content" >
-  <h1>Día No. 2: 02 - Diciembre -2021  -  PONENCIAS (JORNADA TARDE) </h1>
-</div>
-</div>
-
-</div>
-
-
-
 <div id="fsaludo" style="  border-top: 2px solid green; background-color:gray;   width: 100%; margin:0px auto; margin-bottom: 100px; padding-top: 50px; padding-bottom: 100px; display: flex; flex-direction:column ; ">
 
 <div class="delimitador">
 <div class="contenedor">
 <center>
-<iframe id="idiframe" src="https://www.youtube.com/embed/8yTs1WPRSeE"></iframe>
+<iframe id="idiframe" id="idiframe" src="https://www.youtube.com/embed/sebcx0PEDmU?autoplay=0"></iframe>
 </center>
 </div>
 <div class="content" >
-  <h1>Día No. 3: 03 - Diciembre -2021  -  ÚLTIMAS PONENCIAS (JORNADA MAÑANA) </h1>
+  <h1>Día No. 3: 09 - noviembre -2022 -   PONENCIAS (Jornada mañana)</h1>
 </div>
 </div>
 
@@ -138,19 +78,38 @@ include("head.php");
 
 
 
-<div id="fsaludo" style="  border-top: 2px solid green; background-color:gray;   width: 100%; margin:0px auto; margin-bottom: 100px; padding-top: 50px; padding-bottom: 100px; display: flex; flex-direction:column ; ">
-<div class="delimitador">
-<div class="contenedor">
-<center>
-<iframe id="idiframe" src="https://www.youtube.com/embed/IC3e95hm524"></iframe>
-</center>
-</div>
-<div class="content" >
-  <h1>Día No. 3: 03 - Diciembre -2021  -  CLAUSURA DEL CONGRESO (JORNADA TARDE) </h1>
-</div>
-</div>
 
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
