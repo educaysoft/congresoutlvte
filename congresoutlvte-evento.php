@@ -25,6 +25,26 @@ include("head.php");
 
 <div id="fsaludo" style="  border-top: 2px solid green; background-color:gray;   width: 100%; margin:0px auto; margin-bottom: 100px; padding-top: 50px; padding-bottom: 100px; display: flex; flex-direction:column ; ">
 
+
+<div class="delimitador">
+<div class="contenedor">
+<center>
+<iframe  id="idiframe" src=" https://www.youtube.com/embed/7VSVb24QedU"></iframe>
+</center>
+</div>
+<div class="content" >
+  <h1>Día No. -1: 05 - Noviembre -2022  -  PRECONGRESO </h1>
+</div>
+</div>
+
+</div>
+
+
+
+
+
+<div id="fsaludo" style="  border-top: 2px solid green; background-color:gray;   width: 100%; margin:0px auto; margin-bottom: 100px; padding-top: 50px; padding-bottom: 100px; display: flex; flex-direction:column ; ">
+
 <div class="delimitador">
 <div class="contenedor">
 <center>
@@ -46,25 +66,11 @@ include("head.php");
 
 
 
-<div id="fsaludo" style="  border-top: 2px solid green; background-color:gray;   width: 100%; margin:0px auto; margin-bottom: 100px; padding-top: 50px; padding-bottom: 100px; display: flex; flex-direction:column ; ">
-
-
-<div class="delimitador">
-<div class="contenedor">
-<center>
-<iframe  id="idiframe" src="https://www.youtube.com/embed/iF6qb5ATbaE"></iframe>
-</center>
-</div>
-<div class="content" >
-  <h1>Día No. 1: 07 - Noviembre -2022  -  PONENCIAS (JORNADA TARDE) </h1>
-</div>
-</div>
-
-</div>
 
 
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7VSVb24QedU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
