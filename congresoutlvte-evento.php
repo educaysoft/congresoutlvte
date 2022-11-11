@@ -26,17 +26,15 @@ include("head.php");
 <div class="delimitador">
 <div class="contenedor">
 <center>
-<iframe id="idiframe" id="idiframe" src="https://www.youtube.com/embed/qKRjJPqFyoo?autoplay=0"></iframe>
+<iframe id="idiframe" id="idiframe" src="https://www.youtube.com/embed/MyiqQh81wNg?autoplay=0"></iframe>
 </center>
 </div>
 <div class="content" >
-  <h1>Día No. 1: 01 - Diciembre -2021 -  INAUGURACIÓN</h1>
+  <h1>Día No. 1: 07 - noviembre -2022 -  INAUGURACIÓN Y PONENCIAS</h1>
 </div>
 </div>
 
 </div>
-
-
 
 
 
@@ -56,7 +54,7 @@ include("head.php");
 </center>
 </div>
 <div class="content" >
-  <h1>Día No. 1: 01 - Diciembre -2021  -  PONENCIAS (JORNADA TARDE) </h1>
+  <h1>Día No. 1: 07 - Noviembre -2022  -  PONENCIAS (JORNADA TARDE) </h1>
 </div>
 </div>
 
