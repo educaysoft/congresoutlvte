@@ -31,7 +31,7 @@ include("head.php");
 </center>
 </div>
 <div class="content" >
-  <h1>Día No. -1: 04 -  Noviembre -2022  -  PRECONGRESO </h1>
+  <h1>Día No. -2: 04 -  Noviembre -2022  -  PRECONGRESO </h1>
 </div>
 </div>
 
