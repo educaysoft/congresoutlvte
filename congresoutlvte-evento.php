@@ -9,7 +9,7 @@ include("head0.php");
 include("head.php");
 ?>
 <div style="  display:flex;flex-direction: column; background-color: white;">
-<div style="width: 60%; margin:0px auto;">
+<div style="width: 100%; margin:0px auto; padding 10px;">
 
 
 
