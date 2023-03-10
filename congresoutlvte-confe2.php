@@ -473,11 +473,11 @@ array(
 
 
 array(
-"foto"=>"BaqueroSamaniegoSteven.jpg",
+"foto"=>"PeraltaMochaMariaBeatriz.jpg",
 "ponencia"=>"Análisis de las estrategias competitivas internacionales y la identidad corporativa universitaria: caso Universidad  Técnica de Machala.",
 "bandera"=>"BanderaEcuador.png",
-"conferencista"=>"Est. Baquero Samaniego Steven.",
-"coautor1"=>"",
+"conferencista"=>"Peralta Mocha Maria Beatris, Mg.",
+"coautor1"=>"Merino Velásquez Jesus, Mg.",
 "coautor2"=>"",
 "coautor3"=>"",
 "universidad"=>"Universidad Técnica de Machala -Ecuador.","video"=> array("link"=>"https://www.canva.com/design/DAEwrymdoq4/ejyZl5BlHOzCx5FE-nXeUQ/watch?utm_content=DAEwrymdoq4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink", "icono"=>"images/novideo.png"),
